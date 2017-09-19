@@ -7,7 +7,7 @@
 	"accounts":"http://ubiq.minerpool.net/api/accounts",
   	"miners":"http://ubiq.minerpool.net/api/miners",
 	"url":"minerpool.net", 
-        "notify":""
+        "notify":"support@minerpool.net"
     },
     {  
 	"name":"CHINA UBIQ POOL", 

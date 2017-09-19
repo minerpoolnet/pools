@@ -5,7 +5,7 @@ This repo is used as a central data source. Please keep in mind that this data w
 If you want to be listed please send your pull request to the <coin>.json you want to be listed in with your pool. If the coin want to be listed in is not available at the moment open up an issue and we'll see if we can support the coin.
 
 Data format at the moment e.g.: 
-'''
+```json
     {  
 	"name":"<how the pool will be shown in the lists>", 
 	"stats":"https://<api fqdn with our without :port>/api/stats", 
@@ -16,7 +16,7 @@ Data format at the moment e.g.:
 	"url":"<fqdn only without protocol or ports!>", 
 	"notify":"<your email adress for later notifying>"
     },
-'''
+```
 	
 To be done: 
 - Complete rework of the souce code, changes in the data structure (in work at the moment / 30%)

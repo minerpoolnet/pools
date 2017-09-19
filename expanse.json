@@ -4,7 +4,9 @@
 	"stats":"http://exp.minerpool.net/api/stats",
 	"blocks":"http://exp.minerpool.net/api/blocks",
 	"payments":"http://exp.minerpool.net/api/payments",
-	"url":"minerpool.net",
+	"accounts":"http://exp.minerpool.net/api/accounts",
+  	"miners":"http://exp.minerpool.net/api/miners",
+	"url":"minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

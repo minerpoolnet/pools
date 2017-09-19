@@ -11,7 +11,7 @@ Data format at the moment e.g.:
 	"stats":"https://<api fqdn with our without :port>/api/stats", 
 	"blocks":"https://<api fqdn with our without :port>/api/blocks", 
 	"payments":"https://<api fqdn with our without :port>/api/payments",
-  "miners":"https://<api fqdn with our without :port>/api/miners",
+  	"miners":"https://<api fqdn with our without :port>/api/miners",
 	"url":"<fqdn only without protocol or ports!>", 
         "notify":"<your email adress for later notifying>"
     },

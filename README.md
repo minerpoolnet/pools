@@ -13,7 +13,7 @@ Data format at the moment e.g.:
 	"payments":"https://<api fqdn with our without :port>/api/payments",
   	"miners":"https://<api fqdn with our without :port>/api/miners",
 	"url":"<fqdn only without protocol or ports!>", 
-        "notify":"<your email adress for later notifying>"
+	"notify":"<your email adress for later notifying>"
     },
     
 To be done: 

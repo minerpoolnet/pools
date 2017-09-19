@@ -4,7 +4,9 @@
         "stats":"http://whale.minerpool.net/api/stats",
         "blocks":"http://whale.minerpool.net/api/blocks",
         "payments":"http://whale.minerpool.net/api/payments",
-        "url":"minerpool.net",
+	"accounts":"http://whale.minerpool.net/api/accounts",
+  	"miners":"http://whale.minerpool.net/api/miners",
+	"url":"minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

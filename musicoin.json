@@ -4,8 +4,10 @@
 	"stats":"http://music.minerpool.net/api/stats", 
 	"blocks":"http://music.minerpool.net/api/blocks", 
 	"payments":"http://music.minerpool.net/api/payments", 
+	"accounts":"http://music.minerpool.net/api/accounts",
+  	"miners":"http://music.minerpool.net/api/miners",
 	"url":"minerpool.net", 
-        "notify":""
+        "notify":"support@minerpool.net"
     },
     {  
 	"name":"DHIX", 

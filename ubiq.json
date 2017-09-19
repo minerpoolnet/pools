@@ -4,6 +4,8 @@
 	"stats":"http://ubiq.minerpool.net/api/stats", 
 	"blocks":"http://ubiq.minerpool.net/api/blocks", 
 	"payments":"http://ubiq.minerpool.net/api/payments", 
+	"accounts":"http://ubiq.minerpool.net/api/accounts",
+  	"miners":"http://ubiq.minerpool.net/api/miners",
 	"url":"minerpool.net", 
         "notify":""
     },

@@ -20,7 +20,7 @@ Data format at the moment:
 For e.g. open-ethereum-pool operators the different api paths will be mostly identical, but are still separated for other configurations. 
 	
 To be done: 
-- Complete rework of the souce code, changes in the data structure (in work at the moment / 30%)
+- Complete rework of the souce code, changes in the data structure (in work at the moment / 70% done)
 - Miner tracking, to identify pool hoppers
 - Notifications to the pool operators in case of errors 
 - Notifications to the miners in the case one of the rigs goes down 

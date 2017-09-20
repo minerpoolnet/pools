@@ -84,8 +84,8 @@
 	"stats":"https://ubiq.hakopool.com/api/stats", 
 	"blocks":"https://ubiq.hakopool.com/api/blocks", 
 	"payments":"https://ubiq.hakopool.com/api/payments", 
-	"accounts":"http://ubiq.hakopool.com/api/accounts",
-  	"miners":"http://ubiq.hakopool.com/api/miners",
+	"accounts":"https://ubiq.hakopool.com/api/accounts",
+  	"miners":"https://ubiq.hakopool.com/api/miners",
 	"url":"ubiq.hakopool.com", 
         "notify":""
     },
@@ -94,8 +94,8 @@
 	"stats":"https://ubiqpool.io/api/stats", 
 	"blocks":"https://ubiqpool.io/api/blocks", 
 	"payments":"https://ubiqpool.io/api/payments", 
-	"accounts":"http://ubiqpool.io/api/accounts",
-  	"miners":"http://ubiqpool.io/api/miners",
+	"accounts":"https://ubiqpool.io/api/accounts",
+  	"miners":"https://ubiqpool.io/api/miners",
 	"url":"ubiqpool.io", 
         "notify":""
     },
@@ -174,8 +174,8 @@
 	"stats":"https://ubq.epool.io/api/stats", 
 	"blocks":"https://ubq.epool.io/api/blocks", 
 	"payments":"https://ubq.epool.io/api/payments", 
-	"accounts":"http://ubq.epool.io/api/accounts",
-  	"miners":"http://ubq.epool.io/api/miners",
+	"accounts":"https://ubq.epool.io/api/accounts",
+  	"miners":"https://ubq.epool.io/api/miners",
 	"url":"ubq.epool.io", 
         "notify":""
     }

@@ -124,8 +124,8 @@
 	"stats":"https://api.exp.mypool.online/api/stats",
 	"blocks":"https://api.exp.mypool.online/api/blocks",
 	"payments":"https://api.exp.mypool.online/api/payments",
-	"accounts":"http://api.exp.mypool.online/api/accounts",
-  	"miners":"http://api.exp.mypool.online/api/miners",
+	"accounts":"https://api.exp.mypool.online/api/accounts",
+  	"miners":"https://api.exp.mypool.online/api/miners",
 	"url":"exp.mypool.online",
         "notify":""
     }

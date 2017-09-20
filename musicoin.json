@@ -14,6 +14,8 @@
 	"stats":"https://music.dhix.com.br/api/stats", 
 	"blocks":"https://music.dhix.com.br/api/blocks", 
 	"payments":"https://music.dhix.com.br/api/payments", 
+	"accounts":"https://music.dhix.com.br/api/accounts",
+  	"miners":"https://music.dhix.com.br/api/miners",
 	"url":"music.dhix.com.br", 
         "notify":""
     },
@@ -22,6 +24,8 @@
 	"stats":"https://mc.zet-tech.eu/api/stats", 
 	"blocks":"https://mc.zet-tech.eu/api/blocks", 
 	"payments":"https://mc.zet-tech.eu/api/payments", 
+	"accounts":"https://mc.zet-tech.eu/api/accounts",
+  	"miners":"https://mc.zet-tech.eu/api/miners",
 	"url":"mc.zet-tech.eu", 
         "notify":""
     },
@@ -30,6 +34,8 @@
 	"stats":"https://gmc.epool.io/api/stats", 
 	"blocks":"https://gmc.epool.io/api/blocks", 
 	"payments":"https://gmc.epool.io/api/payments", 
+	"accounts":"https://gmc.epool.io/api/accounts",
+  	"miners":"https://gmc.epool.io/api/miners",
 	"url":"gmc.epool.io", 
         "notify":""
     },
@@ -38,6 +44,8 @@
 	"stats":"http://music.spdns.eu/api/stats", 
 	"blocks":"http://music.spdns.eu/api/blocks", 
 	"payments":"http://music.spdns.eu/api/payments", 
+	"accounts":"http://music.spdns.eu/api/accounts",
+  	"miners":"http://music.spdns.eu/api/miners",
 	"url":"music.spdns.eu", 
         "notify":""
     },
@@ -46,6 +54,8 @@
 	"stats":"http://musicoin.nomnom.technology/api/stats", 
 	"blocks":"http://musicoin.nomnom.technology/api/blocks", 
 	"payments":"http://musicoin.nomnom.technology/api/payments", 
+	"accounts":"http://musicoin.nomnom.technology/api/accounts",
+  	"miners":"http://musicoin.nomnom.technology/api/miners",
 	"url":"musicoin.nomnom.technology", 
         "notify":""
     },
@@ -54,6 +64,8 @@
 	"stats":"http://neonpool.ddns.net/api/stats", 
 	"blocks":"http://neonpool.ddns.net/api/blocks", 
 	"payments":"http://neonpool.ddns.net/api/payments", 
+	"accounts":"http://neonpool.ddns.net/api/accounts",
+  	"miners":"http://neonpool.ddns.net/api/miners",
 	"url":"neonpool.ddns.net", 
         "notify":""
     },
@@ -62,6 +74,8 @@
 	"stats":"http://musicminers.org/api/stats", 
 	"blocks":"http://musicminers.org/api/blocks", 
 	"payments":"http://musicminers.org/api/payments", 
+	"accounts":"http://musicminers.org/api/accounts",
+  	"miners":"http://musicminers.org/api/miners",
 	"url":"musicminers.org", 
         "notify":""
     },
@@ -70,6 +84,8 @@
 	"stats":"http://46.101.61.172:8080/api/stats", 
 	"blocks":"http://46.101.61.172:8080/api/blocks", 
 	"payments":"http://46.101.61.172:8080/api/payments", 
+	"accounts":"http://46.101.61.172:8080/api/accounts",
+  	"miners":"http://46.101.61.172:8080/api/miners",
 	"url":"mc.minecrypto.pro", 
         "notify":""
     },
@@ -78,6 +94,8 @@
 	"stats":"https://mc.coin-miners.info/api/stats", 
 	"blocks":"https://mc.coin-miners.info/api/blocks", 
 	"payments":"https://mc.coin-miners.info/api/payments", 
+	"accounts":"https://mc.coin-miners.info/api/accounts",
+  	"miners":"https://mc.coin-miners.info/api/miners",
 	"url":"mc.coin-miners.info", 
         "notify":""
     },
@@ -86,6 +104,8 @@
 	"stats":"https://pool.musicoin.tw/api/stats", 
 	"blocks":"https://pool.musicoin.tw/api/blocks", 
 	"payments":"https://pool.musicoin.tw/api/payments", 
+	"accounts":"https://pool.musicoin.tw/api/accounts",
+  	"miners":"https://pool.musicoin.tw/api/miners",
 	"url":"pool.musicoin.tw", 
         "notify":""
     },
@@ -94,6 +114,8 @@
 	"stats":"http://mscams.globalmine.net/api/stats", 
 	"blocks":"http://mscams.globalmine.net/api/blocks", 
 	"payments":"http://mscams.globalmine.net/api/payments", 
+	"accounts":"http://mscams.globalmine.net/api/accounts",
+  	"miners":"http://mscams.globalmine.net/api/miners",
 	"url":"mscams.globalmine.net", 
         "notify":""
     },
@@ -102,6 +124,8 @@
 	"stats":"https://api.music.mypool.online/api/stats", 
 	"blocks":"https://api.music.mypool.online/api/blocks", 
 	"payments":"https://api.music.mypool.online/api/payments", 
+	"accounts":"https://api.music.mypool.online/api/accounts",
+  	"miners":"https://api.music.mypool.online/api/miners",
 	"url":"music.mypool.online", 
         "notify":""
     },
@@ -110,6 +134,8 @@
 	"stats":"https://musicapi.mixpools.org/api/stats", 
 	"blocks":"https://musicapi.mixpools.org/api/blocks", 
 	"payments":"https://musicapi.mixpools.org/api/payments", 
+	"accounts":"https://musicapi.mixpools.org/api/accounts",
+  	"miners":"https://musicapi.mixpools.org/api/miners",
 	"url":"mixpools.org", 
         "notify":""
     },
@@ -118,6 +144,8 @@
 	"stats":"http://mc.terrahash.cc/api/stats", 
 	"blocks":"http://mc.terrahash.cc/api/blocks", 
 	"payments":"http://mc.terrahash.cc/api/payments", 
+	"accounts":"http://mc.terrahash.cc/api/accounts",
+  	"miners":"http://mc.terrahash.cc/api/miners",
 	"url":"mc.terrahash.cc", 
         "notify":""
     },
@@ -126,6 +154,8 @@
 	"stats":"http://music.orchardcoins.com/api/stats", 
 	"blocks":"http://music.orchardcoins.com/api/blocks", 
 	"payments":"http://music.orchardcoins.com/api/payments", 
+	"accounts":"http://music.orchardcoins.com/api/accounts",
+  	"miners":"http://music.orchardcoins.com/api/miners",
 	"url":"music.orchardcoins.com", 
         "notify":""
     },
@@ -133,7 +163,9 @@
 	"name":"COINMINER", 
 	"stats":"http://music.coinminer.space/api/stats", 
 	"blocks":"http://music.coinminer.space/api/blocks", 
-	"payments":"http://music.coinminer.space/api/payments", 
+	"payments":"http://music.coinminer.space/api/payments",
+	"accounts":"http://music.coinminer.space/api/accounts",
+  	"miners":"http://music.coinminer.space/api/miners",
 	"url":"music.coinminer.space", 
         "notify":""
     },
@@ -142,6 +174,8 @@
 	"stats":"http://mcpool.servehttp.com/api/stats", 
 	"blocks":"http://mcpool.servehttp.com/api/blocks", 
 	"payments":"http://mcpool.servehttp.com/api/payments", 
+	"accounts":"http://mcpool.servehttp.com/api/accounts",
+  	"miners":"http://mcpool.servehttp.com/api/miners",
 	"url":"mcpool.servehttp.com", 
         "notify":""
     },
@@ -150,6 +184,8 @@
 	"stats":"https://emc.epool.io/api/stats", 
 	"blocks":"https://emc.epool.io/api/blocks", 
 	"payments":"https://emc.epool.io/api/payments", 
+	"accounts":"https://emc.epool.io/api/accounts",
+  	"miners":"https://emc.epool.io/api/miners",
 	"url":"emc.epool.io", 
         "notify":""
     },
@@ -158,6 +194,8 @@
 	"stats":"http://mc.hodlpool.com/api/stats", 
 	"blocks":"http://mc.hodlpool.com/api/blocks", 
 	"payments":"http://mc.hodlpool.com/api/payments", 
+	"accounts":"http://mc.hodlpool.com/api/accounts",
+  	"miners":"http://mc.hodlpool.com/api/miners",
 	"url":"mc.hodlpool.com", 
         "notify":""
     },
@@ -166,6 +204,8 @@
 	"stats":"http://musicoin.miningclub.info/api/stats", 
 	"blocks":"http://musicoin.miningclub.info/api/blocks", 
 	"payments":"http://musicoin.miningclub.info/api/payments", 
+	"accounts":"http://musicoin.miningclub.info/api/accounts",
+  	"miners":"http://musicoin.miningclub.info/api/miners",
 	"url":"musicoin.miningclub.info", 
         "notify":""
     },
@@ -174,6 +214,8 @@
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 
 	"payments":"http://musicpool.rig-share.com:8080/api/payments", 
+	"accounts":"http://musicpool.rig-share.com:8080/api/accounts",
+  	"miners":"http://musicpool.rig-share.com:8080/api/miners",
 	"url":"coins.farm", 
         "notify":""
     }

@@ -14,6 +14,8 @@
 	"stats":"http://pool.expanse.tech/api/stats",
 	"blocks":"http://pool.expanse.tech/api/blocks",
 	"payments":"http://pool.expanse.tech/api/payments",
+	"accounts":"http://pool.expanse.tech/api/accounts",
+  	"miners":"http://pool.expanse.tech/api/miners",
 	"url":"pool.expanse.tech",
         "notify":""
     },
@@ -22,6 +24,8 @@
 	"stats":"http://exp.hodlpool.com/api/stats",
 	"blocks":"http://exp.hodlpool.com/api/blocks",
 	"payments":"http://exp.hodlpool.com/api/payments",
+	"accounts":"http://exp.hodlpool.com/api/accounts",
+  	"miners":"http://exp.hodlpool.com/api/miners",
 	"url":"exp.hodlpool.com",
         "notify":""
     },
@@ -30,6 +34,8 @@
 	"stats":"http://exp.akasha-pool.eu/api/stats",
 	"blocks":"http://exp.akasha-pool.eu/api/blocks",
 	"payments":"http://exp.akasha-pool.eu/api/payments",
+	"accounts":"http://exp.akasha-pool.eu/api/accounts",
+  	"miners":"http://exp.akasha-pool.eu/api/miners",
 	"url":"exp.akasha-pool.eu",
         "notify":""
     },
@@ -38,6 +44,8 @@
 	"stats":"http://exp.minandoando.com/api/stats",
 	"blocks":"http://exp.minandoando.com/api/blocks",
 	"payments":"http://exp.minandoando.com/api/payments",
+	"accounts":"http://exp.minandoando.com/api/accounts",
+  	"miners":"http://exp.minandoando.com/api/miners",
 	"url":"exp.minandoando.com",
         "notify":""
     },
@@ -46,6 +54,8 @@
 	"stats":"http://exppool.servehttp.com/api/stats",
 	"blocks":"http://exppool.servehttp.com/api/blocks",
 	"payments":"http://exppool.servehttp.com/api/payments",
+	"accounts":"http://exppool.servehttp.com/api/accounts",
+  	"miners":"http://exppool.servehttp.com/api/miners",
 	"url":"exppool.servehttp.com",
         "notify":""
     },
@@ -54,6 +64,8 @@
 	"stats":"http://clona.ru:2828/api/stats",
 	"blocks":"http://clona.ru:2828/api/blocks",
 	"payments":"http://clona.ru:2828/api/payments",
+	"accounts":"http://clona.ru:2828/api/accounts",
+  	"miners":"http://clona.ru:2828/api/miners",
 	"url":"clona.ru",
         "notify":""
     },
@@ -62,6 +74,8 @@
 	"stats":"http://exp.digger.ws/api/stats",
 	"blocks":"http://exp.digger.ws/api/blocks",
 	"payments":"http://exp.digger.ws/api/payments",
+	"accounts":"http://exp.digger.ws/api/accounts",
+  	"miners":"http://exp.digger.ws/api/miners",
 	"url":"exp.digger.ws",
         "notify":""
     },
@@ -70,6 +84,8 @@
 	"stats":"http://expanse.minerape.io/api/stats",
 	"blocks":"http://expanse.minerape.io/api/blocks",
 	"payments":"http://expanse.minerape.io/api/payments",
+	"accounts":"http://expanse.minerape.io/api/accounts",
+  	"miners":"http://expanse.minerape.io/api/miners",
 	"url":"expanse.minerape.io",
         "notify":""
     },
@@ -78,6 +94,8 @@
 	"stats":"http://expanse.ftlpool.com/api/stats",
 	"blocks":"http://expanse.ftlpool.com/api/blocks",
 	"payments":"http://expanse.ftlpool.com/api/payments",
+	"accounts":"http://expanse.ftlpool.com/api/accounts",
+  	"miners":"http://expanse.ftlpool.com/api/miners",
 	"url":"expanse.ftlpool.com",
         "notify":""
     },
@@ -86,6 +104,8 @@
 	"stats":"http://145.239.134.14:8080/api/stats",
 	"blocks":"http://145.239.134.14:8080/api/blocks",
 	"payments":"http://145.239.134.14:8080/api/payments",
+	"accounts":"http://145.239.134.14:8080/api/accounts",
+  	"miners":"http://145.239.134.14:8080/api/miners",
 	"url":"exp.nextpool.eu",
         "notify":""
     },
@@ -94,6 +114,8 @@
 	"stats":"http://exp.ethertrench.com/api/stats",
 	"blocks":"http://exp.ethertrench.com/api/blocks",
 	"payments":"http://exp.ethertrench.com/api/payments",
+	"accounts":"http://exp.ethertrench.com/api/accounts",
+  	"miners":"http://exp.ethertrench.com/api/miners",
 	"url":"exp.ethertrench.com",
         "notify":""
     },
@@ -102,6 +124,8 @@
 	"stats":"https://api.exp.mypool.online/api/stats",
 	"blocks":"https://api.exp.mypool.online/api/blocks",
 	"payments":"https://api.exp.mypool.online/api/payments",
+	"accounts":"http://api.exp.mypool.online/api/accounts",
+  	"miners":"http://api.exp.mypool.online/api/miners",
 	"url":"exp.mypool.online",
         "notify":""
     }

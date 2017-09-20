@@ -14,6 +14,8 @@
 	"stats":"http://whale.spdns.eu/api/stats",
 	"blocks":"http://whale.spdns.eu/api/blocks",
 	"payments":"http://whale.spdns.eu/api/payments",
+	"accounts":"http://whale.spdns.eu/api/accounts",
+  	"miners":"http://whale.spdns.eu/api/miners",
 	"url":"whale.spdns.eu",
         "notify":""
     },
@@ -22,6 +24,8 @@
 	"stats":"http://whale.allcanmine.net/api/stats",
 	"blocks":"http://whale.allcanmine.net/api/blocks",
 	"payments":"http://whale.allcanmine.net/api/payments",
+	"accounts":"http://whale.allcanmine.net/api/accounts",
+  	"miners":"http://whale.allcanmine.net/api/miners",
 	"url":"whale.allcanmine.net",
         "notify":""
     },
@@ -30,6 +34,8 @@
 	"stats":"http://whale.globalpool.cc/api/stats",
 	"blocks":"http://whale.globalpool.cc/api/blocks",
 	"payments":"http://whale.globalpool.cc/api/payments",
+	"accounts":"http://whale.globalpool.cc/api/accounts",
+  	"miners":"http://whale.globalpool.cc/api/miners",
 	"url":"whale.globalpool.cc",
         "notify":""
     },
@@ -38,6 +44,8 @@
 	"stats":"http://whale.ezmine.io/api/stats",
 	"blocks":"http://whale.ezmine.io/api/blocks",
 	"payments":"http://whale.ezmine.io/api/payments",
+	"accounts":"http://whale.ezmine.io/api/accounts",
+  	"miners":"http://whale.ezmine.io/api/miners",
 	"url":"whale.ezmine.io",
         "notify":""
     },
@@ -54,6 +62,8 @@
 	"stats":"http://whalepool.dynu.net/api/stats",
 	"blocks":"http://whalepool.dynu.net/api/blocks",
 	"payments":"http://whalepool.dynu.net/api/payments",
+	"accounts":"http://whalepool.dynu.net/api/accounts",
+  	"miners":"http://whalepool.dynu.net/api/miners",
 	"url":"whalepool.dynu.net",
         "notify":""
     },
@@ -62,6 +72,8 @@
 	"stats":"http://whale.orchardcoins.com/api/stats",
 	"blocks":"http://whale.orchardcoins.com/api/blocks",
 	"payments":"http://whale.orchardcoins.com/api/payments",
+	"accounts":"http://whale.orchardcoins.com/api/accounts",
+  	"miners":"http://whale.orchardcoins.com/api/miners",
 	"url":"whale.orchardcoins.com",
         "notify":""
     },
@@ -70,6 +82,8 @@
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",
 	"payments":"http://whale-asia.hpool.net/api/payments",
+	"accounts":"http://whale-asia.hpool.net/api/accounts",
+  	"miners":"http://whale-asia.hpool.net/api/miners",
 	"url":"whale-asia.hpool.net",
         "notify":""
     }

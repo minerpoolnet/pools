@@ -40,7 +40,7 @@
         "notify":""
     },
     {  
-	"name":"MIANDOANDO",
+	"name":"MINANDOANDO",
 	"stats":"http://exp.minandoando.com/api/stats",
 	"blocks":"http://exp.minandoando.com/api/blocks",
 	"payments":"http://exp.minandoando.com/api/payments",

@@ -10,6 +10,16 @@
         "notify":"support@minerpool.net"
     },
     {  
+	"name":"REIDOCOIN",
+	"stats":"https://ubq.reidocoin.com.br/api/stats",
+	"blocks":"https://ubq.reidocoin.com.br/api/blocks",
+	"payments":"https://ubq.reidocoin.com.br/api/payments",
+	"accounts":"https://ubq.reidocoin.com.br/api/accounts",
+	"miners":"https://ubq.reidocoin.com.br/api/miners",
+	"url":"ubq.reidocoin.com.br",
+	"notify":"pool@reidocoin.com.br"
+    },
+    {  
 	"name":"CHINA UBIQ POOL", 
 	"stats":"http://ubiq.allcanmine.net/api/stats", 
 	"blocks":"http://ubiq.allcanmine.net/api/blocks", 

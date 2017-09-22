@@ -130,6 +130,16 @@
         "notify":""
     },
     {  
+	"name":"DIGITALPOOL", 
+	"stats":"http://exp.digitalpool.cc/api/stats", 
+	"blocks":"http://exp.digitalpool.cc/api/blocks", 
+	"payments":"http://exp.digitalpool.cc/api/payments", 
+	"accounts":"http://exp.digitalpool.cc/api/accounts",
+  	"miners":"http://exp.digitalpool.cc/api/miners",
+	"url":"exp.digitalpool.cc", 
+        "notify":""
+    },
+    {  
 	"name":"MYPOOL",
 	"stats":"https://api.exp.mypool.online/api/stats",
 	"blocks":"https://api.exp.mypool.online/api/blocks",

@@ -6,7 +6,7 @@
         "payments":"http://whale.minerpool.net/api/payments",
 	"accounts":"http://whale.minerpool.net/api/accounts",
   	"miners":"http://whale.minerpool.net/api/miners",
-	"url":"minerpool.net", 
+	"url":"whale.minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

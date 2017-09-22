@@ -6,7 +6,7 @@
 	"payments":"http://ubiq.minerpool.net/api/payments", 
 	"accounts":"http://ubiq.minerpool.net/api/accounts",
   	"miners":"http://ubiq.minerpool.net/api/miners",
-	"url":"minerpool.net", 
+	"url":"ubq.minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

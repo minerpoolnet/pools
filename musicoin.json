@@ -220,6 +220,16 @@
         "notify":""
     },
     {  
+	"name":"DIGITALPOOL", 
+	"stats":"http://mc.digitalpool.cc/api/stats", 
+	"blocks":"http://mc.digitalpool.cc/api/blocks", 
+	"payments":"http://mc.digitalpool.cc/api/payments", 
+	"accounts":"http://mc.digitalpool.cc/api/accounts",
+  	"miners":"http://mc.digitalpool.cc/api/miners",
+	"url":"mc.digitalpool.cc", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

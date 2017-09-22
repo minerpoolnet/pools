@@ -6,7 +6,7 @@
 	"payments":"http://music.minerpool.net/api/payments", 
 	"accounts":"http://music.minerpool.net/api/accounts",
   	"miners":"http://music.minerpool.net/api/miners",
-	"url":"minerpool.net", 
+	"url":"music.minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

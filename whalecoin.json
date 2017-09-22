@@ -88,6 +88,16 @@
         "notify":""
     },
     {  
+	"name":"DIGITALPOOL", 
+	"stats":"http://whl.digitalpool.cc/api/stats", 
+	"blocks":"http://whl.digitalpool.cc/api/blocks", 
+	"payments":"http://whl.digitalpool.cc/api/payments", 
+	"accounts":"http://whl.digitalpool.cc/api/accounts",
+  	"miners":"http://whl.digitalpool.cc/api/miners",
+	"url":"whl.digitalpool.cc", 
+        "notify":""
+    },
+    {  
 	"name":"HPOOL",
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",

@@ -10,6 +10,16 @@
         "notify":"support@minerpool.net"
     },
     {  
+	"name":"REIDOCOIN",
+	"stats":"https://music.reidocoin.com.br/api/stats",
+	"blocks":"https://music.reidocoin.com.br/api/blocks",
+	"payments":"https://music.reidocoin.com.br/api/payments",
+	"accounts":"https://music.reidocoin.com.br/api/accounts",
+	"miners":"https://music.reidocoin.com.br/api/miners",
+	"url":"music.reidocoin.com.br",
+	"notify":"pool@reidocoin.com.br"
+    },
+    {  
 	"name":"DHIX", 
 	"stats":"https://music.dhix.com.br/api/stats", 
 	"blocks":"https://music.dhix.com.br/api/blocks", 

@@ -188,5 +188,15 @@
   	"miners":"https://ubq.epool.io/api/miners",
 	"url":"ubq.epool.io", 
         "notify":""
+    },
+    {  
+	"name":"PPS.UBIQMINE.CA", 
+	"stats":"http://pps.ubiqmine.ca/api/stats", 
+	"blocks":"http://pps.ubiqmine.ca/api/blocks", 
+	"payments":"http://pps.ubiqmine.ca/api/payments", 
+	"accounts":"http://pps.ubiqmine.ca/api/accounts",
+  	"miners":"http://pps.ubiqmine.ca/api/miners",
+	"url":"pps.ubiqmine.ca", 
+        "notify":""
     }
 ]

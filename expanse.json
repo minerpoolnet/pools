@@ -6,7 +6,7 @@
 	"payments":"http://exp.minerpool.net/api/payments",
 	"accounts":"http://exp.minerpool.net/api/accounts",
   	"miners":"http://exp.minerpool.net/api/miners",
-	"url":"minerpool.net", 
+	"url":"exp.minerpool.net", 
         "notify":"support@minerpool.net"
     },
     {  

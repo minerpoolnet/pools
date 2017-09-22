@@ -78,6 +78,16 @@
         "notify":""
     },
     {  
+	"name":"HODLPOOL",
+	"stats":"http://whale.hodlpool.com/api/stats",
+	"blocks":"http://whale.hodlpool.com/api/blocks",
+	"payments":"http://whale.hodlpool.com/api/payments",
+	"accounts":"http://whale.hodlpool.com/api/accounts",
+  	"miners":"http://whale.hodlpool.com/api/miners",
+	"url":"whale.hodlpool.com",
+        "notify":""
+    },
+    {  
 	"name":"HPOOL",
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",

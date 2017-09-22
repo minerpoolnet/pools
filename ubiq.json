@@ -190,6 +190,16 @@
         "notify":""
     },
     {  
+	"name":"DIGITALPOOL", 
+	"stats":"http://ubiq.digitalpool.cc/api/stats", 
+	"blocks":"http://ubiq.digitalpool.cc/api/blocks", 
+	"payments":"http://ubiq.digitalpool.cc/api/payments", 
+	"accounts":"http://ubiq.digitalpool.cc/api/accounts",
+  	"miners":"http://ubiq.digitalpool.cc/api/miners",
+	"url":"ubiq.digitalpool.cc", 
+        "notify":""
+    },
+    {  
 	"name":"PPS.UBIQMINE.CA", 
 	"stats":"http://pps.ubiqmine.ca/api/stats", 
 	"blocks":"http://pps.ubiqmine.ca/api/blocks", 

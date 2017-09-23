@@ -98,6 +98,16 @@
         "notify":""
     },
     {  
+	"name":"MINETHIS", 
+	"stats":"http://whale.minethis.ca/api/stats", 
+	"blocks":"http://whale.minethis.ca/api/blocks", 
+	"payments":"http://whale.minethis.ca/api/payments", 
+	"accounts":"http://whale.minethis.ca/api/accounts",
+  	"miners":"http://whale.minethis.ca/api/miners",
+	"url":"whale.minethis.ca", 
+        "notify":""
+    },
+    {  
 	"name":"HPOOL",
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",

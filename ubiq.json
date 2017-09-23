@@ -200,13 +200,13 @@
         "notify":""
     },
     {  
-	"name":"PPS.UBIQMINE.CA", 
-	"stats":"http://pps.ubiqmine.ca/api/stats", 
-	"blocks":"http://pps.ubiqmine.ca/api/blocks", 
-	"payments":"http://pps.ubiqmine.ca/api/payments", 
-	"accounts":"http://pps.ubiqmine.ca/api/accounts",
-  	"miners":"http://pps.ubiqmine.ca/api/miners",
-	"url":"pps.ubiqmine.ca", 
+	"name":"UBIQ.MINETHIS.CA", 
+	"stats":"http://ubiq.minethis.ca/api/stats", 
+	"blocks":"http://ubiq.minethis.ca/api/blocks", 
+	"payments":"http://ubiq.minethis.ca/api/payments", 
+	"accounts":"http://ubiq.minethis.ca/api/accounts",
+  	"miners":"http://ubiq.minethis.ca/api/miners",
+	"url":"ubiq.minethis.ca", 
         "notify":""
     }
 ]

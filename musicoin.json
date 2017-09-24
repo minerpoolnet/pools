@@ -230,6 +230,16 @@
         "notify":""
     },
     {  
+	"name":"HAKOPOOL", 
+	"stats":"http://musicoin.hakopool.com/?w=api&stats", 
+	"blocks":"http://musicoin.hakopool.com/?w=api&blocks", 
+	"payments":"http://musicoin.hakopool.com/?w=api&payments", 
+	"accounts":"http://musicoin.hakopool.com/?w=api&accounts",
+  	"miners":"http://musicoin.hakopool.com/?w=api&miners",
+	"url":"musicoin.hakopool.com", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

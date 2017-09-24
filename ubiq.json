@@ -91,11 +91,11 @@
     },
     {  
 	"name":"HAKOPOOL", 
-	"stats":"https://ubiq.hakopool.com/api/stats", 
-	"blocks":"https://ubiq.hakopool.com/api/blocks", 
-	"payments":"https://ubiq.hakopool.com/api/payments", 
-	"accounts":"https://ubiq.hakopool.com/api/accounts",
-  	"miners":"https://ubiq.hakopool.com/api/miners",
+	"stats":"https://ubiq.hakopool.com/?w=api&stats", 
+	"blocks":"https://ubiq.hakopool.com/?w=api&blocks", 
+	"payments":"https://ubiq.hakopool.com/?w=api&payments", 
+	"accounts":"https://ubiq.hakopool.com/?w=api&accounts",
+  	"miners":"https://ubiq.hakopool.com/?w=api&miners",
 	"url":"ubiq.hakopool.com", 
         "notify":""
     },

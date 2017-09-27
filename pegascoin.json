@@ -31,11 +31,11 @@
     },
     {  
 	"name":"HODLPOOL",
-	"stats":"http://pgc.hodlpool.com/api/stats",
-	"blocks":"http://pgc.hodlpool.com/api/blocks",
-	"payments":"http://pgc.hodlpool.com/api/payments",
-	"accounts":"http://pgc.hodlpool.com/api/accounts",
-  	"miners":"http://pgc.hodlpool.com/api/miners",
+	"stats":"http://pgc.hodlpool.com:8109/api/stats",
+	"blocks":"http://pgc.hodlpool.com:8109/api/blocks",
+	"payments":"http://pgc.hodlpool.com:8109/api/payments",
+	"accounts":"http://pgc.hodlpool.com:8109/api/accounts",
+  	"miners":"http://pgc.hodlpool.com:8109/api/miners",
 	"url":"pgc.hodlpool.com",
         "notify":""
     },

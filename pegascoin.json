@@ -50,6 +50,16 @@
         "notify":""
     },
     {  
+	"name":"ETHASH-COINS",
+	"stats":"http://pgc.ethash-coins.ru/api/stats",
+	"blocks":"http://pgc.ethash-coins.ru/api/blocks",
+	"payments":"http://pgc.ethash-coins.ru/api/payments",
+	"accounts":"http://pgc.ethash-coins.ru/api/accounts",
+  	"miners":"http://pgc.ethash-coins.ru/api/miners",
+	"url":"pgc.ethash-coins.ru",
+        "notify":""
+    },
+    {  
 	"name":"PEGAPOOL",
 	"stats":"http://pegapool.com/api/stats",
 	"blocks":"http://pegapool.com/api/blocks",

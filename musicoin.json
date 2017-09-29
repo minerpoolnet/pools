@@ -250,6 +250,16 @@
         "notify":""
     },
     {  
+	"name":"MINETHIS", 
+	"stats":"http://music.minethis.ca/api/stats", 
+	"blocks":"http://music.minethis.ca/api/blocks", 
+	"payments":"http://music.minethis.ca/api/payments", 
+	"accounts":"http://music.minethis.ca/api/accounts",
+  	"miners":"http://music.minethis.ca/api/miners",
+	"url":"music.minethis.ca", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

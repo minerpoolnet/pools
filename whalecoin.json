@@ -118,6 +118,16 @@
         "notify":""
     },
     {  
+	"name":"GPUMINE", 
+	"stats":"https://whale.gpumine.org/api/stats", 
+	"blocks":"https://whale.gpumine.org/api/blocks", 
+	"payments":"https://whale.gpumine.org/api/payments", 
+	"accounts":"https://whale.gpumine.org/api/accounts",
+  	"miners":"https://whale.gpumine.org/api/miners",
+	"url":"whale.gpumine.org", 
+        "notify":""
+    },
+    {  
 	"name":"HPOOL",
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",

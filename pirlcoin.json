@@ -38,5 +38,15 @@
   	"miners":"http://pool.pirl.io/api/miners",
 	"url":"pool.pirl.io",
         "notify":""
+    },
+    {  
+	"name":"HODLPOOL",
+	"stats":"http://pirl.hodlpool.com/api/stats",
+	"blocks":"http://pirl.hodlpool.com/api/blocks",
+	"payments":"http://pirl.hodlpool.com/api/payments",
+	"accounts":"http://pirl.hodlpool.com/api/accounts",
+  	"miners":"http://pirl.hodlpool.com/api/miners",
+	"url":"pirl.hodlpool.com",
+        "notify":""
     }
 ]

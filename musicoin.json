@@ -240,6 +240,16 @@
         "notify":""
     },
     {  
+	"name":"GPUMINE", 
+	"stats":"https://music.gpumine.org/api/stats", 
+	"blocks":"https://music.gpumine.org/api/blocks", 
+	"payments":"https://music.gpumine.org/api/payments", 
+	"accounts":"https://music.gpumine.org/api/accounts",
+  	"miners":"https://music.gpumine.org/api/miners",
+	"url":"music.gpumine.org", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

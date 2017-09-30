@@ -30,16 +30,6 @@
         "notify":""
     },
     {  
-	"name":"PIRLPOOL",
-	"stats":"http://pool.pirl.io/api/stats",
-	"blocks":"http://pool.pirl.io/api/blocks",
-	"payments":"http://pool.pirl.io/api/payments",
-	"accounts":"http://pool.pirl.io/api/accounts",
-  	"miners":"http://pool.pirl.io/api/miners",
-	"url":"pool.pirl.io",
-        "notify":""
-    },
-    {  
 	"name":"HODLPOOL",
 	"stats":"http://pirl.hodlpool.com/api/stats",
 	"blocks":"http://pirl.hodlpool.com/api/blocks",

@@ -40,6 +40,16 @@
         "notify":""
     },
     {  
+	"name":"POOL.SEXY",
+	"stats":"http://pirl.pool.sexy/api6/stats",
+	"blocks":"http://pirl.pool.sexy/api6/blocks",
+	"payments":"http://pirl.pool.sexy/api6/payments",
+	"accounts":"http://pirl.pool.sexy/api6/accounts",
+  	"miners":"http://pirl.pool.sexy/api6/miners",
+	"url":"pirl.pool.sexy",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

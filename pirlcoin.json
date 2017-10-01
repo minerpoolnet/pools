@@ -30,13 +30,13 @@
         "notify":""
     },
     {  
-	"name":"HODLPOOL",
-	"stats":"http://pirl.hodlpool.com/api/stats",
-	"blocks":"http://pirl.hodlpool.com/api/blocks",
-	"payments":"http://pirl.hodlpool.com/api/payments",
-	"accounts":"http://pirl.hodlpool.com/api/accounts",
-  	"miners":"http://pirl.hodlpool.com/api/miners",
-	"url":"pirl.hodlpool.com",
+        "name":"MINERS-ZONE",
+        "stats":"http://pirl.miners-zone.net/apipirl/stats",
+        "blocks":"http://pirl.miners-zone.net/apipirl/blocks",
+        "payments":"http://pirl.miners-zone.net/apipirl/payments",
+        "accounts":"http://pirl.miners-zone.net/apipirl/accounts",
+        "miners":"http://pirl.miners-zone.net/apipirl/miners",
+        "url":"pirl.miners-zone.net", 
         "notify":""
     }
 ]

@@ -11,11 +11,11 @@
     },
     {  
 	"name":"HPPCG",
-	"stats":"http://us-nj-01.pools.hppcg.com/pirl/api/stats",
-	"blocks":"http://us-nj-01.pools.hppcg.com/pirl/api/blocks",
-	"payments":"http://us-nj-01.pools.hppcg.com/pirl/api/payments",
-	"accounts":"http://us-nj-01.pools.hppcg.com/pirl/api/accounts",
-	"miners":"http://us-nj-01.pools.hppcg.com/pirl/api/miners",
+	"stats":"https://us-nj-01.pools.hppcg.com/pirl/api/stats",
+	"blocks":"https://us-nj-01.pools.hppcg.com/pirl/api/blocks",
+	"payments":"https://us-nj-01.pools.hppcg.com/pirl/api/payments",
+	"accounts":"https://us-nj-01.pools.hppcg.com/pirl/api/accounts",
+	"miners":"https://us-nj-01.pools.hppcg.com/pirl/api/miners",
 	"url":"pools.hppcg.com",
 	"notify":""
     },

@@ -60,6 +60,16 @@
         "notify":""
     },
     {  
+	"name":"MOLE-POOL",
+	"stats":"http://109.70.186.58:3020/api/stats",
+	"blocks":"http://109.70.186.58:3020/api/blocks",
+	"payments":"http://109.70.186.58:3020/api/payments",
+	"accounts":"http://109.70.186.58:3020/api/accounts",
+  	"miners":"http://109.70.186.58:3020/api/miners",
+	"url":"mole-pool.net",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

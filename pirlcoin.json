@@ -50,16 +50,6 @@
         "notify":""
     },
     {  
-	"name":"ORCHARDCOINS",
-	"stats":"http://pirl.orchardcoins.com/api/stats",
-	"blocks":"http://pirl.orchardcoins.com/api/blocks",
-	"payments":"http://pirl.orchardcoins.com/api/payments",
-	"accounts":"http://pirl.orchardcoins.com/api/accounts",
-  	"miners":"http://pirl.orchardcoins.com/api/miners",
-	"url":"pirl.orchardcoins.com",
-        "notify":""
-    },
-    {  
 	"name":"MOLE-POOL",
 	"stats":"http://109.70.186.58:3020/api/stats",
 	"blocks":"http://109.70.186.58:3020/api/blocks",

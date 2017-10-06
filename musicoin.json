@@ -260,6 +260,16 @@
         "notify":""
     },
     {  
+	"name":"MINERSHQ", 
+	"stats":"https://mc.minershq.net/api/stats", 
+	"blocks":"https://mc.minershq.net/api/blocks", 
+	"payments":"https://mc.minershq.net/api/payments", 
+	"accounts":"https://mc.minershq.net/api/accounts",
+  	"miners":"https://mc.minershq.net/api/miners",
+	"url":"mc.minershq.net", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

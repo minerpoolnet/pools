@@ -60,6 +60,16 @@
         "notify":""
     },
     {  
+	"name":"ALLCANMINE",
+	"stats":"http://pirl.allcanmine.net/api/stats",
+	"blocks":"http://pirl.allcanmine.net/api/blocks",
+	"payments":"http://pirl.allcanmine.net/api/payments",
+	"accounts":"http://pirl.allcanmine.net/api/accounts",
+  	"miners":"http://pirl.allcanmine.net/api/miners",
+	"url":"pirl.allcanmine.net",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

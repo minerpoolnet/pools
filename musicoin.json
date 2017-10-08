@@ -270,6 +270,16 @@
         "notify":""
     },
     {  
+	"name":"DROWNINGPOOL", 
+	"stats":"http://www.drowningpool.net/api/stats", 
+	"blocks":"http://www.drowningpool.net/api/blocks", 
+	"payments":"http://www.drowningpool.net/api/payments", 
+	"accounts":"http://www.drowningpool.net/api/accounts",
+  	"miners":"http://www.drowningpool.net/api/miners",
+	"url":"www.drowningpool.net", 
+        "notify":""
+    },
+    {  
 	"name":"COINSFARM", 
 	"stats":"http://musicpool.rig-share.com:8080/api/stats", 
 	"blocks":"http://musicpool.rig-share.com:8080/api/blocks", 

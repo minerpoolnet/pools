@@ -70,6 +70,16 @@
         "notify":""
     },
     {  
+	"name":"MINETHIS",
+	"stats":"http://pirl.minethis.ca/api/stats",
+	"blocks":"http://pirl.minethis.ca/api/blocks",
+	"payments":"http://pirl.minethis.ca/api/payments",
+	"accounts":"http://pirl.minethis.ca/api/accounts",
+  	"miners":"http://pirl.minethis.ca/api/miners",
+	"url":"pirl.minethis.ca",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

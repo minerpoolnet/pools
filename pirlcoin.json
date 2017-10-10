@@ -80,6 +80,16 @@
         "notify":""
     },
     {  
+	"name":"ETHASH-COINS",
+	"stats":"http://pirl.ethash-coins.ru/api/stats",
+	"blocks":"http://pirl.ethash-coins.ru/api/blocks",
+	"payments":"http://pirl.ethash-coins.ru/api/payments",
+	"accounts":"http://pirl.ethash-coins.ru/api/accounts",
+  	"miners":"http://pirl.ethash-coins.ru/api/miners",
+	"url":"pirl.ethash-coins.ru",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

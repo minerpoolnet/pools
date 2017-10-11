@@ -20,16 +20,6 @@
 	"notify":""
     },
     {  
-	"name":"ZIGTEE",
-	"stats":"http://pirl.zigtee.com/api/stats",
-	"blocks":"http://pirl.zigtee.com/api/blocks",
-	"payments":"http://pirl.zigtee.com/api/payments",
-	"accounts":"http://pirl.zigtee.com/api/accounts",
-  	"miners":"http://pirl.zigtee.com/api/miners",
-	"url":"pirl.zigtee.com",
-        "notify":""
-    },
-    {  
 	"name":"DIGITALPOOL",
 	"stats":"http://pirl.digitalpool.cc/api/stats",
 	"blocks":"http://pirl.digitalpool.cc/api/blocks",

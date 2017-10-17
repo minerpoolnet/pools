@@ -1,0 +1,32 @@
+[  
+    {  
+	"name":"MINERPOOL.NET",
+	"stats":"http://ella.minerpool.net/api/stats",
+	"blocks":"http://ella.minerpool.net/api/blocks",
+	"payments":"http://ella.minerpool.net/api/payments",
+	"accounts":"http://ella.minerpool.net/api/accounts",
+  	"miners":"http://ella.minerpool.net/api/miners",
+	"url":"ella.minerpool.net", 
+        "notify":"support@minerpool.net"
+    },
+    {  
+	"name":"ELLAISM",
+	"stats":"http://poolapi.ellaism.org/api/stats",
+	"blocks":"http://poolapi.ellaism.org/api/blocks",
+	"payments":"http://poolapi.ellaism.org/api/payments",
+	"accounts":"http://poolapi.ellaism.org/api/accounts",
+	"miners":"http://poolapi.ellaism.org/api/miners",
+	"url":"pool.ellaism.org",
+	"notify":""
+    },
+    {  
+	"name":"POOLSEXY",
+	"stats":"http://ella.pool.sexy/api/stats",
+	"blocks":"http://ella.pool.sexy/api/blocks",
+	"payments":"http://ella.pool.sexy/api/payments",
+	"accounts":"http://ella.pool.sexy/api/accounts",
+  	"miners":"http://ella.pool.sexy/api/miners",
+	"url":"ella.pool.sexy",
+        "notify":""
+    }
+]

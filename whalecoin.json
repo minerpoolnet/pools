@@ -128,6 +128,16 @@
         "notify":""
     },
     {  
+	"name":"POOLSEXY", 
+	"stats":"http://whl.pool.sexy/api2/stats", 
+	"blocks":"http://whl.pool.sexy/api2/blocks", 
+	"payments":"http://whl.pool.sexy/api2/payments", 
+	"accounts":"http://whl.pool.sexy/api2/accounts",
+  	"miners":"http://whl.pool.sexy/api2/miners",
+	"url":"whl.pool.sexy", 
+        "notify":""
+    },
+    {  
 	"name":"HPOOL",
 	"stats":"http://whale-asia.hpool.net/api/stats",
 	"blocks":"http://whale-asia.hpool.net/api/blocks",

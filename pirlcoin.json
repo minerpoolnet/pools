@@ -60,16 +60,6 @@
         "notify":""
     },
     {  
-	"name":"MINETHIS",
-	"stats":"http://pirl.minethis.ca/api/stats",
-	"blocks":"http://pirl.minethis.ca/api/blocks",
-	"payments":"http://pirl.minethis.ca/api/payments",
-	"accounts":"http://pirl.minethis.ca/api/accounts",
-  	"miners":"http://pirl.minethis.ca/api/miners",
-	"url":"pirl.minethis.ca",
-        "notify":""
-    },
-    {  
 	"name":"ETHASH-COINS",
 	"stats":"http://pirl.ethash-coins.ru/api/stats",
 	"blocks":"http://pirl.ethash-coins.ru/api/blocks",

@@ -250,16 +250,6 @@
         "notify":""
     },
     {  
-	"name":"MINETHIS", 
-	"stats":"http://music.minethis.ca/api/stats", 
-	"blocks":"http://music.minethis.ca/api/blocks", 
-	"payments":"http://music.minethis.ca/api/payments", 
-	"accounts":"http://music.minethis.ca/api/accounts",
-  	"miners":"http://music.minethis.ca/api/miners",
-	"url":"music.minethis.ca", 
-        "notify":""
-    },
-    {  
 	"name":"MINERSHQ", 
 	"stats":"https://mc.minershq.net/api/stats", 
 	"blocks":"https://mc.minershq.net/api/blocks", 

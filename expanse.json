@@ -110,16 +110,6 @@
         "notify":""
     },
     {  
-	"name":"NEXTPOOL",
-	"stats":"http://145.239.134.14:8080/api/stats",
-	"blocks":"http://145.239.134.14:8080/api/blocks",
-	"payments":"http://145.239.134.14:8080/api/payments",
-	"accounts":"http://145.239.134.14:8080/api/accounts",
-  	"miners":"http://145.239.134.14:8080/api/miners",
-	"url":"exp.nextpool.eu",
-        "notify":""
-    },
-    {  
 	"name":"ETHERTRENCH",
 	"stats":"http://exp.ethertrench.com/api/stats",
 	"blocks":"http://exp.ethertrench.com/api/blocks",

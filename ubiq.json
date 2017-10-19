@@ -150,16 +150,6 @@
         "notify":""
     },
     {  
-	"name":"UBIQMINE.CA", 
-	"stats":"http://ubiqmine.ca/api/stats", 
-	"blocks":"http://ubiqmine.ca/api/blocks", 
-	"payments":"http://ubiqmine.ca/api/payments", 
-	"accounts":"http://ubiqmine.ca/api/accounts",
-  	"miners":"http://ubiqmine.ca/api/miners",
-	"url":"ubiqmine.ca", 
-        "notify":""
-    },
-    {  
 	"name":"UBIQMINER", 
 	"stats":"http://ubiqminer.com/api/stats", 
 	"blocks":"http://ubiqminer.com/api/blocks", 
@@ -197,16 +187,6 @@
 	"accounts":"http://ubiq.digitalpool.cc/api/accounts",
   	"miners":"http://ubiq.digitalpool.cc/api/miners",
 	"url":"ubiq.digitalpool.cc", 
-        "notify":""
-    },
-    {  
-	"name":"UBIQ.MINETHIS.CA", 
-	"stats":"http://ubiq.minethis.ca/api/stats", 
-	"blocks":"http://ubiq.minethis.ca/api/blocks", 
-	"payments":"http://ubiq.minethis.ca/api/payments", 
-	"accounts":"http://ubiq.minethis.ca/api/accounts",
-  	"miners":"http://ubiq.minethis.ca/api/miners",
-	"url":"ubiq.minethis.ca", 
         "notify":""
     }
 ]

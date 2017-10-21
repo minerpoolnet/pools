@@ -20,6 +20,16 @@
 	"notify":""
     },
     {  
+	"name":"MINETHIS",
+	"stats":"http://ella.minethis.ca/api/stats",
+	"blocks":"http://ella.minethis.ca/api/blocks",
+	"payments":"http://ella.minethis.ca/api/payments",
+	"accounts":"http://ella.minethis.ca/api/accounts",
+	"miners":"http://ella.minethis.ca/api/miners",
+	"url":"ella.minethis.ca",
+	"notify":""
+    },
+    {  
 	"name":"POOLSEXY",
 	"stats":"http://ella.pool.sexy/api/stats",
 	"blocks":"http://ella.pool.sexy/api/blocks",

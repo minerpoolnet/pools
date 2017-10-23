@@ -40,6 +40,16 @@
 	"notify":""
     },
     {  
+	"name":"ETHASH-COINS",
+	"stats":"http://ella.ethash-coins.ru/api/stats",
+	"blocks":"http://ella.ethash-coins.ru/api/blocks",
+	"payments":"http://ella.ethash-coins.ru/api/payments",
+	"accounts":"http://ella.ethash-coins.ru/api/accounts",
+	"miners":"http://ella.ethash-coins.ru/api/miners",
+	"url":"ella.ethash-coins.ru",
+	"notify":""
+    },
+    {  
 	"name":"POOLSEXY",
 	"stats":"http://ella.pool.sexy/api/stats",
 	"blocks":"http://ella.pool.sexy/api/blocks",

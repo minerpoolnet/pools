@@ -30,6 +30,16 @@
 	"notify":""
     },
     {  
+	"name":"2ZO",
+	"stats":"http://ellaism.2zo.pw/api/stats",
+	"blocks":"http://ellaism.2zo.pw/api/blocks",
+	"payments":"http://ellaism.2zo.pw/api/payments",
+	"accounts":"http://ellaism.2zo.pw/api/accounts",
+	"miners":"http://ellaism.2zo.pw/api/miners",
+	"url":"ellaism.2zo.pw",
+	"notify":""
+    },
+    {  
 	"name":"POOLSEXY",
 	"stats":"http://ella.pool.sexy/api/stats",
 	"blocks":"http://ella.pool.sexy/api/blocks",

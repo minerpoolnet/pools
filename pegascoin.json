@@ -40,16 +40,6 @@
         "notify":""
     },
     {  
-	"name":"CLONA.RU",
-	"stats":"http://clona.ru:9002/api/stats",
-	"blocks":"http://clona.ru:9002/api/blocks",
-	"payments":"http://clona.ru:9002/api/payments",
-	"accounts":"http://clona.ru:9002/api/accounts",
-  	"miners":"http://clona.ru:9002/api/miners",
-	"url":"clona.ru",
-        "notify":""
-    },
-    {  
 	"name":"ETHASH-COINS",
 	"stats":"http://pgc.ethash-coins.ru/api/stats",
 	"blocks":"http://pgc.ethash-coins.ru/api/blocks",

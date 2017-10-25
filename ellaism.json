@@ -17,7 +17,7 @@
 	"accounts":"http://poolapi.ellaism.org/api/accounts",
 	"miners":"http://poolapi.ellaism.org/api/miners",
 	"url":"pool.ellaism.org",
-	"notify":""
+	"notify":"ellaismer@protonmail.ch"
     },
     {  
 	"name":"MINETHIS",

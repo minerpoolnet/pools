@@ -50,6 +50,16 @@
 	"notify":""
     },
     {  
+	"name":"CRYPTOBIT",
+	"stats":"http://ella.cryptobitpool.eu/api/stats",
+	"blocks":"http://ella.cryptobitpool.eu/api/blocks",
+	"payments":"http://ella.cryptobitpool.eu/api/payments",
+	"accounts":"http://ella.cryptobitpool.eu/api/accounts",
+	"miners":"http://ella.cryptobitpool.eu/api/miners",
+	"url":"ella.cryptobitpool.eu",
+	"notify":""
+    },
+    {  
 	"name":"POOLSEXY",
 	"stats":"http://ella.pool.sexy/api/stats",
 	"blocks":"http://ella.pool.sexy/api/blocks",

@@ -60,16 +60,6 @@
         "notify":""
     },
     {  
-	"name":"NOMNOM", 
-	"stats":"http://musicoin.nomnom.technology/api/stats", 
-	"blocks":"http://musicoin.nomnom.technology/api/blocks", 
-	"payments":"http://musicoin.nomnom.technology/api/payments", 
-	"accounts":"http://musicoin.nomnom.technology/api/accounts",
-  	"miners":"http://musicoin.nomnom.technology/api/miners",
-	"url":"musicoin.nomnom.technology", 
-        "notify":""
-    },
-    {  
 	"name":"NEONPOOL", 
 	"stats":"http://neonpool.ddns.net/api/stats", 
 	"blocks":"http://neonpool.ddns.net/api/blocks", 

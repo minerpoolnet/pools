@@ -21,12 +21,12 @@
     },
     {  
 	"name":"MINETHIS",
-	"stats":"http://ella.minethis.ca/api/stats",
-	"blocks":"http://ella.minethis.ca/api/blocks",
-	"payments":"http://ella.minethis.ca/api/payments",
-	"accounts":"http://ella.minethis.ca/api/accounts",
-	"miners":"http://ella.minethis.ca/api/miners",
-	"url":"ella.minethis.ca",
+	"stats":"https://pool.ellaism.io/api/stats",
+	"blocks":"https://pool.ellaism.io/api/blocks",
+	"payments":"https://pool.ellaism.io/api/payments",
+	"accounts":"https://pool.ellaism.io/api/accounts",
+	"miners":"https://pool.ellaism.io/api/miners",
+	"url":"pool.ellaism.io",
 	"notify":""
     },
     {  

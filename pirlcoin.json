@@ -70,6 +70,16 @@
         "notify":""
     },
     {  
+	"name":"COINMINER",
+	"stats":"http://pirl.coinminer.space/api/stats",
+	"blocks":"http://pirl.coinminer.space/api/blocks",
+	"payments":"http://pirl.coinminer.space/api/payments",
+	"accounts":"http://pirl.coinminer.space/api/accounts",
+  	"miners":"http://pirl.coinminer.space/api/miners",
+	"url":"pirl.coinminer.space",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

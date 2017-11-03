@@ -80,6 +80,16 @@
         "notify":""
     },
     {  
+	"name":"REIDOCOIN",
+	"stats":"https://pirl.reidocoin.com.br/api/stats",
+	"blocks":"https://pirl.reidocoin.com.br/api/blocks",
+	"payments":"https://pirl.reidocoin.com.br/api/payments",
+	"accounts":"https://pirl.reidocoin.com.br/api/accounts",
+  	"miners":"https://pirl.reidocoin.com.br/api/miners",
+	"url":"pirl.reidocoin.com.br",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

@@ -90,6 +90,16 @@
         "notify":""
     },
     {  
+	"name":"CRYPTOPOOLS",
+	"stats":"http://pirl.cryptopools.info/api/stats",
+	"blocks":"http://pirl.cryptopools.info/api/blocks",
+	"payments":"http://pirl.cryptopools.info/api/payments",
+	"accounts":"http://pirl.cryptopools.info/api/accounts",
+  	"miners":"http://pirl.cryptopools.info/api/miners",
+	"url":"pirl.cryptopools.info",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

@@ -60,6 +60,16 @@
 	"notify":""
     },
     {  
+	"name":"ALTPOOL",
+	"stats":"http://ella.altpool.pro/api/stats",
+	"blocks":"http://ella.altpool.pro/api/blocks",
+	"payments":"http://ella.altpool.pro/api/payments",
+	"accounts":"http://ella.altpool.pro/api/accounts",
+	"miners":"http://ella.altpool.pro/api/miners",
+	"url":"ella.altpool.pro",
+	"notify":""
+    },
+    {  
 	"name":"POOLSEXY",
 	"stats":"http://ella.pool.sexy/api/stats",
 	"blocks":"http://ella.pool.sexy/api/blocks",

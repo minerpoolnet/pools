@@ -100,6 +100,16 @@
         "notify":""
     },
     {  
+	"name":"COIN-MINERS",
+	"stats":"http://pirl.coin-miners.info/api/stats",
+	"blocks":"http://pirl.coin-miners.info/api/blocks",
+	"payments":"http://pirl.coin-miners.info/api/payments",
+	"accounts":"http://pirl.coin-miners.info/api/accounts",
+  	"miners":"http://pirl.coin-miners.info/api/miners",
+	"url":"pirl.coin-miners.info",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

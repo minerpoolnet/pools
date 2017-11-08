@@ -48,5 +48,15 @@
   	"miners":"http://pirl.hodlpool.com/api/miners",
 	"url":"pirl.hodlpool.com",
         "notify":""
+    },
+    {  
+	"name":"PIRL.CryptoPros.us",
+	"stats":"https://pirl.cryptopros.us/api/stats",
+	"blocks":"https://pirl.cryptopros.us/api/blocks",
+	"payments":"https://pirl.cryptopros.us/api/payments",
+	"accounts":"https://pirl.cryptopros.us/api/accounts",
+  	"miners":"https://pirl.cryptopros.us/api/miners",
+	"url":"pirl.cryptopros.us", 
+        "notify":"litwi1rm@gmail.com"
     }
 ]

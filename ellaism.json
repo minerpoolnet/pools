@@ -10,7 +10,7 @@
         "notify":"support@minerpool.net"
     },
     {  
-	"name":"ELLAISM",
+	"name":"ELLAISM CORE",
 	"stats":"http://poolapi.ellaism.org/api/stats",
 	"blocks":"http://poolapi.ellaism.org/api/blocks",
 	"payments":"http://poolapi.ellaism.org/api/payments",
@@ -20,14 +20,14 @@
 	"notify":"ellaismer@protonmail.ch"
     },
     {  
-	"name":"MINETHIS",
+	"name":"ELLAISM.IO",
 	"stats":"https://pool.ellaism.io/api/stats",
 	"blocks":"https://pool.ellaism.io/api/blocks",
 	"payments":"https://pool.ellaism.io/api/payments",
 	"accounts":"https://pool.ellaism.io/api/accounts",
 	"miners":"https://pool.ellaism.io/api/miners",
 	"url":"pool.ellaism.io",
-	"notify":""
+	"notify":"foreignfive@gmail.com"
     },
     {  
 	"name":"2ZO",

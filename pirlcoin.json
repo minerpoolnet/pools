@@ -110,6 +110,16 @@
         "notify":""
     },
     {  
+	"name":"ZET-TECH",
+	"stats":"https://pirl.zet-tech.eu/api/stats",
+	"blocks":"https://pirl.zet-tech.eu/api/blocks",
+	"payments":"https://pirl.zet-tech.eu/api/payments",
+	"accounts":"https://pirl.zet-tech.eu/api/accounts",
+  	"miners":"https://pirl.zet-tech.eu/api/miners",
+	"url":"pirl.zet-tech.eu",
+        "notify":""
+    },
+    {  
         "name":"MINERS-ZONE",
         "stats":"http://pirl.miners-zone.net/apipirl/stats",
         "blocks":"http://pirl.miners-zone.net/apipirl/blocks",

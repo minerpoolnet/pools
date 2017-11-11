@@ -109,12 +109,12 @@
     },
     {  
 	"name":"GPUMINE", 
-	"stats":"https://whale.gpumine.org/api/stats", 
-	"blocks":"https://whale.gpumine.org/api/blocks", 
-	"payments":"https://whale.gpumine.org/api/payments", 
-	"accounts":"https://whale.gpumine.org/api/accounts",
-  	"miners":"https://whale.gpumine.org/api/miners",
-	"url":"whale.gpumine.org", 
+	"stats":"https://whl-tw.gpumine.org/api/stats", 
+	"blocks":"https://whl-tw.gpumine.org/api/blocks", 
+	"payments":"https://whl-tw.gpumine.org/api/payments", 
+	"accounts":"https://whl-tw.gpumine.org/api/accounts",
+  	"miners":"https://whl-tw.gpumine.org/api/miners",
+	"url":"whl-tw.gpumine.org", 
         "notify":""
     },
     {  

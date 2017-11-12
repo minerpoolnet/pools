@@ -50,7 +50,7 @@
         "notify":""
     },
     {  
-	"name":"PIRL.CryptoPros.us",
+	"name":"CryptoPros.us",
 	"stats":"https://pirl.cryptopros.us/api/stats",
 	"blocks":"https://pirl.cryptopros.us/api/blocks",
 	"payments":"https://pirl.cryptopros.us/api/payments",

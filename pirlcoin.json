@@ -130,6 +130,16 @@
         "notify":""
     },
     {  
+        "name":"HASHINGPOOL",
+        "stats":"http://www.hashingpool.party/api/stats",
+        "blocks":"http://www.hashingpool.party/api/blocks",
+        "payments":"http://www.hashingpool.party/api/payments",
+        "accounts":"http://www.hashingpool.party/api/accounts",
+        "miners":"http://www.hashingpool.party/api/miners",
+        "url":"www.hashingpool.party", 
+        "notify":""
+    },
+    {  
 	"name":"CryptoPros.us",
 	"stats":"https://pirl.cryptopros.us/api/stats",
 	"blocks":"https://pirl.cryptopros.us/api/blocks",

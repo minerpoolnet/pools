@@ -158,5 +158,15 @@
         "miners":"http://pirl.espool.eu/api/miners",
         "url":"pirl.espool.eu", 
         "notify":"masterplanelles@gmail.com"
+    },
+    {
+        "name":"Cryptobits.ltd",
+        "stats":"http://pirl.cryptobits.ltd/pirl/api/stats",
+        "blocks":"http://pirl.cryptobits.ltd/pirl/api/blocks",
+        "payments":"http://pirl.cryptobits.ltd/pirl/api/payments",
+        "accounts":"http://pirl.cryptobits.ltd/pirl/api/accounts",
+        "miners":"http://pirl.cryptobits.ltd/pirl/api/miners",
+        "url":"pirl.cryptobits.ltd/pirl",
+        "notify":"cryptobitsokc@gmail.com"
     }
 ]

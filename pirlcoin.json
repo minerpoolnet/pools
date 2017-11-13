@@ -140,7 +140,7 @@
         "notify":""
     },
     {  
-	"name":"CryptoPros.us",
+	"name":"CRYPTOPROS.US",
 	"stats":"https://pirl.cryptopros.us/api/stats",
 	"blocks":"https://pirl.cryptopros.us/api/blocks",
 	"payments":"https://pirl.cryptopros.us/api/payments",
@@ -160,7 +160,7 @@
         "notify":"masterplanelles@gmail.com"
     },
     {
-        "name":"Cryptobits.ltd",
+        "name":"CRYPTOBITS.LTD",
         "stats":"http://pirl.cryptobits.ltd/pirl/api/stats",
         "blocks":"http://pirl.cryptobits.ltd/pirl/api/blocks",
         "payments":"http://pirl.cryptobits.ltd/pirl/api/payments",

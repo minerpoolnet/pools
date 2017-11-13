@@ -166,7 +166,7 @@
         "payments":"http://pirl.cryptobits.ltd/pirl/api/payments",
         "accounts":"http://pirl.cryptobits.ltd/pirl/api/accounts",
         "miners":"http://pirl.cryptobits.ltd/pirl/api/miners",
-        "url":"pirl.cryptobits.ltd/pirl",
+        "url":"pirl.cryptobits.ltd",
         "notify":"cryptobitsokc@gmail.com"
     }
 ]

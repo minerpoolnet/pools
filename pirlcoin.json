@@ -148,5 +148,15 @@
   	"miners":"https://pirl.cryptopros.us/api/miners",
 	"url":"pirl.cryptopros.us", 
         "notify":"litwi1rm@gmail.com"
+    },
+    {  
+        "name":"ESPOOL.EU",
+        "stats":"http://pirl.espool.eu/api/stats",
+        "blocks":"http://pirl.espool.eu/api/blocks",
+        "payments":"http://pirl.espool.eu/api/payments",
+        "accounts":"http://pirl.espool.eu/api/accounts",
+        "miners":"http://pirl.espool.eu/api/miners",
+        "url":"pirl.espool.eu", 
+        "notify":"masterplanelles@gmail.com"
     }
 ]

@@ -1,5 +1,15 @@
 [  
     {  
+	"name":"MINERPOOL.NET",
+	"stats":"http://pgc.minerpool.net/api/stats",
+	"blocks":"http://pgc.minerpool.net/api/blocks",
+	"payments":"http://pgc.minerpool.net/api/payments",
+	"accounts":"http://pgc.minerpool.net/api/accounts",
+  	"miners":"http://pgc.minerpool.net/api/miners",
+	"url":"pgc.minerpool.net", 
+        "notify":""
+    },
+    {  
 	"name":"COINMINER",
 	"stats":"http://pgc.coinminer.space/api/stats",
 	"blocks":"http://pgc.coinminer.space/api/blocks",

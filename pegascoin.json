@@ -60,6 +60,16 @@
         "notify":""
     },
     {  
+	"name":"CRYPTOPOOLS",
+	"stats":"http://pegas.cryptopools.info/api/stats",
+	"blocks":"http://pegas.cryptopools.info/api/blocks",
+	"payments":"http://pegas.cryptopools.info/api/payments",
+	"accounts":"http://pegas.cryptopools.info/api/accounts",
+  	"miners":"http://pegas.cryptopools.info/api/miners",
+	"url":"pegas.cryptopools.info",
+        "notify":""
+    },
+    {  
 	"name":"PEGAPOOL",
 	"stats":"http://pegapool.com/api/stats",
 	"blocks":"http://pegapool.com/api/blocks",

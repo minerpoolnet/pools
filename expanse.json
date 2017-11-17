@@ -130,6 +130,16 @@
         "notify":""
     },
     {  
+	"name":"EXPMINE", 
+	"stats":"https://expmine.pro/api/stats", 
+	"blocks":"https://expmine.pro/api/blocks", 
+	"payments":"https://expmine.pro/api/payments", 
+	"accounts":"https://expmine.pro/api/accounts",
+  	"miners":"https://expmine.pro/api/miners",
+	"url":"expmine.pro", 
+        "notify":""
+    },
+    {  
 	"name":"MYPOOL",
 	"stats":"https://api.exp.mypool.online/api/stats",
 	"blocks":"https://api.exp.mypool.online/api/blocks",

@@ -150,6 +150,16 @@
         "notify":"litwi1rm@gmail.com"
     },
     {  
+        "name":"MINING-POOL",
+        "stats":"http://pirl.mining-pool.fr/api/stats",
+        "blocks":"http://pirl.mining-pool.fr/api/blocks",
+        "payments":"http://pirl.mining-pool.fr/api/payments",
+        "accounts":"http://pirl.mining-pool.fr/api/accounts",
+        "miners":"http://pirl.mining-pool.fr/api/miners",
+        "url":"pirl.mining-pool.fr", 
+        "notify":""
+    },
+    {  
         "name":"ESPOOL.EU",
         "stats":"http://pirl.espool.eu/api/stats",
         "blocks":"http://pirl.espool.eu/api/blocks",

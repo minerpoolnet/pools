@@ -179,4 +179,14 @@
         "url":"pirl.cryptobits.ltd",
         "notify":"cryptobitsokc@gmail.com"
     }
+    {
+        "name":"SONOFATECH",
+        "stats":"http://pirl.sonofatech.com/api/stats",
+        "blocks":"http://pirl.sonofatech.com/api/blocks",
+        "payments":"http://pirl.sonofatech.com/api/payments",
+        "accounts":"http://pirl.sonofatech.com/api/accounts",
+        "miners":"http://pirl.sonofatech.com/api/miners",
+        "url":"pirl.sonofatech.com",
+        "notify":""
+    }
 ]

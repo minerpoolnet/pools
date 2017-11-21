@@ -178,7 +178,7 @@
         "miners":"http://pirl.cryptobits.ltd/pirl/api/miners",
         "url":"pirl.cryptobits.ltd",
         "notify":"cryptobitsokc@gmail.com"
-    }
+    },
     {
         "name":"SONOFATECH",
         "stats":"http://pirl.sonofatech.com/api/stats",

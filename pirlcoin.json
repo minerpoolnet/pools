@@ -198,5 +198,15 @@
         "miners":"https://pirl.epool.io/api/miners",
         "url":"pirl.epool.io",
         "notify":""
-    }	
+    },
+    {
+        "name":"BAIKALMINE",
+        "stats":"http://pirl.baikalmine.ru/api/stats",
+        "blocks":"http://pirl.baikalmine.ru/api/blocks",
+        "payments":"http://pirl.baikalmine.ru/api/payments",
+        "accounts":"http://pirl.baikalmine.ru/api/accounts",
+        "miners":"http://pirl.baikalmine.ru/api/miners",
+        "url":"pirl.baikalmine.ru",
+        "notify":""
+    }
 ]

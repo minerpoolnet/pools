@@ -209,4 +209,15 @@
         "url":"pirl.baikalmine.ru",
         "notify":""
     }
+{
+        "name":"BaikalMine",
+        "stats":"http://pirl.baikalmine.ru/api/stats",
+        "blocks":"http://pirl.baikalmine.ru/api/blocks",
+        "payments":"http://pirl.baikalmine.ru/api/payments",
+        "accounts":"http://pirl.baikalmine.ru/api/accounts",
+        "miners":"http://pirl.baikalmine.ru/api/miners",
+        "url":"pirl.baikalmine.ru",
+        "notify":""
+    }
 ]
+

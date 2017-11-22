@@ -188,5 +188,14 @@
         "miners":"http://pirl.sonofatech.com/api/miners",
         "url":"pirl.sonofatech.com",
         "notify":""
-    }
+    },
+        "name":"EPOOL.IO",
+        "stats":"https://pirl.epool.io/api/stats",
+        "blocks":"https://pirl.epool.io/api/index",
+        "payments":"https://pirl.epool.io/api/payments",
+        "accounts":"https://pirl.epool.io/api/accounts",
+        "miners":"https://pirl.epool.io/api/miners",
+        "url":"pirl.epool.io",
+        "notify":""
+    }	
 ]

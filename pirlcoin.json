@@ -189,6 +189,7 @@
         "url":"pirl.sonofatech.com",
         "notify":""
     },
+    {
         "name":"EPOOL.IO",
         "stats":"https://pirl.epool.io/api/stats",
         "blocks":"https://pirl.epool.io/api/index",

@@ -208,5 +208,15 @@
         "miners":"http://pirl.baikalmine.ru/api/miners",
         "url":"pirl.baikalmine.ru",
         "notify":""
+    },
+    {
+        "name":"MYPOOL",
+        "stats":"https://api.pirl.mypool.online/api/stats",
+        "blocks":"https://api.pirl.mypool.online/api/blocks",
+        "payments":"https://api.pirl.mypool.online/api/payments",
+        "accounts":"https://api.pirl.mypool.online/api/accounts",
+        "miners":"https://api.pirl.mypool.online/api/miners",
+        "url":"pirl.mypool.online",
+        "notify":"support@mypool.online"
     }
 ]

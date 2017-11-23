@@ -78,5 +78,15 @@
   	"miners":"http://ella.pool.sexy/api/miners",
 	"url":"ella.pool.sexy",
         "notify":""
-    }
+	},
+    {
+		"name":"MYPOOL",
+		"stats":"https://api.ella.mypool.online/api/stats",
+		"blocks":"https://api.ella.mypool.online/api/blocks",
+		"payments":"https://api.ella.mypool.online/api/payments",
+		"accounts":"https://api.ella.mypool.online/api/accounts",
+		"miners":"https://api.ella.mypool.online/api/miners",
+		"url":"ella.mypool.online",
+		"notify":"support@mypool.online"
+	}
 ]

@@ -119,15 +119,15 @@
 	"url":"mscams.globalmine.net", 
         "notify":""
     },
-    {  
-	"name":"MYPOOL", 
-	"stats":"https://api.music.mypool.online/api/stats", 
-	"blocks":"https://api.music.mypool.online/api/blocks", 
-	"payments":"https://api.music.mypool.online/api/payments", 
-	"accounts":"https://api.music.mypool.online/api/accounts",
-  	"miners":"https://api.music.mypool.online/api/miners",
-	"url":"music.mypool.online", 
-        "notify":""
+    {
+		"name":"MYPOOL",
+		"stats":"https://api.music.mypool.online/api/stats",
+		"blocks":"https://api.music.mypool.online/api/blocks",
+		"payments":"https://api.music.mypool.online/api/payments",
+		"accounts":"https://api.music.mypool.online/api/accounts",
+		"miners":"https://api.music.mypool.online/api/miners",
+		"url":"music.mypool.online",
+		"notify":"support@mypool.online"
     },
     {  
 	"name":"MIXPOOLS", 

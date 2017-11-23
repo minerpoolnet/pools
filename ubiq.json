@@ -188,5 +188,15 @@
   	"miners":"http://ubiq.digitalpool.cc/api/miners",
 	"url":"ubiq.digitalpool.cc", 
         "notify":""
-    }
+	},
+    {
+		"name":"MYPOOL",
+		"stats":"https://api.ubq.mypool.online/api/stats",
+		"blocks":"https://api.ubq.mypool.online/api/blocks",
+		"payments":"https://api.ubq.mypool.online/api/payments",
+		"accounts":"https://api.ubq.mypool.online/api/accounts",
+		"miners":"https://api.ubq.mypool.online/api/miners",
+		"url":"ubq.mypool.online",
+		"notify":"support@mypool.online"
+	}
 ]

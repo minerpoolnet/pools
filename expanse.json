@@ -139,14 +139,14 @@
 	"url":"expmine.pro", 
         "notify":""
     },
-    {  
-	"name":"MYPOOL",
-	"stats":"https://api.exp.mypool.online/api/stats",
-	"blocks":"https://api.exp.mypool.online/api/blocks",
-	"payments":"https://api.exp.mypool.online/api/payments",
-	"accounts":"https://api.exp.mypool.online/api/accounts",
-  	"miners":"https://api.exp.mypool.online/api/miners",
-	"url":"exp.mypool.online",
-        "notify":""
+    {
+		"name":"MYPOOL",
+		"stats":"https://api.exp.mypool.online/api/stats",
+		"blocks":"https://api.exp.mypool.online/api/blocks",
+		"payments":"https://api.exp.mypool.online/api/payments",
+		"accounts":"https://api.exp.mypool.online/api/accounts",
+		"miners":"https://api.exp.mypool.online/api/miners",
+		"url":"exp.mypool.online",
+		"notify":"support@mypool.online"
     }
 ]

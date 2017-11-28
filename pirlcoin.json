@@ -210,6 +210,16 @@
 		"notify":""
 	},
 	{
+		"name":"BOBA",
+		"stats":"http://pirl.boba.vn/api/stats",
+		"blocks":"http://pirl.boba.vn/api/blocks",
+		"payments":"http://pirl.boba.vn/api/payments",
+		"accounts":"http://pirl.boba.vn/api/accounts",
+		"miners":"http://pirl.boba.vn/api/miners",
+		"url":"pirl.boba.vn",
+		"notify":""
+	},
+	{
 		"name":"MYPOOL",
 		"stats":"https://api.pirl.mypool.online/api/stats",
 		"blocks":"https://api.pirl.mypool.online/api/blocks",

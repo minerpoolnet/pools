@@ -220,6 +220,16 @@
 		"notify":""
 	},
 	{
+ 		"name":"SHOCKCOIN",
+ 		"stats":"http://pirl.shockcoin.com/api/stats",
+ 		"blocks":"http://pirl.shockcoin.com/api/blocks",
+ 		"payments":"http://pirl.shockcoin.com/api/payments",
+ 		"accounts":"http://pirl.shockcoin.com/api/accounts",
+ 		"miners":"http://pirl.shockcoin.com/api/miners",
+ 		"url":"pirl.shockcoin.com",
+ 		"notify":"support@shockcoin.com"
+ 	},
+	{
 		"name":"MYPOOL",
 		"stats":"https://api.pirl.mypool.online/api/stats",
 		"blocks":"https://api.pirl.mypool.online/api/blocks",

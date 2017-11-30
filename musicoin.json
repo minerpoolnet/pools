@@ -268,5 +268,15 @@
 		"miners":"http://musicpool.rig-share.com:8080/api/miners",
 		"url":"coins.farm",
 		"notify":""
+	},
+	{
+		"name":"2MINERS",
+		"stats":"https://music.2miners.com/api/stats",
+		"blocks":"https://music.2miners.com/api/blocks",
+		"payments":"https://music.2miners.com/api/payments",
+		"accounts":"https://music.2miners.com/api/accounts",
+		"miners":"https://music.2miners.com/api/miners",
+		"url":"2miners.com",
+		"notify":"support@2miners.com"
 	}
 ]

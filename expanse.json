@@ -148,5 +148,15 @@
 		"miners":"https://api.exp.mypool.online/api/miners",
 		"url":"exp.mypool.online",
 		"notify":"support@mypool.online"
+	},
+	{
+		"name":"2MINERS",
+		"stats":"https://exp.2miners.com/api/stats",
+		"blocks":"https://exp.2miners.com/api/blocks",
+		"payments":"https://exp.2miners.com/api/payments",
+		"accounts":"https://exp.2miners.com/api/accounts",
+		"miners":"https://exp.2miners.com/api/miners",
+		"url":"2miners.com",
+		"notify":"support@2miners.com"
 	}
 ]

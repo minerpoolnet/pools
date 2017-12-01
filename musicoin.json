@@ -260,6 +260,16 @@
 		"notify":""
 	},
 	{
+		"name":"CRYPTOSHIFT",
+		"stats":"http://music.cryptoshift.co.za/api/stats",
+		"blocks":"http://music.cryptoshift.co.za/api/blocks",
+		"payments":"http://music.cryptoshift.co.za/api/payments",
+		"accounts":"http://music.cryptoshift.co.za/api/accounts",
+		"miners":"http://music.cryptoshift.co.za/api/miners",
+		"url":"music.cryptoshift.co.za",
+		"notify":""
+	},
+	{
 		"name":"COINSFARM",
 		"stats":"http://musicpool.rig-share.com:8080/api/stats",
 		"blocks":"http://musicpool.rig-share.com:8080/api/blocks",

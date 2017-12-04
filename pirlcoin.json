@@ -240,6 +240,16 @@
  		"notify":""
  	},
 	{
+ 		"name":"DROWNINGPOOL",
+ 		"stats":"http://pirl.drowningpool.net/api/stats",
+ 		"blocks":"http://pirl.drowningpool.net/api/blocks",
+ 		"payments":"http://pirl.drowningpool.net/api/payments",
+ 		"accounts":"http://pirl.drowningpool.net/api/accounts",
+ 		"miners":"http://pirl.drowningpool.net/api/miners",
+ 		"url":"pirl.drowningpool.net",
+ 		"notify":""
+ 	},
+	{
 		"name":"MYPOOL",
 		"stats":"https://api.pirl.mypool.online/api/stats",
 		"blocks":"https://api.pirl.mypool.online/api/blocks",

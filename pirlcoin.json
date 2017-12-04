@@ -240,6 +240,26 @@
  		"notify":""
  	},
 	{
+ 		"name":"PIRL-POOL.IO",
+ 		"stats":"http://www.pirl-pool.io/api/stats",
+ 		"blocks":"http://www.pirl-pool.io/api/blocks",
+ 		"payments":"http://www.pirl-pool.io/api/payments",
+ 		"accounts":"http://www.pirl-pool.io/api/accounts",
+ 		"miners":"http://www.pirl-pool.io/api/miners",
+ 		"url":"www.pirl-pool.io",
+ 		"notify":""
+ 	},
+	{
+ 		"name":"DROWNINGPOOL",
+ 		"stats":"http://pirl.drowningpool.net/api/stats",
+ 		"blocks":"http://pirl.drowningpool.net/api/blocks",
+ 		"payments":"http://pirl.drowningpool.net/api/payments",
+ 		"accounts":"http://pirl.drowningpool.net/api/accounts",
+ 		"miners":"http://pirl.drowningpool.net/api/miners",
+ 		"url":"pirl.drowningpool.net",
+ 		"notify":""
+ 	},
+	{
 		"name":"MYPOOL",
 		"stats":"https://api.pirl.mypool.online/api/stats",
 		"blocks":"https://api.pirl.mypool.online/api/blocks",

@@ -230,7 +230,7 @@
  		"notify":"support@shockcoin.com"
  	},
 	{
- 		"name":"PIRL-POOL",
+ 		"name":"PIRL-POOL.COM",
  		"stats":"http://www.pirl-pool.com/api/stats",
  		"blocks":"http://www.pirl-pool.com/api/blocks",
  		"payments":"http://www.pirl-pool.com/api/payments",

@@ -90,6 +90,16 @@
 		"notify":"support@mypool.online"
 	},
 	{
+		"name":"ELLAISMPOOL",
+		"stats":"http://ellaismpool.com/api/stats",
+		"blocks":"http://ellaismpool.com/api/blocks",
+		"payments":"http://ellaismpool.com/api/payments",
+		"accounts":"http://ellaismpool.com/api/accounts",
+		"miners":"http://ellaismpool.com/api/miners",
+		"url":"ellaismpool.com",
+		"notify":""
+	},
+	{
  		"name":"CRYPTOPOOLS",
  		"stats":"http://ella.Cryptopools.info/api/stats",
  		"blocks":"http://ella.Cryptopools.info/api/blocks",

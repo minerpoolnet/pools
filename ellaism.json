@@ -100,6 +100,16 @@
 		"notify":""
 	},
 	{
+		"name":"HASHINGPOOL",
+		"stats":"http://ella.hashingpool.party/api/stats",
+		"blocks":"http://ella.hashingpool.party/api/blocks",
+		"payments":"http://ella.hashingpool.party/api/payments",
+		"accounts":"http://ella.hashingpool.party/api/accounts",
+		"miners":"http://ella.hashingpool.party/api/miners",
+		"url":"ella.hashingpool.party",
+		"notify":""
+	},
+	{
  		"name":"CRYPTOPOOLS",
  		"stats":"http://ella.Cryptopools.info/api/stats",
  		"blocks":"http://ella.Cryptopools.info/api/blocks",

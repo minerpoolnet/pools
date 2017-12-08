@@ -146,5 +146,16 @@
 		"miners":"http://whale-asia.hpool.net/api/miners",
 		"url":"whale-asia.hpool.net",
 		"notify":""
+	},
+	
+	{
+ 		"name":"CLONA.RU (SOLO)",
+ 		"stats":"http://clona.ru:4002/api/stats",
+ 		"blocks":"http://clona.ru:4002/api/blocks",
+ 		"payments":"http://clona.ru:4002/api/payments",
+ 		"accounts":"http://clona.ru:4002/api/accounts",
+ 		"miners":"http://clona.ru:4002/api/miners",
+ 		"url":"clona.ru:4003",
+ 		"notify":""
 	}
 ]

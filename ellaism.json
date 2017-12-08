@@ -118,5 +118,16 @@
  		"miners":"http://ella.Cryptopools.info/api/miners",
  		"url":"ella.Cryptopools.info",
  		"notify":"phatblinkie@hotmail.com"
+	},
+	
+	{
+ 		"name":"CLONA.RU (SOLO)",
+ 		"stats":"http://clona.ru:9010/api/stats",
+ 		"blocks":"http://clona.ru:9010/api/blocks",
+ 		"payments":"http://clona.ru:9010/api/payments",
+ 		"accounts":"http://clona.ru:9010/api/accounts",
+ 		"miners":"http://clona.ru:9010/api/miners",
+ 		"url":"clona.ru:9011",
+ 		"notify":""
 	}
 ]

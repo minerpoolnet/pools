@@ -68,16 +68,6 @@
 		"notify":""
 	},
 	{
-		"name":"ORCHARDCOINS",
-		"stats":"http://whale.orchardcoins.com/api/stats",
-		"blocks":"http://whale.orchardcoins.com/api/blocks",
-		"payments":"http://whale.orchardcoins.com/api/payments",
-		"accounts":"http://whale.orchardcoins.com/api/accounts",
-		"miners":"http://whale.orchardcoins.com/api/miners",
-		"url":"whale.orchardcoins.com",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://whale.hodlpool.com/api/stats",
 		"blocks":"http://whale.hodlpool.com/api/blocks",

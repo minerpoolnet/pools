@@ -90,16 +90,6 @@
 		"notify":"support@mypool.online"
 	},
 	{
-<<<<<<< HEAD
-		"name":"2MINERS",
-		"stats":"https://ella.2miners.com/api/stats",
-		"blocks":"https://ella.2miners.com/api/blocks",
-		"payments":"https://ella.2miners.com/api/payments",
-		"accounts":"https://ella.2miners.com/api/accounts",
-		"miners":"https://ella.2miners.com/api/miners",
-		"url":"2miners.com",
-		"notify":"support@2miners.com"
-=======
 		"name":"ELLAISMPOOL",
 		"stats":"http://ellaismpool.com/api/stats",
 		"blocks":"http://ellaismpool.com/api/blocks",
@@ -128,6 +118,15 @@
  		"miners":"http://ella.Cryptopools.info/api/miners",
  		"url":"ella.Cryptopools.info",
  		"notify":"phatblinkie@hotmail.com"
->>>>>>> upstream/master
-	}
+	},
+	{
+	  "name":"2MINERS",
+	  "stats":"https://ella.2miners.com/api/stats",
+	  "blocks":"https://ella.2miners.com/api/blocks",
+	  "payments":"https://ella.2miners.com/api/payments",
+	  "accounts":"https://ella.2miners.com/api/accounts",
+	  "miners":"https://ella.2miners.com/api/miners",
+	  "url":"2miners.com",
+	  "notify":"support@2miners.com"
+	}	
 ]

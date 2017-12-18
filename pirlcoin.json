@@ -230,16 +230,6 @@
 		"notify":"support@mypool.online"
 	},
 	{
-<<<<<<< HEAD
-			"name":"2MINERS",
-			"stats":"https://pirl.2miners.com/api/stats",
-			"blocks":"https://pirl.2miners.com/api/blocks",
-			"payments":"https://pirl.2miners.com/api/payments",
-			"accounts":"https://pirl.2miners.com/api/accounts",
-			"miners":"https://pirl.2miners.com/api/miners",
-			"url":"2miners.com",
-			"notify":"support@2miners.com"
-=======
 		"name":"MINEALLTHECOINS",
 		"stats":"http://api.pirl.mineallthecoins.com/api/stats",
 		"blocks":"http://api.pirl.mineallthecoins.com/api/blocks",
@@ -248,6 +238,15 @@
 		"miners":"http://api.pirl.mineallthecoins.com/api/miners",
 		"url":"api.pirl.mineallthecoins.com",
 		"notify":""
->>>>>>> upstream/master
+	},
+	{
+	"name":"2MINERS",
+	"stats":"https://pirl.2miners.com/api/stats",
+	"blocks":"https://pirl.2miners.com/api/blocks",
+	"payments":"https://pirl.2miners.com/api/payments",
+	"accounts":"https://pirl.2miners.com/api/accounts",
+	"miners":"https://pirl.2miners.com/api/miners",
+	"url":"2miners.com",
+	"notify":"support@2miners.com"
 	}
 ]

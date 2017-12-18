@@ -238,5 +238,15 @@
 		"miners":"https://api.pirl.mypool.online/api/miners",
 		"url":"pirl.mypool.online",
 		"notify":"support@mypool.online"
+	},
+	{
+		"name":"MINEALLTHECOINS",
+		"stats":"http://api.pirl.mineallthecoins.com/api/stats",
+		"blocks":"http://api.pirl.mineallthecoins.com/api/blocks",
+		"payments":"http://api.pirl.mineallthecoins.com/api/payments",
+		"accounts":"http://api.pirl.mineallthecoins.com/api/accounts",
+		"miners":"http://api.pirl.mineallthecoins.com/api/miners",
+		"url":"api.pirl.mineallthecoins.com",
+		"notify":""
 	}
 ]

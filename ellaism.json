@@ -90,6 +90,7 @@
 		"notify":"support@mypool.online"
 	},
 	{
+<<<<<<< HEAD
 		"name":"2MINERS",
 		"stats":"https://ella.2miners.com/api/stats",
 		"blocks":"https://ella.2miners.com/api/blocks",
@@ -98,5 +99,35 @@
 		"miners":"https://ella.2miners.com/api/miners",
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
+=======
+		"name":"ELLAISMPOOL",
+		"stats":"http://ellaismpool.com/api/stats",
+		"blocks":"http://ellaismpool.com/api/blocks",
+		"payments":"http://ellaismpool.com/api/payments",
+		"accounts":"http://ellaismpool.com/api/accounts",
+		"miners":"http://ellaismpool.com/api/miners",
+		"url":"ellaismpool.com",
+		"notify":""
+	},
+	{
+		"name":"HASHINGPOOL",
+		"stats":"http://ella.hashingpool.party/api/stats",
+		"blocks":"http://ella.hashingpool.party/api/blocks",
+		"payments":"http://ella.hashingpool.party/api/payments",
+		"accounts":"http://ella.hashingpool.party/api/accounts",
+		"miners":"http://ella.hashingpool.party/api/miners",
+		"url":"ella.hashingpool.party",
+		"notify":""
+	},
+	{
+ 		"name":"CRYPTOPOOLS",
+ 		"stats":"http://ella.Cryptopools.info/api/stats",
+ 		"blocks":"http://ella.Cryptopools.info/api/blocks",
+ 		"payments":"http://ella.Cryptopools.info/api/payments",
+ 		"accounts":"http://ella.Cryptopools.info/api/accounts",
+ 		"miners":"http://ella.Cryptopools.info/api/miners",
+ 		"url":"ella.Cryptopools.info",
+ 		"notify":"phatblinkie@hotmail.com"
+>>>>>>> upstream/master
 	}
 ]

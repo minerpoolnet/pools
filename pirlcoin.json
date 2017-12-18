@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"DIGITALPOOL",
-		"stats":"http://pirl.digitalpool.cc/api/stats",
-		"blocks":"http://pirl.digitalpool.cc/api/blocks",
-		"payments":"http://pirl.digitalpool.cc/api/payments",
-		"accounts":"http://pirl.digitalpool.cc/api/accounts",
-		"miners":"http://pirl.digitalpool.cc/api/miners",
-		"url":"pirl.digitalpool.cc",
-		"notify":""
-	},
-	{
 		"name":"POOL.SEXY",
 		"stats":"http://pirl.pool.sexy/api6/stats",
 		"blocks":"http://pirl.pool.sexy/api6/blocks",
@@ -47,16 +37,6 @@
 		"accounts":"http://109.70.186.58:3020/api/accounts",
 		"miners":"http://109.70.186.58:3020/api/miners",
 		"url":"mole-pool.net",
-		"notify":""
-	},
-	{
-		"name":"ALLCANMINE",
-		"stats":"http://pirl.allcanmine.net/api/stats",
-		"blocks":"http://pirl.allcanmine.net/api/blocks",
-		"payments":"http://pirl.allcanmine.net/api/payments",
-		"accounts":"http://pirl.allcanmine.net/api/accounts",
-		"miners":"http://pirl.allcanmine.net/api/miners",
-		"url":"pirl.allcanmine.net",
 		"notify":""
 	},
 	{
@@ -97,7 +77,7 @@
 		"accounts":"http://pirl.cryptopools.info/api/accounts",
 		"miners":"http://pirl.cryptopools.info/api/miners",
 		"url":"pirl.cryptopools.info",
-		"notify":""
+		"notify":"phatblinkie@hotmail.com"
 	},
 	{
 		"name":"COIN-MINERS",
@@ -127,16 +107,6 @@
 		"accounts":"http://pirl.miners-zone.net/apipirl/accounts",
 		"miners":"http://pirl.miners-zone.net/apipirl/miners",
 		"url":"pirl.miners-zone.net",
-		"notify":""
-	},
-	{
-		"name":"HASHINGPOOL",
-		"stats":"http://www.hashingpool.party/api/stats",
-		"blocks":"http://www.hashingpool.party/api/blocks",
-		"payments":"http://www.hashingpool.party/api/payments",
-		"accounts":"http://www.hashingpool.party/api/accounts",
-		"miners":"http://www.hashingpool.party/api/miners",
-		"url":"www.hashingpool.party",
 		"notify":""
 	},
 	{
@@ -230,13 +200,23 @@
  		"notify":"support@shockcoin.com"
  	},
 	{
- 		"name":"PIRL-POOL",
+ 		"name":"PIRL-POOL.COM",
  		"stats":"http://www.pirl-pool.com/api/stats",
  		"blocks":"http://www.pirl-pool.com/api/blocks",
  		"payments":"http://www.pirl-pool.com/api/payments",
  		"accounts":"http://www.pirl-pool.com/api/accounts",
  		"miners":"http://www.pirl-pool.com/api/miners",
  		"url":"www.pirl-pool.com",
+ 		"notify":""
+ 	},
+	{
+ 		"name":"DROWNINGPOOL",
+ 		"stats":"http://pirl.drowningpool.net/api/stats",
+ 		"blocks":"http://pirl.drowningpool.net/api/blocks",
+ 		"payments":"http://pirl.drowningpool.net/api/payments",
+ 		"accounts":"http://pirl.drowningpool.net/api/accounts",
+ 		"miners":"http://pirl.drowningpool.net/api/miners",
+ 		"url":"pirl.drowningpool.net",
  		"notify":""
  	},
 	{
@@ -250,6 +230,7 @@
 		"notify":"support@mypool.online"
 	},
 	{
+<<<<<<< HEAD
 			"name":"2MINERS",
 			"stats":"https://pirl.2miners.com/api/stats",
 			"blocks":"https://pirl.2miners.com/api/blocks",
@@ -258,5 +239,15 @@
 			"miners":"https://pirl.2miners.com/api/miners",
 			"url":"2miners.com",
 			"notify":"support@2miners.com"
+=======
+		"name":"MINEALLTHECOINS",
+		"stats":"http://api.pirl.mineallthecoins.com/api/stats",
+		"blocks":"http://api.pirl.mineallthecoins.com/api/blocks",
+		"payments":"http://api.pirl.mineallthecoins.com/api/payments",
+		"accounts":"http://api.pirl.mineallthecoins.com/api/accounts",
+		"miners":"http://api.pirl.mineallthecoins.com/api/miners",
+		"url":"api.pirl.mineallthecoins.com",
+		"notify":""
+>>>>>>> upstream/master
 	}
 ]

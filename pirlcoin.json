@@ -9,6 +9,16 @@
 		"url":"pirl.minerpool.net",
 		"notify":""
 	},
+	{  
+		"name":"JUSTHASH.ME",
+		"stats":"http://pirl.justhash.me/api/stats",
+		"blocks":"http://pirl.justhash.me/api/blocks",
+		"payments":"http://pirl.justhash.me/api/payments",
+		"accounts":"http://pirl.justhash.me/api/accounts",
+	  	"miners":"http://pirl.justhash.me/api/miners",
+		"url":"pirl.justhash.me", 
+        	"notify":""
+        },
 	{
 		"name":"HPPCG",
 		"stats":"https://us-nj-01.pools.hppcg.com/pirl/api/stats",

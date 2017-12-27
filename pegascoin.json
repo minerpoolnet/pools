@@ -48,5 +48,15 @@
 		"miners":"http://pegas.cryptopools.info/api/miners",
 		"url":"pegas.cryptopools.info",
 		"notify":""
+	},
+	{
+		"name":"PEGASPOOL",
+		"stats":"http://pegascoin.xyz/api/stats",
+		"blocks":"http://pegascoin.xyz/api/blocks",
+		"payments":"http://pegascoin.xyz/api/payments",
+		"accounts":"http://pegascoin.xyz/api/accounts",
+		"miners":"http://pegascoin.xyz/api/miners",
+		"url":"pegascoin.xyz",
+		"notify":""
 	}
 ]

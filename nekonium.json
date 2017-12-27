@@ -1,5 +1,15 @@
 [
 	{
+		"name":"MINERPOOL.NET",
+		"stats":"http://nuko.minerpool.net/api/stats",
+		"blocks":"http://nuko.minerpool.net/api/blocks",
+		"payments":"http://nuko.minerpool.net/api/payments",
+		"accounts":"http://nuko.minerpool.net/api/accounts",
+		"miners":"http://nuko.minerpool.net/api/miners",
+		"url":"nuko.minerpool.net",
+		"notify":"support@minerpool.net"
+	},
+	{
 		"name":"OLDBEYOND",
 		"stats":"http://52.168.133.100:10000/api/stats",
 		"blocks":"http://52.168.133.100:10000/api/blocks",

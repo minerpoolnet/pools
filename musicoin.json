@@ -291,7 +291,7 @@
 	},
 	
 	{
- 		"name":"CLONA.RU (SOLO)",
+ 		"name":"CLONA.RU",
  		"stats":"http://clona.ru:2929/api/stats",
  		"blocks":"http://clona.ru:2929/api/blocks",
  		"payments":"http://clona.ru:2929/api/payments",

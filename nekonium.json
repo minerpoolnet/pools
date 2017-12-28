@@ -50,6 +50,16 @@
 		"notify":""
 	},
 	{
+		"name":"MOFUMOFU",
+		"stats":"http://nuko.mofumofu.me/api/stats",
+		"blocks":"http://nuko.mofumofu.me/api/blocks",
+		"payments":"http://nuko.mofumofu.me/api/payments",
+		"accounts":"http://nuko.mofumofu.me/api/accounts",
+		"miners":"http://nuko.mofumofu.me/api/miners",
+		"url":"nuko.mofumofu.me",
+		"notify":""
+	},
+	{
 		"name":"NEKONIUM-POOL",
 		"stats":"http://www.nekonium-pool.com/api/stats",
 		"blocks":"http://www.nekonium-pool.com/api/blocks",

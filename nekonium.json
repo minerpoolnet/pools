@@ -60,6 +60,16 @@
 		"notify":""
 	},
 	{
+		"name":"ETHASH-COINS",
+		"stats":"http://nuko.ethash-coins.ru/api/stats",
+		"blocks":"http://nuko.ethash-coins.ru/api/blocks",
+		"payments":"http://nuko.ethash-coins.ru/api/payments",
+		"accounts":"http://nuko.ethash-coins.ru/api/accounts",
+		"miners":"http://nuko.ethash-coins.ru/api/miners",
+		"url":"nuko.ethash-coins.ru",
+		"notify":""
+	},
+	{
 		"name":"NEKONIUM-POOL",
 		"stats":"http://www.nekonium-pool.com/api/stats",
 		"blocks":"http://www.nekonium-pool.com/api/blocks",

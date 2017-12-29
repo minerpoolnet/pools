@@ -78,5 +78,15 @@
 		"miners":"http://www.nekonium-pool.com/api/miners",
 		"url":"www.nekonium-pool.com",
 		"notify":""
+	},
+		{
+		"name":"CryptoPools",
+		"stats":"http://Neko.CryptoPools.info/api/stats",
+		"blocks":"http://Neko.CryptoPools.info/api/blocks",
+		"payments":"http://Neko.CryptoPools.info/api/payments",
+		"accounts":"http://Neko.CryptoPools.info/api/accounts",
+		"miners":"http://Neko.CryptoPools.info/api/miners",
+		"url":"Neko.CryptoPools.info",
+		"notify":"phatblinkie@hotmail.com"
 	}
 ]

@@ -1,0 +1,12 @@
+[
+	{
+ 		"name":"CRYPTOPOOLS",
+ 		"stats":"http://nodez.Cryptopools.info/api/stats",
+ 		"blocks":"http://nodez.Cryptopools.info/api/blocks",
+ 		"payments":"http://nodez.Cryptopools.info/api/payments",
+ 		"accounts":"http://nodez.Cryptopools.info/api/accounts",
+ 		"miners":"http://nodez.Cryptopools.info/api/miners",
+ 		"url":"nodez.Cryptopools.info",
+ 		"notify":"phatblinkie@hotmail.com"
+	}
+]

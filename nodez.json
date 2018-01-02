@@ -1,5 +1,15 @@
 [
 	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://nodez.minerpool.net/api/stats",
+ 		"blocks":"http://nodez.minerpool.net/api/blocks",
+ 		"payments":"http://nodez.minerpool.net/api/payments",
+ 		"accounts":"http://nodez.minerpool.net/api/accounts",
+ 		"miners":"http://nodez.minerpool.net/api/miners",
+ 		"url":"nodez.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+	{
  		"name":"CRYPTOPOOLS",
  		"stats":"http://nodez.Cryptopools.info/api/stats",
  		"blocks":"http://nodez.Cryptopools.info/api/blocks",
@@ -8,5 +18,15 @@
  		"miners":"http://nodez.Cryptopools.info/api/miners",
  		"url":"nodez.Cryptopools.info",
  		"notify":"phatblinkie@hotmail.com"
+	},
+	{
+ 		"name":"HODLPOOL",
+ 		"stats":"http://ndz.hodlpool.com/api/stats",
+ 		"blocks":"http://ndz.hodlpool.com/api/blocks",
+ 		"payments":"http://ndz.hodlpool.com/api/payments",
+ 		"accounts":"http://ndz.hodlpool.com/api/accounts",
+ 		"miners":"http://ndz.hodlpool.com/api/miners",
+ 		"url":"ndz.hodlpool.com",
+ 		"notify":""
 	}
 ]

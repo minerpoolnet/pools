@@ -28,5 +28,15 @@
  		"miners":"http://ndz.hodlpool.com/api/miners",
  		"url":"ndz.hodlpool.com",
  		"notify":""
+	},
+	{
+ 		"name":"MINERTOPIA",
+ 		"stats":"http://nodez.minertopia.org/api/stats",
+ 		"blocks":"http://nodez.minertopia.org/api/blocks",
+ 		"payments":"http://nodez.minertopia.org/api/payments",
+ 		"accounts":"http://nodez.minertopia.org/api/accounts",
+ 		"miners":"http://nodez.minertopia.org/api/miners",
+ 		"url":"nodez.minertopia.org",
+ 		"notify":""
 	}
 ]

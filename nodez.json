@@ -38,5 +38,15 @@
  		"miners":"http://nodez.minertopia.org/api/miners",
  		"url":"nodez.minertopia.org",
  		"notify":""
+	},
+	{
+ 		"name":"PISTOLCRYPT",
+ 		"stats":"http://nodez.pistolcrypt.com/api/stats",
+ 		"blocks":"http://nodez.pistolcrypt.com/api/blocks",
+ 		"payments":"http://nodez.pistolcrypt.com/api/payments",
+ 		"accounts":"http://nodez.pistolcrypt.com/api/accounts",
+ 		"miners":"http://nodez.pistolcrypt.com/api/miners",
+ 		"url":"nodez.pistolcrypt.com",
+ 		"notify":""
 	}
 ]

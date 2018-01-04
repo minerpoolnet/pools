@@ -48,5 +48,15 @@
  		"miners":"http://nodez.pistolcrypt.com/api/miners",
  		"url":"nodez.pistolcrypt.com",
  		"notify":""
+	},
+	{
+ 		"name":"CRYPTOPROS",
+ 		"stats":"https://nodez.cryptopros.us/api/stats",
+ 		"blocks":"https://nodez.cryptopros.us/api/blocks",
+ 		"payments":"https://nodez.cryptopros.us/api/payments",
+ 		"accounts":"https://nodez.cryptopros.us/api/accounts",
+ 		"miners":"https://nodez.cryptopros.us/api/miners",
+ 		"url":"nodez.cryptopros.us",
+ 		"notify":""
 	}
 ]

@@ -118,5 +118,15 @@
 	  "miners":"https://ella.2miners.com/api/miners",
 	  "url":"2miners.com",
 	  "notify":"support@2miners.com"
-	}	
+	},
+	{
+       		"name":"EPOOL.IO",
+       		"stats":"https://ella.epool.io/api/stats",
+       		"blocks":"https://ella.epool.io/api/index",
+       		"payments":"https://ella.epool.io/api/payments",
+       		"accounts":"https://ella.epool.io/api/accounts",
+       		"miners":"https://ella.epool.io/api/miners",
+       		"url":"ella.epool.io",
+        	"notify":""
+        }	
 ]

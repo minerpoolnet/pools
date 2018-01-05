@@ -40,16 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"AKASHA",
-		"stats":"http://exp.akasha-pool.eu/api/stats",
-		"blocks":"http://exp.akasha-pool.eu/api/blocks",
-		"payments":"http://exp.akasha-pool.eu/api/payments",
-		"accounts":"http://exp.akasha-pool.eu/api/accounts",
-		"miners":"http://exp.akasha-pool.eu/api/miners",
-		"url":"exp.akasha-pool.eu",
-		"notify":""
-	},
-	{
 		"name":"MINANDOANDO",
 		"stats":"http://exp.minandoando.com/api/stats",
 		"blocks":"http://exp.minandoando.com/api/blocks",
@@ -57,16 +47,6 @@
 		"accounts":"http://exp.minandoando.com/api/accounts",
 		"miners":"http://exp.minandoando.com/api/miners",
 		"url":"exp.minandoando.com",
-		"notify":""
-	},
-	{
-		"name":"SERVEHTTP",
-		"stats":"http://exppool.servehttp.com/api/stats",
-		"blocks":"http://exppool.servehttp.com/api/blocks",
-		"payments":"http://exppool.servehttp.com/api/payments",
-		"accounts":"http://exppool.servehttp.com/api/accounts",
-		"miners":"http://exppool.servehttp.com/api/miners",
-		"url":"exppool.servehttp.com",
 		"notify":""
 	},
 	{
@@ -80,36 +60,6 @@
 		"notify":""
 	},
 	{
-		"name":"DIGGER.WS",
-		"stats":"http://exp.digger.ws/api/stats",
-		"blocks":"http://exp.digger.ws/api/blocks",
-		"payments":"http://exp.digger.ws/api/payments",
-		"accounts":"http://exp.digger.ws/api/accounts",
-		"miners":"http://exp.digger.ws/api/miners",
-		"url":"exp.digger.ws",
-		"notify":""
-	},
-	{
-		"name":"MINERAPE",
-		"stats":"http://expanse.minerape.io/api/stats",
-		"blocks":"http://expanse.minerape.io/api/blocks",
-		"payments":"http://expanse.minerape.io/api/payments",
-		"accounts":"http://expanse.minerape.io/api/accounts",
-		"miners":"http://expanse.minerape.io/api/miners",
-		"url":"expanse.minerape.io",
-		"notify":""
-	},
-	{
-		"name":"FTLPOOL",
-		"stats":"http://expanse.ftlpool.com/api/stats",
-		"blocks":"http://expanse.ftlpool.com/api/blocks",
-		"payments":"http://expanse.ftlpool.com/api/payments",
-		"accounts":"http://expanse.ftlpool.com/api/accounts",
-		"miners":"http://expanse.ftlpool.com/api/miners",
-		"url":"expanse.ftlpool.com",
-		"notify":""
-	},
-	{
 		"name":"ETHERTRENCH",
 		"stats":"http://exp.ethertrench.com/api/stats",
 		"blocks":"http://exp.ethertrench.com/api/blocks",
@@ -117,16 +67,6 @@
 		"accounts":"http://exp.ethertrench.com/api/accounts",
 		"miners":"http://exp.ethertrench.com/api/miners",
 		"url":"exp.ethertrench.com",
-		"notify":""
-	},
-	{
-		"name":"DIGITALPOOL",
-		"stats":"http://exp.digitalpool.cc/api/stats",
-		"blocks":"http://exp.digitalpool.cc/api/blocks",
-		"payments":"http://exp.digitalpool.cc/api/payments",
-		"accounts":"http://exp.digitalpool.cc/api/accounts",
-		"miners":"http://exp.digitalpool.cc/api/miners",
-		"url":"exp.digitalpool.cc",
 		"notify":""
 	},
 	{

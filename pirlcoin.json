@@ -240,13 +240,33 @@
 		"notify":""
 	},
 	{
-	"name":"2MINERS",
-	"stats":"https://pirl.2miners.com/api/stats",
-	"blocks":"https://pirl.2miners.com/api/blocks",
-	"payments":"https://pirl.2miners.com/api/payments",
-	"accounts":"https://pirl.2miners.com/api/accounts",
-	"miners":"https://pirl.2miners.com/api/miners",
-	"url":"2miners.com",
-	"notify":"support@2miners.com"
+		"name":"2MINERS",
+		"stats":"https://pirl.2miners.com/api/stats",
+		"blocks":"https://pirl.2miners.com/api/blocks",
+		"payments":"https://pirl.2miners.com/api/payments",
+		"accounts":"https://pirl.2miners.com/api/accounts",
+		"miners":"https://pirl.2miners.com/api/miners",
+		"url":"2miners.com",
+		"notify":"support@2miners.com"
+	},
+	{
+		"name":"AUSTRALIANPIRLPOOL",
+		"stats":"http://australianpirlpool.info/api/stats",
+		"blocks":"http://australianpirlpool.info/api/blocks",
+		"payments":"http://australianpirlpool.info/api/payments",
+		"accounts":"http://australianpirlpool.info/api/accounts",
+		"miners":"http://australianpirlpool.info/api/miners",
+		"url":"australianpirlpool.info",
+		"notify":""
+	},
+	{
+		"name":"PIRL ASIA POOL",
+		"stats":"http://pirl.asiapool.info/api/stats",
+		"blocks":"http://pirl.asiapool.info/api/blocks",
+		"payments":"http://pirl.asiapool.info/api/payments",
+		"accounts":"http://pirl.asiapool.info/api/accounts",
+		"miners":"http://pirl.asiapool.info/api/miners",
+		"url":"pirl.asiapool.info",
+		"notify":""
 	}
 ]

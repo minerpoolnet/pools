@@ -20,16 +20,6 @@
 		"notify":"pool@reidocoin.com.br"
 	},
 	{
-		"name":"CHINA UBIQ POOL",
-		"stats":"http://ubiq.allcanmine.net/api/stats",
-		"blocks":"http://ubiq.allcanmine.net/api/blocks",
-		"payments":"http://ubiq.allcanmine.net/api/payments",
-		"accounts":"http://ubiq.allcanmine.net/api/accounts",
-		"miners":"http://ubiq.allcanmine.net/api/miners",
-		"url":"ubiq.allcanmine.net",
-		"notify":""
-	},
-	{
 		"name":"UBIQPEON",
 		"stats":"http://ubiq.spdns.eu/api/stats",
 		"blocks":"http://ubiq.spdns.eu/api/blocks",
@@ -40,16 +30,6 @@
 		"notify":""
 	},
 	{
-		"name":"LOWFEEMINING",
-		"stats":"http://ubiq.lowfeemining.com:8080/api/stats",
-		"blocks":"http://ubiq.lowfeemining.com:8080/api/blocks",
-		"payments":"http://ubiq.lowfeemining.com:8080/api/payments",
-		"accounts":"http://ubiq.lowfeemining.com:8080/api/accounts",
-		"miners":"http://ubiq.lowfeemining.com:8080/api/miners",
-		"url":"ubiq.lowfeemining.com",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://ubiq.hodlpool.com/api/stats",
 		"blocks":"http://ubiq.hodlpool.com/api/blocks",
@@ -57,16 +37,6 @@
 		"accounts":"http://ubiq.hodlpool.com/api/accounts",
 		"miners":"http://ubiq.hodlpool.com/api/miners",
 		"url":"ubiq.hodlpool.com",
-		"notify":""
-	},
-	{
-		"name":"TERRAHASH",
-		"stats":"http://ubq.terrahash.cc/api/stats",
-		"blocks":"http://ubq.terrahash.cc/api/blocks",
-		"payments":"http://ubq.terrahash.cc/api/payments",
-		"accounts":"http://ubq.terrahash.cc/api/accounts",
-		"miners":"http://ubq.terrahash.cc/api/miners",
-		"url":"ubq.terrahash.cc",
 		"notify":""
 	},
 	{
@@ -110,26 +80,6 @@
 		"notify":""
 	},
 	{
-		"name":"MINERS-ZONE",
-		"stats":"http://ubq.miners-zone.net/api/stats",
-		"blocks":"http://ubq.miners-zone.net/api/blocks",
-		"payments":"http://ubq.miners-zone.net/api/payments",
-		"accounts":"http://ubq.miners-zone.net/api/accounts",
-		"miners":"http://ubq.miners-zone.net/api/miners",
-		"url":"ubq.miners-zone.net",
-		"notify":""
-	},
-	{
-		"name":"POOLCOIN",
-		"stats":"http://ubq.poolcoin.biz/apiubq/stats",
-		"blocks":"http://ubq.poolcoin.biz/apiubq/blocks",
-		"payments":"http://ubq.poolcoin.biz/apiubq/payments",
-		"accounts":"http://ubq.poolcoin.biz/api/accounts",
-		"miners":"http://ubq.poolcoin.biz/api/miners",
-		"url":"ubq.poolcoin.biz",
-		"notify":""
-	},
-	{
 		"name":"MOLE-POOL",
 		"stats":"http://109.70.186.58:5050/api/stats",
 		"blocks":"http://109.70.186.58:5050/api/blocks",
@@ -147,36 +97,6 @@
 		"accounts":"http://ubq.pool.sexy/api/accounts",
 		"miners":"http://ubq.pool.sexy/api/miners",
 		"url":"ubq.pool.sexy",
-		"notify":""
-	},
-	{
-		"name":"UBIQMINER",
-		"stats":"http://ubiqminer.com/api/stats",
-		"blocks":"http://ubiqminer.com/api/blocks",
-		"payments":"http://ubiqminer.com/api/payments",
-		"accounts":"http://ubiqminer.com/api/accounts",
-		"miners":"http://ubiqminer.com/api/miners",
-		"url":"ubiqminer.com",
-		"notify":""
-	},
-	{
-		"name":"UBIQMINERS",
-		"stats":"http://ubiqminers.org/api/stats",
-		"blocks":"http://ubiqminers.org/api/blocks",
-		"payments":"http://ubiqminers.org/api/payments",
-		"accounts":"http://ubiqminers.org/api/accounts",
-		"miners":"http://ubiqminers.org/api/miners",
-		"url":"ubiqminers.org",
-		"notify":""
-	},
-	{
-		"name":"EPOOL",
-		"stats":"https://ubq.epool.io/api/stats",
-		"blocks":"https://ubq.epool.io/api/blocks",
-		"payments":"https://ubq.epool.io/api/payments",
-		"accounts":"https://ubq.epool.io/api/accounts",
-		"miners":"https://ubq.epool.io/api/miners",
-		"url":"ubq.epool.io",
 		"notify":""
 	},
 	{

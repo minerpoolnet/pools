@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"ALLCANMINE",
-		"stats":"http://whale.allcanmine.net/api/stats",
-		"blocks":"http://whale.allcanmine.net/api/blocks",
-		"payments":"http://whale.allcanmine.net/api/payments",
-		"accounts":"http://whale.allcanmine.net/api/accounts",
-		"miners":"http://whale.allcanmine.net/api/miners",
-		"url":"whale.allcanmine.net",
-		"notify":""
-	},
-	{
 		"name":"GLOBALPOOL",
 		"stats":"http://whale.globalpool.cc/api/stats",
 		"blocks":"http://whale.globalpool.cc/api/blocks",
@@ -50,24 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"2ZO",
-		"stats":"http://whale.2zo.pw/ajax/ajax.stats.php",
-		"blocks":"http://whale.2zo.pw/ajax/ajax.blocks.php",
-		"payments":"",
-		"url":"whale.2zo.pw",
-		"notify":""
-	},
-	{
-		"name":"DYNU",
-		"stats":"http://whalepool.dynu.net/api/stats",
-		"blocks":"http://whalepool.dynu.net/api/blocks",
-		"payments":"http://whalepool.dynu.net/api/payments",
-		"accounts":"http://whalepool.dynu.net/api/accounts",
-		"miners":"http://whalepool.dynu.net/api/miners",
-		"url":"whalepool.dynu.net",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://whale.hodlpool.com/api/stats",
 		"blocks":"http://whale.hodlpool.com/api/blocks",
@@ -75,16 +47,6 @@
 		"accounts":"http://whale.hodlpool.com/api/accounts",
 		"miners":"http://whale.hodlpool.com/api/miners",
 		"url":"whale.hodlpool.com",
-		"notify":""
-	},
-	{
-		"name":"DIGITALPOOL",
-		"stats":"http://whl.digitalpool.cc/api/stats",
-		"blocks":"http://whl.digitalpool.cc/api/blocks",
-		"payments":"http://whl.digitalpool.cc/api/payments",
-		"accounts":"http://whl.digitalpool.cc/api/accounts",
-		"miners":"http://whl.digitalpool.cc/api/miners",
-		"url":"whl.digitalpool.cc",
 		"notify":""
 	},
 	{
@@ -115,26 +77,6 @@
 		"accounts":"http://whl.pool.sexy/api2/accounts",
 		"miners":"http://whl.pool.sexy/api2/miners",
 		"url":"whl.pool.sexy",
-		"notify":""
-	},
-	{
-		"name":"ZPOOL",
-		"stats":"http://whale.zpool.fun/api/stats",
-		"blocks":"http://whale.zpool.fun/api/blocks",
-		"payments":"http://whale.zpool.fun/api/payments",
-		"accounts":"http://whale.zpool.fun/api/accounts",
-		"miners":"http://whale.zpool.fun/api/miners",
-		"url":"whale.zpool.fun",
-		"notify":""
-	},
-	{
-		"name":"HPOOL",
-		"stats":"http://whale-asia.hpool.net/api/stats",
-		"blocks":"http://whale-asia.hpool.net/api/blocks",
-		"payments":"http://whale-asia.hpool.net/api/payments",
-		"accounts":"http://whale-asia.hpool.net/api/accounts",
-		"miners":"http://whale-asia.hpool.net/api/miners",
-		"url":"whale-asia.hpool.net",
 		"notify":""
 	}
 ]

@@ -30,16 +30,6 @@
 		"notify":"foreignfive@gmail.com"
 	},
 	{
-		"name":"2ZO",
-		"stats":"http://ellaism.2zo.pw/api/stats",
-		"blocks":"http://ellaism.2zo.pw/api/blocks",
-		"payments":"http://ellaism.2zo.pw/api/payments",
-		"accounts":"http://ellaism.2zo.pw/api/accounts",
-		"miners":"http://ellaism.2zo.pw/api/miners",
-		"url":"ellaism.2zo.pw",
-		"notify":""
-	},
-	{
 		"name":"ETHASH-COINS",
 		"stats":"http://ella.ethash-coins.ru/api/stats",
 		"blocks":"http://ella.ethash-coins.ru/api/blocks",
@@ -128,5 +118,15 @@
 	  "miners":"https://ella.2miners.com/api/miners",
 	  "url":"2miners.com",
 	  "notify":"support@2miners.com"
-	}	
+	},
+	{
+       		"name":"EPOOL.IO",
+       		"stats":"https://ella.epool.io/api/stats",
+       		"blocks":"https://ella.epool.io/api/index",
+       		"payments":"https://ella.epool.io/api/payments",
+       		"accounts":"https://ella.epool.io/api/accounts",
+       		"miners":"https://ella.epool.io/api/miners",
+       		"url":"ella.epool.io",
+        	"notify":""
+        }	
 ]

@@ -60,26 +60,6 @@
 		"notify":""
 	},
 	{
-		"name":"NEONPOOL",
-		"stats":"http://neonpool.ddns.net/api/stats",
-		"blocks":"http://neonpool.ddns.net/api/blocks",
-		"payments":"http://neonpool.ddns.net/api/payments",
-		"accounts":"http://neonpool.ddns.net/api/accounts",
-		"miners":"http://neonpool.ddns.net/api/miners",
-		"url":"neonpool.ddns.net",
-		"notify":""
-	},
-	{
-		"name":"MINERTOPIA",
-		"stats":"http://musicminers.org/api/stats",
-		"blocks":"http://musicminers.org/api/blocks",
-		"payments":"http://musicminers.org/api/payments",
-		"accounts":"http://musicminers.org/api/accounts",
-		"miners":"http://musicminers.org/api/miners",
-		"url":"musicminers.org",
-		"notify":""
-	},
-	{
 		"name":"MINECRYPTO",
 		"stats":"http://46.101.61.172:8080/api/stats",
 		"blocks":"http://46.101.61.172:8080/api/blocks",
@@ -110,16 +90,6 @@
 		"notify":""
 	},
 	{
-		"name":"GLOBALMINE",
-		"stats":"http://mscams.globalmine.net/api/stats",
-		"blocks":"http://mscams.globalmine.net/api/blocks",
-		"payments":"http://mscams.globalmine.net/api/payments",
-		"accounts":"http://mscams.globalmine.net/api/accounts",
-		"miners":"http://mscams.globalmine.net/api/miners",
-		"url":"mscams.globalmine.net",
-		"notify":""
-	},
-	{
 		"name":"MYPOOL",
 		"stats":"https://api.music.mypool.online/api/stats",
 		"blocks":"https://api.music.mypool.online/api/blocks",
@@ -137,16 +107,6 @@
 		"accounts":"https://musicapi.mixpools.org/api/accounts",
 		"miners":"https://musicapi.mixpools.org/api/miners",
 		"url":"mixpools.org",
-		"notify":""
-	},
-	{
-		"name":"TERRAHASH",
-		"stats":"http://mc.terrahash.cc/api/stats",
-		"blocks":"http://mc.terrahash.cc/api/blocks",
-		"payments":"http://mc.terrahash.cc/api/payments",
-		"accounts":"http://mc.terrahash.cc/api/accounts",
-		"miners":"http://mc.terrahash.cc/api/miners",
-		"url":"mc.terrahash.cc",
 		"notify":""
 	},
 	{
@@ -170,16 +130,6 @@
 		"notify":""
 	},
 	{
-		"name":"SERVEHTTP",
-		"stats":"http://mcpool.servehttp.com/api/stats",
-		"blocks":"http://mcpool.servehttp.com/api/blocks",
-		"payments":"http://mcpool.servehttp.com/api/payments",
-		"accounts":"http://mcpool.servehttp.com/api/accounts",
-		"miners":"http://mcpool.servehttp.com/api/miners",
-		"url":"mcpool.servehttp.com",
-		"notify":""
-	},
-	{
 		"name":"EPOOL EU",
 		"stats":"https://emc.epool.io/api/stats",
 		"blocks":"https://emc.epool.io/api/blocks",
@@ -187,16 +137,6 @@
 		"accounts":"https://emc.epool.io/api/accounts",
 		"miners":"https://emc.epool.io/api/miners",
 		"url":"emc.epool.io",
-		"notify":""
-	},
-	{
-		"name":"HODLPOOL",
-		"stats":"http://mc.hodlpool.com/api/stats",
-		"blocks":"http://mc.hodlpool.com/api/blocks",
-		"payments":"http://mc.hodlpool.com/api/payments",
-		"accounts":"http://mc.hodlpool.com/api/accounts",
-		"miners":"http://mc.hodlpool.com/api/miners",
-		"url":"mc.hodlpool.com",
 		"notify":""
 	},
 	{
@@ -210,16 +150,6 @@
 		"notify":""
 	},
 	{
-		"name":"DIGITALPOOL",
-		"stats":"http://mc.digitalpool.cc/api/stats",
-		"blocks":"http://mc.digitalpool.cc/api/blocks",
-		"payments":"http://mc.digitalpool.cc/api/payments",
-		"accounts":"http://mc.digitalpool.cc/api/accounts",
-		"miners":"http://mc.digitalpool.cc/api/miners",
-		"url":"mc.digitalpool.cc",
-		"notify":""
-	},
-	{
 		"name":"HAKOPOOL",
 		"stats":"http://musicoin.hakopool.com/?w=api&stats",
 		"blocks":"http://musicoin.hakopool.com/?w=api&blocks",
@@ -227,16 +157,6 @@
 		"accounts":"http://musicoin.hakopool.com/?w=api&accounts",
 		"miners":"http://musicoin.hakopool.com/?w=api&miners",
 		"url":"musicoin.hakopool.com",
-		"notify":""
-	},
-	{
-		"name":"GPUMINE",
-		"stats":"https://music.gpumine.org/api/stats",
-		"blocks":"https://music.gpumine.org/api/blocks",
-		"payments":"https://music.gpumine.org/api/payments",
-		"accounts":"https://music.gpumine.org/api/accounts",
-		"miners":"https://music.gpumine.org/api/miners",
-		"url":"music.gpumine.org",
 		"notify":""
 	},
 	{

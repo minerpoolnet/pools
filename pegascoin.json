@@ -27,26 +27,6 @@
 		"accounts":"https://pgc.coin-miners.info/api/accounts",
 		"miners":"https://pgc.coin-miners.info/api/miners",
 		"url":"pgc.coin-miners.info",
-	"notify":""
-	},
-	{
-		"name":"LITWILLER",
-		"stats":"https://pega.litwiller.us/api/stats",
-		"blocks":"https://pega.litwiller.us/api/blocks",
-		"payments":"https://pega.litwiller.us/api/payments",
-		"accounts":"https://pega.litwiller.us/api/accounts",
-		"miners":"https://pega.litwiller.us/api/miners",
-		"url":"pega.litwiller.us",
-		"notify":""
-	},
-	{
-		"name":"HODLPOOL",
-		"stats":"http://pgc.hodlpool.com:8109/api/stats",
-		"blocks":"http://pgc.hodlpool.com:8109/api/blocks",
-		"payments":"http://pgc.hodlpool.com:8109/api/payments",
-		"accounts":"http://pgc.hodlpool.com:8109/api/accounts",
-		"miners":"http://pgc.hodlpool.com:8109/api/miners",
-		"url":"pgc.hodlpool.com",
 		"notify":""
 	},
 	{
@@ -70,13 +50,13 @@
 		"notify":""
 	},
 	{
-		"name":"PEGAPOOL",
-		"stats":"http://pegapool.com/api/stats",
-		"blocks":"http://pegapool.com/api/blocks",
-		"payments":"http://pegapool.com/api/payments",
-		"accounts":"http://pegapool.com/api/accounts",
-		"miners":"http://pegapool.com/api/miners",
-		"url":"pegapool.com",
+		"name":"PEGASPOOL",
+		"stats":"http://pegascoin.xyz/api/stats",
+		"blocks":"http://pegascoin.xyz/api/blocks",
+		"payments":"http://pegascoin.xyz/api/payments",
+		"accounts":"http://pegascoin.xyz/api/accounts",
+		"miners":"http://pegascoin.xyz/api/miners",
+		"url":"pegascoin.xyz",
 		"notify":""
 	}
 ]

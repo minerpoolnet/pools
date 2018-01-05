@@ -268,5 +268,15 @@
 		"miners":"http://pirl.asiapool.info/api/miners",
 		"url":"pirl.asiapool.info",
 		"notify":""
-	}
+	},
+	{
+		"name":"CLONA",
+		"stats":"http://clona.ru:4012/api/stats",
+		"blocks":"http://clona.ru:4012/api/blocks",
+		"payments":"http://clona.ru:4012/api/payments",
+		"accounts":"http://clona.ru:4012/api/accounts",
+		"miners":"http://clona.ru:4012/api/miners",
+		"url":"clona.ru:4013",
+		"notify":""
+      }
 ]

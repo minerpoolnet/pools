@@ -78,5 +78,15 @@
 		"miners":"http://whl.pool.sexy/api2/miners",
 		"url":"whl.pool.sexy",
 		"notify":""
+	},
+	{
+		"name":"2MINERS",
+		"stats":"https://solo-whl.2miners.com/api/stats",
+		"blocks":"https://solo-whl.2miners.com/api/blocks",
+		"payments":"https://solo-whl.2miners.com/api/payments",
+		"accounts":"https://solo-whl.2miners.com/api/accounts",
+		"miners":"https://solo-whl.2miners.com/api/miners",
+		"url":"2miners.com",
+		"notify":"support@2miners.com"
 	}
 ]

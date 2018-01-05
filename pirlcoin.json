@@ -271,12 +271,12 @@
 	},
 	{
 		"name":"MINER-POOL.COM",
-		"stats":"http://miner-pool.com/api/stats",
-		"blocks":"http://miner-pool.com/api/blocks",
-		"payments":"http://miner-pool.com/api/payments",
-		"accounts":"http://miner-pool.com/api/accounts",
-		"miners":"http://miner-pool.com/api/miners",
-		"url":"miner-pool.com",
+		"stats":"http://pirl.miner-pool.com/api/stats",
+		"blocks":"http://pirl.miner-pool.com/api/blocks",
+		"payments":"http://pirl.miner-pool.com/api/payments",
+		"accounts":"http://pirl.miner-pool.com/api/accounts",
+		"miners":"http://pirl.miner-pool.com/api/miners",
+		"url":"pirl.miner-pool.com",
 		"notify":""
 	}
 ]

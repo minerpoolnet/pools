@@ -126,7 +126,7 @@
 		"payments":"http://clona.ru:3012/api/payments",
 		"accounts":"http://clona.ru:3012/api/accounts",
 		"miners":"http://clona.ru:3012/api/miners",
-		"url":"clona.ru:3015",
+		"url":"clona.ru",
 		"notify":""
       }
 ]

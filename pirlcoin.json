@@ -268,5 +268,15 @@
 		"miners":"http://pirl.asiapool.info/api/miners",
 		"url":"pirl.asiapool.info",
 		"notify":""
+	},
+	{
+		"name":"MINER-POOL.COM",
+		"stats":"http://pirl.miner-pool.com/api/stats",
+		"blocks":"http://pirl.miner-pool.com/api/blocks",
+		"payments":"http://pirl.miner-pool.com/api/payments",
+		"accounts":"http://pirl.miner-pool.com/api/accounts",
+		"miners":"http://pirl.miner-pool.com/api/miners",
+		"url":"pirl.miner-pool.com",
+		"notify":""
 	}
 ]

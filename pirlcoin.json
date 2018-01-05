@@ -278,5 +278,15 @@
 		"miners":"http://clona.ru:4012/api/miners",
 		"url":"clona.ru:4013",
 		"notify":""
-      }
+	},
+	{
+		"name":"MINER-POOL.COM",
+		"stats":"http://pirl.miner-pool.com/api/stats",
+		"blocks":"http://pirl.miner-pool.com/api/blocks",
+		"payments":"http://pirl.miner-pool.com/api/payments",
+		"accounts":"http://pirl.miner-pool.com/api/accounts",
+		"miners":"http://pirl.miner-pool.com/api/miners",
+		"url":"pirl.miner-pool.com",
+		"notify":""
+	}
 ]

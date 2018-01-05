@@ -276,7 +276,7 @@
 		"payments":"http://clona.ru:4012/api/payments",
 		"accounts":"http://clona.ru:4012/api/accounts",
 		"miners":"http://clona.ru:4012/api/miners",
-		"url":"clona.ru:4013",
+		"url":"clona.ru",
 		"notify":""
 	},
 	{

@@ -208,5 +208,15 @@
 		"miners":"https://music.2miners.com/api/miners",
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
-	}
+	},
+	{
+		"name":"CLONA",
+		"stats":"http://clona.ru:2929/api/stats",
+		"blocks":"http://clona.ru:2929/api/blocks",
+		"payments":"http://clona.ru:2929/api/payments",
+		"accounts":"http://clona.ru:2929/api/accounts",
+		"miners":"http://clona.ru:2929/api/miners",
+		"url":"clona.ru",
+		"notify":""
+      }
 ]

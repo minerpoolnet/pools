@@ -216,7 +216,7 @@
 		"payments":"http://clona.ru:2929/api/payments",
 		"accounts":"http://clona.ru:2929/api/accounts",
 		"miners":"http://clona.ru:2929/api/miners",
-		"url":"clona.ru:8089",
+		"url":"clona.ru",
 		"notify":""
       }
 ]

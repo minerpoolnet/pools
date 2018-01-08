@@ -290,7 +290,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pirl.Space (PPS)",
+		"name":"PIRL.SPACE",
 		"stats":"http://pirl.space/api/stats",
 		"blocks":"http://pirl.space/api/blocks",
 		"payments":"http://pirl.space/api/payments",

@@ -70,16 +70,6 @@
 		"notify":""
 	},
 	{
-		"name":"CRYPTOPOOLS",
-		"stats":"http://neko.cryptopools.info/api/stats",
-		"blocks":"http://neko.cryptopools.info/api/blocks",
-		"payments":"http://neko.cryptopools.info/api/payments",
-		"accounts":"http://neko.cryptopools.info/api/accounts",
-		"miners":"http://neko.cryptopools.info/api/miners",
-		"url":"neko.cryptopools.info",
-		"notify":""
-	},
-	{
 		"name":"NEKONIUM-POOL",
 		"stats":"http://www.nekonium-pool.com/api/stats",
 		"blocks":"http://www.nekonium-pool.com/api/blocks",

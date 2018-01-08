@@ -288,5 +288,15 @@
 		"miners":"http://pirl.miner-pool.com/api/miners",
 		"url":"pirl.miner-pool.com",
 		"notify":""
+	},
+	{
+		"name":"Pirl.Space (PPS)",
+		"stats":"http://pirl.space/api/stats",
+		"blocks":"http://pirl.space/api/blocks",
+		"payments":"http://pirl.space/api/payments",
+		"accounts":"http://pirl.space/api/accounts",
+		"miners":"http://pirl.space/api/miners",
+		"url":"pirl.space",
+		"notify":""
 	}
 ]

@@ -48,5 +48,15 @@
 		"miners":"http://pegascoin.xyz/api/miners",
 		"url":"pegascoin.xyz",
 		"notify":""
+	},
+	{
+ 		"name":"cryptopools.info",
+ 		"stats":"http://pegas.cryptopools.info/api/stats",
+ 		"blocks":"http://pegas.cryptopools.info/api/blocks",
+ 		"payments":"http://pegas.cryptopools.info/api/payments",
+ 		"accounts":"http://pegas.cryptopools.info/api/accounts",
+ 		"miners":"https://pegas.cryptopools.info/api/miners",
+ 		"url":"pegas.cryptopools.info",
+ 		"notify":"phatblinkie@hotmail.com"
 	}
 ]

@@ -88,5 +88,15 @@
 		"miners":"http://clona.ru:9015/api/miners",
 		"url":"clona.ru",
 		"notify":""
-      }
+       },
+	{
+ 		"name":"cryptopools.info",
+ 		"stats":"http://neko.cryptopools.info/api/stats",
+ 		"blocks":"http://neko.cryptopools.info/api/blocks",
+ 		"payments":"http://neko.cryptopools.info/api/payments",
+ 		"accounts":"http://neko.cryptopools.info/api/accounts",
+ 		"miners":"http://neko.cryptopools.info/api/miners",
+ 		"url":"neko.cryptopools.info",
+ 		"notify":"phatblinkie@hotmail.com"
+	}
 ]

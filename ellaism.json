@@ -10,6 +10,16 @@
 		"notify":"support@minerpool.net"
 	},
 	{
+		"name":"MegaPool.io",
+		"stats":"https://megapool.io/api/stats/ella",
+		"blocks":"https://megapool.io/api/blocks/ella",
+		"payments":"https://megapool.io/api/payments/ella",
+		"accounts":"https://megapool.io/api/accounts/ella",
+		"miners":"https://megapool.io/api/miners/ella",
+		"url":"megapool.io/ella",
+		"notify":"support@megapool.io"
+	},
+	{
 		"name":"ELLAISM CORE",
 		"stats":"http://poolapi.ellaism.org/api/stats",
 		"blocks":"http://poolapi.ellaism.org/api/blocks",

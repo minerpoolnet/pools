@@ -10,6 +10,16 @@
 		"notify":"support@minerpool.net"
 	},
 	{
+		"name":"MegaPool.io",
+		"stats":"https://megapool.io/api/stats/ubq",
+		"blocks":"https://megapool.io/api/blocks/ubq",
+		"payments":"https://megapool.io/api/payments/ubq",
+		"accounts":"https://megapool.io/api/accounts/ubq",
+		"miners":"https://megapool.io/api/miners/ubq",
+		"url":"megapool.io/ubq",
+		"notify":"support@megapool.io"
+	},
+	{
 		"name":"REIDOCOIN",
 		"stats":"https://ubq.reidocoin.com.br/api/stats",
 		"blocks":"https://ubq.reidocoin.com.br/api/blocks",

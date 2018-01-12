@@ -1,0 +1,42 @@
+[
+	{
+		"name":"VICTORIUM OFFICIAL",
+		"stats":"http://pool.victorium.org/api/stats",
+		"blocks":"http://pool.victorium.org/api/blocks",
+		"payments":"http://pool.victorium.org/api/payments",
+		"accounts":"http://pool.victorium.org/api/accounts",
+		"miners":"http://pool.victorium.org/api/miners",
+		"url":"pool.victorium.org",
+		"notify":""
+	},
+	{
+		"name":"POOL.SEXY",
+		"stats":"http://vic.pool.sexy/api3/stats",
+		"blocks":"http://vic.pool.sexy/api3/blocks",
+		"payments":"http://vic.pool.sexy/api3/payments",
+		"accounts":"http://vic.pool.sexy/api3/accounts",
+		"miners":"http://vic.pool.sexy/api3/miners",
+		"url":"vic.pool.sexy",
+		"notify":""
+	},
+	{
+		"name":"ALTPOOL",
+		"stats":"http://vic.altpool.pro/api/stats",
+		"blocks":"http://vic.altpool.pro/api/blocks",
+		"payments":"http://vic.altpool.pro/api/payments",
+		"accounts":"http://vic.altpool.pro/api/accounts",
+		"miners":"http://vic.altpool.pro/api/miners",
+		"url":"vic.altpool.pro",
+		"notify":""
+	},
+	{
+		"name":"BAIKALMINE",
+		"stats":"http://vic.baikalmine.com/api/stats",
+		"blocks":"http://vic.baikalmine.com/api/blocks",
+		"payments":"http://vic.baikalmine.com/api/payments",
+		"accounts":"http://vic.baikalmine.com/api/accounts",
+		"miners":"http://vic.baikalmine.com/api/miners",
+		"url":"vic.baikalmine.com",
+		"notify":""
+	}
+]

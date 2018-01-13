@@ -58,5 +58,15 @@
 		"miners":"http://vic.ethash-coins.ru/api/miners",
 		"url":"vic.ethash-coins.ru",
 		"notify":""
-	}
+	},
+	{
+		"name":"CLONA",
+		"stats":"http://clona.ru:9002/api/stats",
+		"blocks":"http://clona.ru:9002/api/blocks",
+		"payments":"http://clona.ru:9002api/payments",
+		"accounts":"http://clona.ru:9002api/accounts",
+		"miners":"http://clona.ru:9002api/miners",
+		"url":"clona.ru",
+		"notify":""
+      }
 ]

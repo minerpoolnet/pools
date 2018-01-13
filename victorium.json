@@ -38,5 +38,25 @@
 		"miners":"http://vic.baikalmine.com/api/miners",
 		"url":"vic.baikalmine.com",
 		"notify":""
+	},
+	{
+		"name":"CLONA",
+		"stats":"http://clona.ru:9002/api/stats",
+		"blocks":"http://clona.ru:9002/api/blocks",
+		"payments":"http://clona.ru:9002/api/payments",
+		"accounts":"http://clona.ru:9002/api/accounts",
+		"miners":"http://clona.ru:9002/api/miners",
+		"url":"clona.ru",
+		"notify":""
+	},
+	{
+		"name":"ETHASH-COINS",
+		"stats":"http://vic.ethash-coins.ru/api/stats",
+		"blocks":"http://vic.ethash-coins.ru/api/blocks",
+		"payments":"http://vic.ethash-coins.ru/api/payments",
+		"accounts":"http://vic.ethash-coins.ru/api/accounts",
+		"miners":"http://vic.ethash-coins.ru/api/miners",
+		"url":"vic.ethash-coins.ru",
+		"notify":""
 	}
 ]

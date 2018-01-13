@@ -80,16 +80,6 @@
 		"notify":""
 	},
 	{
-		"name":"MOLE-POOL",
-		"stats":"http://109.70.186.58:5050/api/stats",
-		"blocks":"http://109.70.186.58:5050/api/blocks",
-		"payments":"http://109.70.186.58:5050/api/payments",
-		"accounts":"http://109.70.186.58:5050/api/accounts",
-		"miners":"http://109.70.186.58:5050/api/miners",
-		"url":"ubiq.mole-pool.net",
-		"notify":""
-	},
-	{
 		"name":"POOLSEXY",
 		"stats":"http://ubq.pool.sexy/api/stats",
 		"blocks":"http://ubq.pool.sexy/api/blocks",

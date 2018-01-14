@@ -1,0 +1,13 @@
+
++	},
++	{
++ 		"name":"pirlmine.com",
++ 		"stats":"http://pirlmine.com/api/stats",
++ 		"blocks":"http://pirlmine.com/api/blocks",
++ 		"payments":"http://pirlmine.com/api/payments",
++ 		"accounts":"http://pirlmine.com/api/accounts",
++ 		"miners":"http://pirlmine.com/api/miners",
++ 		"url":"pirlmine.com",
++ 		"notify":"mathias77992@gmail.com"
+ 	}
+ ]

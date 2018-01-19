@@ -298,5 +298,15 @@
 		"miners":"http://pirl.space/api/miners",
 		"url":"pirl.space",
 		"notify":""
+	},
+	{
+		"name":"ALTPOOL",
+		"stats":"http://pirl.altpool.pro/api/stats",
+		"blocks":"http://pirl.altpool.pro/api/blocks",
+		"payments":"http://pirl.altpool.pro/api/payments",
+		"accounts":"http://pirl.altpool.pro/api/accounts",
+		"miners":"http://pirl.altpool.pro/api/miners",
+		"url":"pirl.altpool.pro",
+		"notify":""
 	}
 ]

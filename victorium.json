@@ -58,5 +58,25 @@
 		"miners":"http://vic.ethash-coins.ru/api/miners",
 		"url":"vic.ethash-coins.ru",
 		"notify":""
+	},
+	{
+		"name":"HASHING.PARTY",
+		"stats":"http://vic.hashing.party/api/stats",
+		"blocks":"http://vic.hashing.party/api/blocks",
+		"payments":"http://vic.hashing.party/api/payments",
+		"accounts":"http://vic.hashing.party/api/accounts",
+		"miners":"http://vic.hashing.party/api/miners",
+		"url":"vic.hashing.party",
+		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://vic.mole-pool.net/api/stats",
+		"blocks":"http://vic.mole-pool.net/api/blocks",
+		"payments":"http://vic.mole-pool.net/api/payments",
+		"accounts":"http://vic.mole-pool.net/api/accounts",
+		"miners":"http://vic.mole-pool.net/api/miners",
+		"url":"vic.mole-pool.net",
+		"notify":""
 	}
 ]

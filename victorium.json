@@ -10,6 +10,16 @@
 		"notify":""
 	},
 	{
+		"name":"MINERPOOL.NET",
+		"stats":"http://vic.minerpool.net/api/stats",
+		"blocks":"http://vic.minerpool.net/api/blocks",
+		"payments":"http://vic.minerpool.net/api/payments",
+		"accounts":"http://vic.minerpool.net/api/accounts",
+		"miners":"http://vic.minerpool.net/api/miners",
+		"url":"vic.minerpool.net",
+		"notify":""
+	},
+	{
 		"name":"POOL.SEXY",
 		"stats":"http://vic.pool.sexy/api3/stats",
 		"blocks":"http://vic.pool.sexy/api3/blocks",

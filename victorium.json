@@ -88,5 +88,15 @@
 		"miners":"http://vic.mole-pool.net/api/miners",
 		"url":"vic.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"CryptoPools",
+		"stats":"http://vic.cryptopools.info/api/stats",
+		"blocks":"http://vic.cryptopools.info/api/blocks",
+		"payments":"http://vic.cryptopools.info/api/payments",
+		"accounts":"http://vic.cryptopools.info/api/accounts",
+		"miners":"http://vic.cryptopools.infot/api/miners",
+		"url":"vic.cryptopools.info",
+		"notify":"phatblinkie@hotmail.com"
 	}
 ]

@@ -90,13 +90,13 @@
 		"notify":""
 	},
 	{
-		"name":"CryptoPools",
-		"stats":"http://vic.cryptopools.info/api/stats",
-		"blocks":"http://vic.cryptopools.info/api/blocks",
-		"payments":"http://vic.cryptopools.info/api/payments",
-		"accounts":"http://vic.cryptopools.info/api/accounts",
-		"miners":"http://vic.cryptopools.infot/api/miners",
+		"name":"CRYPTOPOOLS",
+		"stats":"https://vic.cryptopools.info/api/stats",
+		"blocks":"https://vic.cryptopools.info/api/blocks",
+		"payments":"https://vic.cryptopools.info/api/payments",
+		"accounts":"https://vic.cryptopools.info/api/accounts",
+		"miners":"https://vic.cryptopools.info/api/miners",
 		"url":"vic.cryptopools.info",
-		"notify":"phatblinkie@hotmail.com"
+		"notify":""
 	}
 ]

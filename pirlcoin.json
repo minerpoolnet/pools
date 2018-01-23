@@ -309,7 +309,7 @@
 		"url":"pirlmine.com",
 		"notify":""
 	},
-	{  
+	{
 	 	"name":"ALTPOOL",
 		"stats":"http://pirl.altpool.pro/api/stats",
 		"blocks":"http://pirl.altpool.pro/api/blocks",

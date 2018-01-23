@@ -300,7 +300,7 @@
 		"notify":""
 	},
 	{
-     "name":"PIRLMINE",
+                "name":"PIRLMINE",
 		"stats":"http://pirlmine.com/api/stats",
 		"blocks":"http://pirlmine.com/api/blocks",
 		"payments":"http://pirlmine.com/api/payments",
@@ -308,7 +308,6 @@
 		"miners":"http://pirlmine.com/api/miners",
 		"url":"pirlmine.com",
 		"notify":""
-
 	},
 	{  
 	 	"name":"ALTPOOL",

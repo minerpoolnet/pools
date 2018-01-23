@@ -10,6 +10,16 @@
 		"notify":""
 	},
 	{
+		"name":"MINERPOOL.NET",
+		"stats":"http://vic.minerpool.net/api/stats",
+		"blocks":"http://vic.minerpool.net/api/blocks",
+		"payments":"http://vic.minerpool.net/api/payments",
+		"accounts":"http://vic.minerpool.net/api/accounts",
+		"miners":"http://vic.minerpool.net/api/miners",
+		"url":"vic.minerpool.net",
+		"notify":""
+	},
+	{
 		"name":"POOL.SEXY",
 		"stats":"http://vic.pool.sexy/api3/stats",
 		"blocks":"http://vic.pool.sexy/api3/blocks",
@@ -57,6 +67,36 @@
 		"accounts":"http://vic.ethash-coins.ru/api/accounts",
 		"miners":"http://vic.ethash-coins.ru/api/miners",
 		"url":"vic.ethash-coins.ru",
+		"notify":""
+	},
+	{
+		"name":"HASHING.PARTY",
+		"stats":"http://vic.hashing.party/api/stats",
+		"blocks":"http://vic.hashing.party/api/blocks",
+		"payments":"http://vic.hashing.party/api/payments",
+		"accounts":"http://vic.hashing.party/api/accounts",
+		"miners":"http://vic.hashing.party/api/miners",
+		"url":"vic.hashing.party",
+		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://vic.mole-pool.net/api/stats",
+		"blocks":"http://vic.mole-pool.net/api/blocks",
+		"payments":"http://vic.mole-pool.net/api/payments",
+		"accounts":"http://vic.mole-pool.net/api/accounts",
+		"miners":"http://vic.mole-pool.net/api/miners",
+		"url":"vic.mole-pool.net",
+		"notify":""
+	},
+	{
+		"name":"CRYPTOPOOLS",
+		"stats":"https://vic.cryptopools.info/api/stats",
+		"blocks":"https://vic.cryptopools.info/api/blocks",
+		"payments":"https://vic.cryptopools.info/api/payments",
+		"accounts":"https://vic.cryptopools.info/api/accounts",
+		"miners":"https://vic.cryptopools.info/api/miners",
+		"url":"vic.cryptopools.info",
 		"notify":""
 	}
 ]

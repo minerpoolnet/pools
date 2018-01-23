@@ -138,5 +138,25 @@
 		"miners":"http://clona.ru:9010/api/miners",
 		"url":"clona.ru",
 		"notify":""
+      },
+      {
+		"name":"TETRAPOOL",
+		"stats":"https://ellaism.tetrapool.com/api/stats",
+		"blocks":"https://ellaism.tetrapool.com/api/blocks",
+		"payments":"https://ellaism.tetrapool.com/api/payments",
+		"accounts":"https://ellaism.tetrapool.com/api/accounts",
+		"miners":"https://ellaism.tetrapool.com/api/miners",
+		"url":"ellaism.tetrapool.com",
+		"notify":""
+      },
+      {
+		"name":"COINSFARM",
+		"stats":"http://138.68.249.66:8080/api/stats",
+		"blocks":"http://138.68.249.66:8080/api/blocks",
+		"payments":"http://138.68.249.66:8080/api/payments",
+		"accounts":"http://138.68.249.66:8080/api/accounts",
+		"miners":"http://138.68.249.66:8080/api/miners",
+		"url":"coins.farm",
+		"notify":""
       }
 ]

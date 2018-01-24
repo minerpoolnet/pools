@@ -308,5 +308,15 @@
 		"miners":"http://pirl.altpool.pro/api/miners",
 		"url":"pirl.altpool.pro",
 		"notify":""
-	}
+	},
+	{
+ 		"name":"PIRLMINE",
+ 		"stats":"http://pirlmine.com/api/stats",
+ 		"blocks":"http://pirlmine.com/api/blocks",
+ 		"payments":"http://pirlmine.com/api/payments",
+ 		"accounts":"http://pirlmine.com/api/accounts",
+ 		"miners":"http://pirlmine.com/api/miners",
+ 		"url":"pirlmine.com",
+ 		"notify":""
+ 	}
 ]

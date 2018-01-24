@@ -218,5 +218,15 @@
 		"miners":"http://clona.ru:2929/api/miners",
 		"url":"clona.ru",
 		"notify":""
-      }
+      },
+	{
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/music",
+		"blocks":"https://megapool.io/api/blocks/music",
+		"payments":"https://megapool.io/api/payments/music",
+		"accounts":"https://megapool.io/api/accounts/music",
+		"miners":"https://megapool.io/api/miners/music",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
+	}
 ]

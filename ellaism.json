@@ -168,5 +168,15 @@
 		"miners":"http://138.68.249.66:8080/api/miners",
 		"url":"coins.farm",
 		"notify":""
+      },
+      {
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/ella",
+		"blocks":"https://megapool.io/api/blocks/ella",
+		"payments":"https://megapool.io/api/payments/ella",
+		"accounts":"https://megapool.io/api/accounts/ella",
+		"miners":"https://megapool.io/api/miners/ella",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
       }
 ]

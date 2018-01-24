@@ -118,5 +118,15 @@
 		"miners":"http://clona.ru:3012/api/miners",
 		"url":"clona.ru",
 		"notify":""
-      }
+      },
+	{
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/ubq",
+		"blocks":"https://megapool.io/api/blocks/ubq",
+		"payments":"https://megapool.io/api/payments/ubq",
+		"accounts":"https://megapool.io/api/accounts/ubq",
+		"miners":"https://megapool.io/api/miners/ubq",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
+	}
 ]

@@ -98,5 +98,15 @@
 		"miners":"https://vic.cryptopools.info/api/miners",
 		"url":"vic.cryptopools.info",
 		"notify":""
+	},
+	{
+		"name":"MININGPOND",
+		"stats":"http://victorium.miningpond.com/api/stats",
+		"blocks":"http://victorium.miningpond.com/api/blocks",
+		"payments":"http://victorium.miningpond.com/api/payments",
+		"accounts":"http://victorium.miningpond.com/api/accounts",
+		"miners":"http://victorium.miningpond.com/api/miners",
+		"url":"victorium.miningpond.com",
+		"notify":""
 	}
 ]

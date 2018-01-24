@@ -10,16 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"MegaPool.io",
-		"stats":"https://megapool.io/api/stats/exp",
-		"blocks":"https://megapool.io/api/blocks/exp",
-		"payments":"https://megapool.io/api/payments/exp",
-		"accounts":"https://megapool.io/api/accounts/exp",
-		"miners":"https://megapool.io/api/miners/exp",
-		"url":"megapool.io/exp",
-		"notify":"support@megapool.io"
-	},
-	{
 		"name":"REIDOCOIN",
 		"stats":"https://exp.reidocoin.com.br/api/stats",
 		"blocks":"https://exp.reidocoin.com.br/api/blocks",
@@ -108,5 +98,15 @@
 		"miners":"https://exp.2miners.com/api/miners",
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
+	},
+	{
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/exp",
+		"blocks":"https://megapool.io/api/blocks/exp",
+		"payments":"https://megapool.io/api/payments/exp",
+		"accounts":"https://megapool.io/api/accounts/exp",
+		"miners":"https://megapool.io/api/miners/exp",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
 	}
 ]

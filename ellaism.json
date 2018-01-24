@@ -50,6 +50,16 @@
 		"notify":""
 	},
 	{
+		"name":"BAIKALMINE",
+		"stats":"http://ell.baikalmine.com/api/stats",
+		"blocks":"http://ell.baikalmine.com/api/blocks",
+		"payments":"http://ell.baikalmine.com/api/payments",
+		"accounts":"http://ell.baikalmine.com/api/accounts",
+		"miners":"http://ell.baikalmine.com/api/miners",
+		"url":"ell.baikalmine.com",
+		"notify":""
+	},
+	{
 		"name":"ALTPOOL",
 		"stats":"http://ella.altpool.pro/api/stats",
 		"blocks":"http://ella.altpool.pro/api/blocks",

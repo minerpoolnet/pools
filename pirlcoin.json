@@ -10,16 +10,6 @@
 		"notify":""
 	},
 	{
-		"name":"MegaPool.io",
-		"stats":"https://megapool.io/api/stats/pirl",
-		"blocks":"https://megapool.io/api/blocks/pirl",
-		"payments":"https://megapool.io/api/payments/pirl",
-		"accounts":"https://megapool.io/api/accounts/pirl",
-		"miners":"https://megapool.io/api/miners/pirl",
-		"url":"megapool.io/pirl",
-		"notify":"support@megapool.io"
-	},
-	{
 		"name":"HPPCG",
 		"stats":"https://us-nj-01.pools.hppcg.com/pirl/api/stats",
 		"blocks":"https://us-nj-01.pools.hppcg.com/pirl/api/blocks",
@@ -308,5 +298,15 @@
 		"miners":"http://pirl.space/api/miners",
 		"url":"pirl.space",
 		"notify":""
+	},
+	{
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/pirl",
+		"blocks":"https://megapool.io/api/blocks/pirl",
+		"payments":"https://megapool.io/api/payments/pirl",
+		"accounts":"https://megapool.io/api/accounts/pirl",
+		"miners":"https://megapool.io/api/miners/pirl",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
 	}
 ]

@@ -1,0 +1,22 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://mix.minerpool.net/api/stats",
+ 		"blocks":"http://mix.minerpool.net/api/blocks",
+ 		"payments":"http://mix.minerpool.net/api/payments",
+ 		"accounts":"http://mix.minerpool.net/api/accounts",
+ 		"miners":"http://mix.minerpool.net/api/miners",
+ 		"url":"mix.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"MININGPEON",
+ 		"stats":"http://aka.miningpeon.net/api/stats",
+ 		"blocks":"http://aka.miningpeon.net/api/blocks",
+ 		"payments":"http://aka.miningpeon.net/api/payments",
+ 		"accounts":"http://aka.miningpeon.net/api/accounts",
+ 		"miners":"http://aka.miningpeon.net/api/miners",
+ 		"url":"aka.miningpeon.net",
+ 		"notify":""
+	}
+]

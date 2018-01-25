@@ -1,12 +1,12 @@
 [
 	{
  		"name":"MINERPOOL.NET",
- 		"stats":"http://mix.minerpool.net/api/stats",
- 		"blocks":"http://mix.minerpool.net/api/blocks",
- 		"payments":"http://mix.minerpool.net/api/payments",
- 		"accounts":"http://mix.minerpool.net/api/accounts",
- 		"miners":"http://mix.minerpool.net/api/miners",
- 		"url":"mix.minerpool.net",
+ 		"stats":"http://akroma.minerpool.net/api/stats",
+ 		"blocks":"http://akroma.minerpool.net/api/blocks",
+ 		"payments":"http://akroma.minerpool.net/api/payments",
+ 		"accounts":"http://akroma.minerpool.net/api/accounts",
+ 		"miners":"http://akroma.minerpool.net/api/miners",
+ 		"url":"akroma.minerpool.net",
  		"notify":"support@minerpool.net"
 	},
 	{

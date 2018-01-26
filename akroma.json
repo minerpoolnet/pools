@@ -18,5 +18,15 @@
  		"miners":"http://aka.miningpeon.net/api/miners",
  		"url":"aka.miningpeon.net",
  		"notify":""
-	}
+	},
+	{
+ 		"name":"CRYPTOPOOLS",
+ 		"stats":"https://akroma.cryptopools.info/api/stats",
+ 		"blocks":"https://akroma.cryptopools.info/api/blocks",
+ 		"payments":"https://akroma.cryptopools.info/api/payments",
+ 		"accounts":"https://akroma.cryptopools.info/api/accounts",
+ 		"miners":"https://akroma.cryptopools.info/api/miners",
+ 		"url":"akroma.cryptopools.info",
+ 		"notify":""
+	}	
 ]

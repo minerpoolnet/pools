@@ -28,5 +28,15 @@
  		"miners":"https://akroma.cryptopools.info/api/miners",
  		"url":"akroma.cryptopools.info",
  		"notify":""
-	}	
+	},
+	{
+ 		"name":"CRYPTOBITPOOL",
+ 		"stats":"http://akroma.cryptobitpool.eu/api/stats",
+ 		"blocks":"http://akroma.cryptobitpool.eu/api/blocks",
+ 		"payments":"http://akroma.cryptobitpool.eu/api/payments",
+ 		"accounts":"http://akroma.cryptobitpool.eu/api/accounts",
+ 		"miners":"http://akroma.cryptobitpool.eu/api/miners",
+ 		"url":"akroma.cryptobitpool.eu",
+ 		"notify":""
+	}
 ]

@@ -38,5 +38,15 @@
  		"miners":"http://akroma.cryptobitpool.eu/api/miners",
  		"url":"akroma.cryptobitpool.eu",
  		"notify":""
+	},
+	{
+ 		"name":"POOL.SEXY",
+ 		"stats":"http://aka.pool.sexy/api/stats",
+ 		"blocks":"http://aka.pool.sexy/api/blocks",
+ 		"payments":"http://aka.pool.sexy/api/payments",
+ 		"accounts":"http://aka.pool.sexy/api/accounts",
+ 		"miners":"http://aka.pool.sexy/api/miners",
+ 		"url":"aka.pool.sexy",
+ 		"notify":""
 	}
 ]

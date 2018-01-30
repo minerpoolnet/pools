@@ -328,5 +328,25 @@
 		"miners":"https://megapool.io/api/miners/pirl",
 		"url":"megapool.io",
 		"notify":"support@megapool.io"
-	}
+	},
+	{
+ 		"name":"CRYPTODIG.SOLO",
+ 		"stats":"http://pirl-solo.cryptodig.ru/api/stats",
+ 		"blocks":"http://pirl-solo.cryptodig.ru/api/blocks",
+ 		"payments":"http://pirl-solo.cryptodig.ru/api/payments",
+ 		"accounts":"http://pirl-solo.cryptodig.ru/api/accounts",
+ 		"miners":"http://pirl-solo.cryptodig.ru/api/miners",
+ 		"url":"pirl-solo.cryptodig.ru",
+ 		"notify":""
+ 	},
+	{
+ 		"name":"CRYPTODIG",
+ 		"stats":"http://pirl-pplns.cryptodig.ru/api/stats",
+ 		"blocks":"http://pirl-pplns.cryptodig.ru/api/blocks",
+ 		"payments":"http://pirl-pplns.cryptodig.ru/api/payments",
+ 		"accounts":"http://pirl-pplns.cryptodig.ru/api/accounts",
+ 		"miners":"http://pirl-pplns.cryptodig.ru/api/miners",
+ 		"url":"pirl-pplns.cryptodig.ru",
+ 		"notify":""
+ 	}
 ]

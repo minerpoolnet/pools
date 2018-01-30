@@ -48,5 +48,15 @@
  		"miners":"http://aka.pool.sexy/api/miners",
  		"url":"aka.pool.sexy",
  		"notify":""
+	},
+	{
+ 		"name":"EHASHCOINS",
+ 		"stats":"http://aka.ehashcoins.org/api/stats",
+ 		"blocks":"http://aka.ehashcoins.org/api/blocks",
+ 		"payments":"http://aka.ehashcoins.org/api/payments",
+ 		"accounts":"http://aka.ehashcoins.org/api/accounts",
+ 		"miners":"http://aka.ehashcoins.org/api/miners",
+ 		"url":"aka.ehashcoins.org",
+ 		"notify":""
 	}
 ]

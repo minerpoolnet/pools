@@ -58,5 +58,15 @@
  		"miners":"http://aka.ehashcoins.org/api/miners",
  		"url":"aka.ehashcoins.org",
  		"notify":""
+	},
+	{
+ 		"name":"ETHERGRAB",
+ 		"stats":"http://mining.akroma.org/api/stats",
+ 		"blocks":"http://mining.akroma.org/api/blocks",
+ 		"payments":"http://mining.akroma.org/api/payments",
+ 		"accounts":"http://mining.akroma.org/api/accounts",
+ 		"miners":"http://mining.akroma.org/api/miners",
+ 		"url":"mining.akroma.org",
+ 		"notify":""
 	}
 ]

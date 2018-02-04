@@ -58,5 +58,15 @@
  		"miners":"http://mining.akroma.org/api/miners",
  		"url":"mining.akroma.org",
  		"notify":""
+	},
+	{
+ 		"name":"VIPOOL",
+ 		"stats":"http://aka.vipool.net/api/stats",
+ 		"blocks":"http://aka.vipool.net/api/blocks",
+ 		"payments":"http://aka.vipool.net/api/payments",
+ 		"accounts":"http://aka.vipool.net/api/accounts",
+ 		"miners":"http://aka.vipool.net/api/miners",
+ 		"url":"aka.vipool.net",
+ 		"notify":""
 	}
 ]

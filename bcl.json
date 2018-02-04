@@ -1,0 +1,22 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://bcl.minerpool.net/api/stats",
+ 		"blocks":"http://bcl.minerpool.net/api/blocks",
+ 		"payments":"http://bcl.minerpool.net/api/payments",
+ 		"accounts":"http://bcl.minerpool.net/api/accounts",
+ 		"miners":"http://bcl.minerpool.net/api/miners",
+ 		"url":"bcl.minerpool.net",
+ 		"notify":""
+	},
+	{
+ 		"name":"BITCOINLATINA OFFICIAL",
+ 		"stats":"http://pool.bitcoinlatina.org/api/stats",
+ 		"blocks":"http://pool.bitcoinlatina.org/api/blocks",
+ 		"payments":"http://pool.bitcoinlatina.org/api/payments",
+ 		"accounts":"http://pool.bitcoinlatina.org/api/accounts",
+ 		"miners":"http://pool.bitcoinlatina.org/api/miners",
+ 		"url":"pool.bitcoinlatina.org",
+ 		"notify":""
+	}
+]

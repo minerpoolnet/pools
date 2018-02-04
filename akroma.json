@@ -60,6 +60,16 @@
  		"notify":""
 	},
 	{
+ 		"name":"PISTOLCRYPT",
+ 		"stats":"http://akroma.pistolcrypt.com/api/stats",
+ 		"blocks":"http://akroma.pistolcrypt.com/api/blocks",
+ 		"payments":"http://akroma.pistolcrypt.com/api/payments",
+ 		"accounts":"http://akroma.pistolcrypt.com/api/accounts",
+ 		"miners":"http://akroma.pistolcrypt.com/api/miners",
+ 		"url":"akroma.pistolcrypt.com",
+ 		"notify":""
+	},
+	{
  		"name":"VIPOOL",
  		"stats":"http://aka.vipool.net/api/stats",
  		"blocks":"http://aka.vipool.net/api/blocks",

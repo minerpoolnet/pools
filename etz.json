@@ -1,0 +1,22 @@
+[
+	{
+		"name":"MINERPOOL.NET",
+		"stats":"http://etz.minerpool.net/api/stats",
+		"blocks":"http://etz.minerpool.net/api/blocks",
+		"payments":"http://etz.minerpool.net/api/payments",
+		"accounts":"http://etz.minerpool.net/api/accounts",
+		"miners":"http://etz.minerpool.net/api/miners",
+		"url":"etz.minerpool.net",
+		"notify":""
+	},
+	{
+		"name":"ETHERZERO OFFICIAL",
+		"stats":"http://pool.etherzero.org/api/stats",
+		"blocks":"http://pool.etherzero.org/api/blocks",
+		"payments":"http://pool.etherzero.org/api/payments",
+		"accounts":"http://pool.etherzero.org/api/accounts",
+		"miners":"http://pool.etherzero.org/api/miners",
+		"url":"pool.etherzero.org",
+		"notify":""
+	}
+]

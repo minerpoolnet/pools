@@ -48,5 +48,15 @@
  		"miners":"https://nodez.cryptopros.us/api/miners",
  		"url":"nodez.cryptopros.us",
  		"notify":""
+	},
+	{
+ 		"name":"cryptopools.info",
+ 		"stats":"http://nodez.cryptopools.info/api/stats",
+ 		"blocks":"http://nodez.cryptopools.info/api/blocks",
+ 		"payments":"http://nodez.cryptopools.info/api/payments",
+ 		"accounts":"http://nodez.cryptopools.info/api/accounts",
+ 		"miners":"http://nodez.cryptopools.info/api/miners",
+ 		"url":"nodez.cryptopools.info",
+ 		"notify":"phatblinkie@hotmail.com"
 	}
 ]

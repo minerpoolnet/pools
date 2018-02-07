@@ -80,7 +80,7 @@
  		"notify":""
 	},
 	{
- 		"name":"clona",
+ 		"name":"CLONA",
  		"stats":"http://clona.ru:9019/api/stats",
  		"blocks":"http://clona.ru:9019/api/blocks",
  		"payments":"http://clona.ru:9019/api/payments",

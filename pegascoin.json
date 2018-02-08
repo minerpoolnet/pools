@@ -48,5 +48,15 @@
 		"miners":"http://pegascoin.xyz/api/miners",
 		"url":"pegascoin.xyz",
 		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://pg.mole-pool.net/api/stats",
+		"blocks":"http://pg.mole-pool.net/api/blocks",
+		"payments":"http://pg.mole-pool.net/api/payments",
+		"accounts":"http://pg.mole-pool.net/api/accounts",
+		"miners":"http://pg.mole-pool.net/api/miners",
+		"url":"pg.mole-pool.net",
+		"notify":""
 	}
 ]

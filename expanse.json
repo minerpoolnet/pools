@@ -108,5 +108,15 @@
 		"miners":"https://megapool.io/api/miners/exp",
 		"url":"megapool.io",
 		"notify":"support@megapool.io"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://exp.mole-pool.net/api/stats",
+		"blocks":"http://exp.mole-pool.net/api/blocks",
+		"payments":"http://exp.mole-pool.net/api/payments",
+		"accounts":"http://exp.mole-pool.net/api/accounts",
+		"miners":"http://exp.mole-pool.net/api/miners",
+		"url":"exp.mole-pool.net",
+		"notify":""
 	}
 ]

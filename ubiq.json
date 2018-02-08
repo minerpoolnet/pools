@@ -128,5 +128,15 @@
 		"miners":"https://megapool.io/api/miners/ubq",
 		"url":"megapool.io",
 		"notify":"support@megapool.io"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://ubiq.mole-pool.net/api/stats",
+		"blocks":"http://ubiq.mole-pool.net/api/blocks",
+		"payments":"http://ubiq.mole-pool.net/api/payments",
+		"accounts":"http://ubiq.mole-pool.net/api/accounts",
+		"miners":"http://ubiq.mole-pool.net/api/miners",
+		"url":"ubiq.mole-pool.net",
+		"notify":""
 	}
 ]

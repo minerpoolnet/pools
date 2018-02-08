@@ -88,5 +88,15 @@
 		"miners":"https://solo-whl.2miners.com/api/miners",
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://whale.mole-pool.net/api/stats",
+		"blocks":"http://whale.mole-pool.net/api/blocks",
+		"payments":"http://whale.mole-pool.net/api/payments",
+		"accounts":"http://whale.mole-pool.net/api/accounts",
+		"miners":"http://whale.mole-pool.net/api/miners",
+		"url":"whale.mole-pool.net",
+		"notify":""
 	}
 ]

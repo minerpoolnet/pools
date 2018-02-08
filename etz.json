@@ -38,5 +38,15 @@
 		"miners":"http://etzpool.crypt-term.net/api/miners",
 		"url":"etzpool.crypt-term.net",
 		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://etz.mole-pool.net/api/stats",
+		"blocks":"http://etz.mole-pool.net/api/blocks",
+		"payments":"http://etz.mole-pool.net/api/payments",
+		"accounts":"http://etz.mole-pool.net/api/accounts",
+		"miners":"http://etz.mole-pool.net/api/miners",
+		"url":"etz.mole-pool.net",
+		"notify":""
 	}
 ]

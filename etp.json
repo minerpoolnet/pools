@@ -1,0 +1,12 @@
+[
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://etps.mole-pool.net/api/stats",
+		"blocks":"http://etps.mole-pool.net/api/blocks",
+		"payments":"http://etps.mole-pool.net/api/payments",
+		"accounts":"http://etps.mole-pool.net/api/accounts",
+		"miners":"http://etps.mole-pool.net/api/miners",
+		"url":"etps.mole-pool.net",
+		"notify":""
+	}
+]

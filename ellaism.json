@@ -178,5 +178,15 @@
 		"miners":"https://megapool.io/api/miners/ella",
 		"url":"megapool.io",
 		"notify":"support@megapool.io"
-      }
+      },
+	{
+ 		"name":"MOLE-POOL",
+ 		"stats":"http://ella.mole-pool.net/api/stats",
+ 		"blocks":"http://ella.mole-pool.net/api/blocks",
+ 		"payments":"http://ella.mole-pool.net/api/payments",
+ 		"accounts":"http://ella.mole-pool.net/api/accounts",
+ 		"miners":"http://ella.mole-pool.net/api/miners",
+ 		"url":"ella.mole-pool.net",
+ 		"notify":""
+	}
 ]

@@ -1,0 +1,23 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://hotelbyte.minerpool.net/api/stats",
+ 		"blocks":"http://hotelbyte.minerpool.net/api/blocks",
+ 		"payments":"http://hotelbyte.minerpool.net/api/payments",
+ 		"accounts":"http://hotelbyte.minerpool.net/api/accounts",
+ 		"miners":"http://hotelbyte.minerpool.net/api/miners",
+ 		"url":"hotelbyte.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"HBC OFFICIAL",
+ 		"stats":"https://api.openminingpool.org/api/stats",
+ 		"blocks":"https://api.openminingpool.org/api/blocks",
+ 		"payments":"https://api.openminingpool.org/api/payments",
+ 		"accounts":"https://api.openminingpool.org/api/accounts",
+ 		"miners":"https://api.openminingpool.org/api/miners",
+ 		"url":"hbc.openminingpool.org",
+ 		"notify":""
+	}
+]
+

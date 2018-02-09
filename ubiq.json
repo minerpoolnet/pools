@@ -20,16 +20,6 @@
 		"notify":"pool@reidocoin.com.br"
 	},
 	{
-		"name":"UBIQPEON",
-		"stats":"http://ubiq.spdns.eu/api/stats",
-		"blocks":"http://ubiq.spdns.eu/api/blocks",
-		"payments":"http://ubiq.spdns.eu/api/payments",
-		"accounts":"http://ubiq.spdns.eu/api/accounts",
-		"miners":"http://ubiq.spdns.eu/api/miners",
-		"url":"ubiq.spdns.eu",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://ubiq.hodlpool.com/api/stats",
 		"blocks":"http://ubiq.hodlpool.com/api/blocks",
@@ -50,26 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"EPICPOOL",
-		"stats":"http://ubiq.epicpool.club/api/stats",
-		"blocks":"http://ubiq.epicpool.club/api/blocks",
-		"payments":"http://ubiq.epicpool.club/api/payments",
-		"accounts":"http://ubiq.epicpool.club/api/accounts",
-		"miners":"http://ubiq.epicpool.club/api/miners",
-		"url":"ubiq.epicpool.club",
-		"notify":""
-	},
-	{
-		"name":"HAKOPOOL",
-		"stats":"http://ubiq.hakopool.com/?w=api&stats",
-		"blocks":"http://ubiq.hakopool.com/?w=api&blocks",
-		"payments":"http://ubiq.hakopool.com/?w=api&payments",
-		"accounts":"http://ubiq.hakopool.com/?w=api&accounts",
-		"miners":"http://ubiq.hakopool.com/?w=api&miners",
-		"url":"ubiq.hakopool.com",
-		"notify":""
-	},
-	{
 		"name":"UBIQPOOL",
 		"stats":"https://ubiqpool.io/api/stats",
 		"blocks":"https://ubiqpool.io/api/blocks",
@@ -87,16 +57,6 @@
 		"accounts":"http://ubq.pool.sexy/api/accounts",
 		"miners":"http://ubq.pool.sexy/api/miners",
 		"url":"ubq.pool.sexy",
-		"notify":""
-	},
-	{
-		"name":"DIGITALPOOL",
-		"stats":"http://ubiq.digitalpool.cc/api/stats",
-		"blocks":"http://ubiq.digitalpool.cc/api/blocks",
-		"payments":"http://ubiq.digitalpool.cc/api/payments",
-		"accounts":"http://ubiq.digitalpool.cc/api/accounts",
-		"miners":"http://ubiq.digitalpool.cc/api/miners",
-		"url":"ubiq.digitalpool.cc",
 		"notify":""
 	},
 	{

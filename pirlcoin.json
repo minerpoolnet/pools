@@ -110,16 +110,6 @@
 		"notify":""
 	},
 	{
-		"name":"CRYPTOPROS.US",
-		"stats":"https://pirl.cryptopros.us/api/stats",
-		"blocks":"https://pirl.cryptopros.us/api/blocks",
-		"payments":"https://pirl.cryptopros.us/api/payments",
-		"accounts":"https://pirl.cryptopros.us/api/accounts",
-		"miners":"https://pirl.cryptopros.us/api/miners",
-		"url":"pirl.cryptopros.us",
-		"notify":"litwi1rm@gmail.com"
-	},
-	{
 		"name":"MINING-POOL",
 		"stats":"http://pirl.mining-pool.fr/api/stats",
 		"blocks":"http://pirl.mining-pool.fr/api/blocks",
@@ -207,16 +197,6 @@
  		"accounts":"http://www.pirl-pool.com/api/accounts",
  		"miners":"http://www.pirl-pool.com/api/miners",
  		"url":"www.pirl-pool.com",
- 		"notify":""
- 	},
-	{
- 		"name":"DROWNINGPOOL",
- 		"stats":"http://pirl.drowningpool.net/api/stats",
- 		"blocks":"http://pirl.drowningpool.net/api/blocks",
- 		"payments":"http://pirl.drowningpool.net/api/payments",
- 		"accounts":"http://pirl.drowningpool.net/api/accounts",
- 		"miners":"http://pirl.drowningpool.net/api/miners",
- 		"url":"pirl.drowningpool.net",
  		"notify":""
  	},
 	{

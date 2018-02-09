@@ -20,16 +20,6 @@
 		"notify":"pool@reidocoin.com.br"
 	},
 	{
-		"name":"DHIX",
-		"stats":"https://music.dhix.com.br/api/stats",
-		"blocks":"https://music.dhix.com.br/api/blocks",
-		"payments":"https://music.dhix.com.br/api/payments",
-		"accounts":"https://music.dhix.com.br/api/accounts",
-		"miners":"https://music.dhix.com.br/api/miners",
-		"url":"music.dhix.com.br",
-		"notify":""
-	},
-	{
 		"name":"ZETTECH",
 		"stats":"https://mc.zet-tech.eu/api/stats",
 		"blocks":"https://mc.zet-tech.eu/api/blocks",
@@ -50,16 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"MPEON",
-		"stats":"http://music.spdns.eu/api/stats",
-		"blocks":"http://music.spdns.eu/api/blocks",
-		"payments":"http://music.spdns.eu/api/payments",
-		"accounts":"http://music.spdns.eu/api/accounts",
-		"miners":"http://music.spdns.eu/api/miners",
-		"url":"music.spdns.eu",
-		"notify":""
-	},
-	{
 		"name":"MINECRYPTO",
 		"stats":"http://46.101.61.172:8080/api/stats",
 		"blocks":"http://46.101.61.172:8080/api/blocks",
@@ -67,16 +47,6 @@
 		"accounts":"http://46.101.61.172:8080/api/accounts",
 		"miners":"http://46.101.61.172:8080/api/miners",
 		"url":"mc.minecrypto.pro",
-		"notify":""
-	},
-	{
-		"name":"COINMINERS",
-		"stats":"https://mc.coin-miners.info/api/stats",
-		"blocks":"https://mc.coin-miners.info/api/blocks",
-		"payments":"https://mc.coin-miners.info/api/payments",
-		"accounts":"https://mc.coin-miners.info/api/accounts",
-		"miners":"https://mc.coin-miners.info/api/miners",
-		"url":"mc.coin-miners.info",
 		"notify":""
 	},
 	{
@@ -147,16 +117,6 @@
 		"accounts":"http://musicoin.miningclub.info/api/accounts",
 		"miners":"http://musicoin.miningclub.info/api/miners",
 		"url":"musicoin.miningclub.info",
-		"notify":""
-	},
-	{
-		"name":"HAKOPOOL",
-		"stats":"http://musicoin.hakopool.com/?w=api&stats",
-		"blocks":"http://musicoin.hakopool.com/?w=api&blocks",
-		"payments":"http://musicoin.hakopool.com/?w=api&payments",
-		"accounts":"http://musicoin.hakopool.com/?w=api&accounts",
-		"miners":"http://musicoin.hakopool.com/?w=api&miners",
-		"url":"musicoin.hakopool.com",
 		"notify":""
 	},
 	{

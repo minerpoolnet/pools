@@ -10,36 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"MPEON",
-		"stats":"http://whale.spdns.eu/api/stats",
-		"blocks":"http://whale.spdns.eu/api/blocks",
-		"payments":"http://whale.spdns.eu/api/payments",
-		"accounts":"http://whale.spdns.eu/api/accounts",
-		"miners":"http://whale.spdns.eu/api/miners",
-		"url":"whale.spdns.eu",
-		"notify":""
-	},
-	{
-		"name":"GLOBALPOOL",
-		"stats":"http://whale.globalpool.cc/api/stats",
-		"blocks":"http://whale.globalpool.cc/api/blocks",
-		"payments":"http://whale.globalpool.cc/api/payments",
-		"accounts":"http://whale.globalpool.cc/api/accounts",
-		"miners":"http://whale.globalpool.cc/api/miners",
-		"url":"whale.globalpool.cc",
-		"notify":""
-	},
-	{
-		"name":"EZMINE",
-		"stats":"http://whale.ezmine.io/api/stats",
-		"blocks":"http://whale.ezmine.io/api/blocks",
-		"payments":"http://whale.ezmine.io/api/payments",
-		"accounts":"http://whale.ezmine.io/api/accounts",
-		"miners":"http://whale.ezmine.io/api/miners",
-		"url":"whale.ezmine.io",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://whale.hodlpool.com/api/stats",
 		"blocks":"http://whale.hodlpool.com/api/blocks",

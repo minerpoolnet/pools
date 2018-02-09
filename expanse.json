@@ -30,16 +30,6 @@
 		"notify":""
 	},
 	{
-		"name":"HODLPOOL",
-		"stats":"http://exp.hodlpool.com/api/stats",
-		"blocks":"http://exp.hodlpool.com/api/blocks",
-		"payments":"http://exp.hodlpool.com/api/payments",
-		"accounts":"http://exp.hodlpool.com/api/accounts",
-		"miners":"http://exp.hodlpool.com/api/miners",
-		"url":"exp.hodlpool.com",
-		"notify":""
-	},
-	{
 		"name":"MINANDOANDO",
 		"stats":"http://exp.minandoando.com/api/stats",
 		"blocks":"http://exp.minandoando.com/api/blocks",

@@ -10,16 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"OLDBEYOND",
-		"stats":"http://52.168.133.100:10000/api/stats",
-		"blocks":"http://52.168.133.100:10000/api/blocks",
-		"payments":"http://52.168.133.100:10000/api/payments",
-		"accounts":"http://52.168.133.100:10000/api/accounts",
-		"miners":"http://52.168.133.100:10000/api/miners",
-		"url":"nuko.oldbeyond.com",
-		"notify":""
-	},
-	{
 		"name":"FTLPOOL",
 		"stats":"http://nuko.ftlpool.com/api/stats",
 		"blocks":"http://nuko.ftlpool.com/api/blocks",

@@ -21,11 +21,11 @@
 	},
 	{
  		"name":"LUCKYPOOL",
- 		"stats":"https://hbc.luckypool.io/api/stats",
- 		"blocks":"https://hbc.luckypool.io/api/blocks",
- 		"payments":"https://hbc.luckypool.io/api/payments",
- 		"accounts":"https://hbc.luckypool.io/api/accounts",
- 		"miners":"https://hbc.luckypool.io/api/miners",
+ 		"stats":"https://hbc.luckypool.io/api/api/stats",
+ 		"blocks":"https://hbc.luckypool.io/api/api/blocks",
+ 		"payments":"https://hbc.luckypool.io/api/api/payments",
+ 		"accounts":"https://hbc.luckypool.io/api/api/accounts",
+ 		"miners":"https://hbc.luckypool.io/api/api/miners",
  		"url":"hbc.luckypool.io",
  		"notify":""
 	}

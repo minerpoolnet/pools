@@ -48,5 +48,15 @@
 		"miners":"http://etz.mole-pool.net/api/miners",
 		"url":"etz.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"ALTPOOL",
+		"stats":"http://etz.altpool.pro/api/stats",
+		"blocks":"http://etz.altpool.pro/api/blocks",
+		"payments":"http://etz.altpool.pro/api/payments",
+		"accounts":"http://etz.altpool.pro/api/accounts",
+		"miners":"http://etz.altpool.pro/api/miners",
+		"url":"etz.altpool.pro",
+		"notify":""
 	}
 ]

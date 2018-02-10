@@ -18,6 +18,16 @@
  		"miners":"https://api.openminingpool.org/api/miners",
  		"url":"hbc.openminingpool.org",
  		"notify":""
+	},
+	{
+ 		"name":"LUCKYPOOL",
+ 		"stats":"https://hbc.luckypool.io/api/stats",
+ 		"blocks":"https://hbc.luckypool.io/api/blocks",
+ 		"payments":"https://hbc.luckypool.io/api/payments",
+ 		"accounts":"https://hbc.luckypool.io/api/accounts",
+ 		"miners":"https://hbc.luckypool.io/api/miners",
+ 		"url":"hbc.luckypool.io",
+ 		"notify":""
 	}
 ]
 

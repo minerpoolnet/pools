@@ -58,5 +58,15 @@
 		"miners":"http://etz.altpool.pro/api/miners",
 		"url":"etz.altpool.pro",
 		"notify":""
+	},
+	{
+		"name":"ALTPOOL SOLO",
+		"stats":"http://solo-etz.altpool.pro/api/stats",
+		"blocks":"http://solo-etz.altpool.pro/api/blocks",
+		"payments":"http://solo-etz.altpool.pro/api/payments",
+		"accounts":"http://solo-etz.altpool.pro/api/accounts",
+		"miners":"http://solo-etz.altpool.pro/api/miners",
+		"url":"solo-etz.altpool.pro",
+		"notify":""
 	}
 ]

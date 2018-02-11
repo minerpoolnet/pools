@@ -8,5 +8,15 @@
  		"miners":"http://mix.minerpool.net/api/miners",
  		"url":"mix.minerpool.net",
  		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"2ZO SOLO",
+ 		"stats":"http://solo-mix.2zo.pw/api/stats",
+ 		"blocks":"http://solo-mix.2zo.pw/api/blocks",
+ 		"payments":"http://solo-mix.2zo.pw/api/payments",
+ 		"accounts":"http://solo-mix.2zo.pw/api/accounts",
+ 		"miners":"http://solo-mix.2zo.pw/api/miners",
+ 		"url":"solo-mix.2zo.pw",
+ 		"notify":""
 	}
 ]

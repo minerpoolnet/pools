@@ -1,0 +1,12 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://genom.minerpool.net/api/stats",
+ 		"blocks":"http://genom.minerpool.net/api/blocks",
+ 		"payments":"http://genom.minerpool.net/api/payments",
+ 		"accounts":"http://genom.minerpool.net/api/accounts",
+ 		"miners":"http://genom.minerpool.net/api/miners",
+ 		"url":"genom.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	}
+]

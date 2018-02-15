@@ -18,5 +18,15 @@
  		"miners":"http://pool.bitcoinlatina.org/api/miners",
  		"url":"pool.bitcoinlatina.org",
  		"notify":""
+	},
+	{
+ 		"name":"PISTOLCRYPT",
+ 		"stats":"http://bcl.pistolcrypt.com/api/stats",
+ 		"blocks":"http://bcl.pistolcrypt.com/api/blocks",
+ 		"payments":"http://bcl.pistolcrypt.com/api/payments",
+ 		"accounts":"http://bcl.pistolcrypt.com/api/accounts",
+ 		"miners":"http://bcl.pistolcrypt.com/api/miners",
+ 		"url":"bcl.pistolcrypt.com",
+ 		"notify":""
 	}
 ]

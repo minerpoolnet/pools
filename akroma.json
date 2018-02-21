@@ -88,5 +88,15 @@
  		"miners":"http://clona.ru:9019/api/miners",
  		"url":"clona.ru",
  		"notify":""
+	},
+	{
+ 		"name":"HYPERHASH",
+ 		"stats":"https://aka.hyperhash.net/api9/stats",
+ 		"blocks":"https://aka.hyperhash.net/api9/blocks",
+ 		"payments":"https://aka.hyperhash.net/api9/payments",
+ 		"accounts":"https://aka.hyperhash.net/api9/accounts",
+ 		"miners":"https://aka.hyperhash.net/api9/miners",
+ 		"url":"aka.hyperhash.net",
+ 		"notify":""
 	}
 ]

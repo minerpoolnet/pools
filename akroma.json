@@ -98,5 +98,15 @@
  		"miners":"https://aka.hyperhash.net/api9/miners",
  		"url":"aka.hyperhash.net",
  		"notify":""
+	},
+	{
+ 		"name":"ENCRYPTGLOBE",
+ 		"stats":"https://aka.encryptglobe.com/api/stats",
+ 		"blocks":"https://aka.encryptglobe.com/api/blocks",
+ 		"payments":"https://aka.encryptglobe.com/api/payments",
+ 		"accounts":"https://aka.encryptglobe.com/api/accounts",
+ 		"miners":"https://aka.encryptglobe.com/api/miners",
+ 		"url":"aka.encryptglobe.com",
+ 		"notify":""
 	}
 ]

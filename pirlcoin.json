@@ -328,5 +328,15 @@
  		"miners":"http://pirl-pplns.cryptodig.ru/api/miners",
  		"url":"pirl-pplns.cryptodig.ru",
  		"notify":""
- 	}
+    },
+    {  
+	"name":"MINANDOANDO.COM",
+	"stats":"http://pirl.minandoando.com/api/stats",
+	"blocks":"http://pirl.minandoando.com/api/blocks",
+	"payments":"http://pirl.minandoando.com/api/payments",
+	"accounts":"http://pirl.minandoando.com/api/accounts",
+  	"miners":"http://pirl.minandoando.com/api/miners",
+	"url":"pirl.minandoando.com",
+        "notify":""
+     }
 ]

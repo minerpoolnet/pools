@@ -48,5 +48,15 @@
   	"miners":"http://pirl.hodlpool.com/api/miners",
 	"url":"pirl.hodlpool.com",
         "notify":""
+    },
+    {  
+	"name":"RUBPOOL",
+	"stats":"http://pirl.rubpool.com/api/stats",
+	"blocks":"http://pirl.rubpool.com/api/blocks",
+	"payments":"http://pirl.rubpool.com/api/payments",
+	"accounts":"http://pirl.rubpool.com/api/accounts",
+  	"miners":"http://pirl.rubpool.com/api/miners",
+	"url":"pirl.rubpool.com",
+        "notify":""
     }
 ]

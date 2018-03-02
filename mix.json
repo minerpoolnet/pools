@@ -18,5 +18,15 @@
  		"miners":"http://solo-mix.2zo.pw/api/miners",
  		"url":"solo-mix.2zo.pw",
  		"notify":""
+	},
+	{
+ 		"name":"ENCRYPTGLOBE",
+ 		"stats":"https://mix.encryptglobe.com/api/stats",
+ 		"blocks":"https://mix.encryptglobe.com/api/blocks",
+ 		"payments":"https://mix.encryptglobe.com/api/payments",
+ 		"accounts":"https://mix.encryptglobe.com/api/accounts",
+ 		"miners":"https://mix.encryptglobe.com/api/miners",
+ 		"url":"mix.encryptglobe.com",
+ 		"notify":""
 	}
 ]

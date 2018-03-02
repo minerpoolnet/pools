@@ -88,5 +88,15 @@
 		"miners":"http://vic.mole-pool.net/api/miners",
 		"url":"vic.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"HASHINGPOOL",
+		"stats":"http://vic.hashingpool.party/api/stats",
+		"blocks":"http://vic.hashingpool.party/api/blocks",
+		"payments":"http://vic.hashingpool.party/api/payments",
+		"accounts":"http://vic.hashingpool.party/api/accounts",
+		"miners":"http://vic.hashingpool.party/api/miners",
+		"url":"vic.hashingpool.party",
+		"notify":""
 	}
 ]

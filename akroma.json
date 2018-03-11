@@ -30,16 +30,6 @@
  		"notify":""
 	},
 	{
- 		"name":"CRYPTOBITPOOL",
- 		"stats":"http://akroma.cryptobitpool.eu/api/stats",
- 		"blocks":"http://akroma.cryptobitpool.eu/api/blocks",
- 		"payments":"http://akroma.cryptobitpool.eu/api/payments",
- 		"accounts":"http://akroma.cryptobitpool.eu/api/accounts",
- 		"miners":"http://akroma.cryptobitpool.eu/api/miners",
- 		"url":"akroma.cryptobitpool.eu",
- 		"notify":""
-	},
-	{
  		"name":"EHASHCOINS",
  		"stats":"http://aka.ehashcoins.org/api/stats",
  		"blocks":"http://aka.ehashcoins.org/api/blocks",

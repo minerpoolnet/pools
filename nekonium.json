@@ -68,15 +68,5 @@
 		"miners":"http://www.nekonium-pool.com/api/miners",
 		"url":"www.nekonium-pool.com",
 		"notify":""
-	},
-	{
-		"name":"CLONA",
-		"stats":"http://clona.ru:9015/api/stats",
-		"blocks":"http://clona.ru:9015/api/blocks",
-		"payments":"http://clona.ru:9015/api/payments",
-		"accounts":"http://clona.ru:9015/api/accounts",
-		"miners":"http://clona.ru:9015/api/miners",
-		"url":"clona.ru",
-		"notify":""
-      }
+	}
 ]

@@ -99,8 +99,8 @@
 		"url":"vic.hashingpool.party",
 		"notify":""
 	},
-		{
-		"name":"VIC.ENCRYPTGLOBE.COM",
+	{
+		"name":"ENCRYPTGLOBE",
 		"stats":"http://vic.encryptglobe.com/api/stats",
 		"blocks":"http://vic.encryptglobe.com/api/blocks",
 		"payments":"http://vic.encryptglobe.com/api/payments",

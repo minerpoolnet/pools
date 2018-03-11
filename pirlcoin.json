@@ -90,16 +90,6 @@
 		"notify":""
 	},
 	{
-		"name":"MINERS-ZONE",
-		"stats":"http://pirl.miners-zone.net/apipirl/stats",
-		"blocks":"http://pirl.miners-zone.net/apipirl/blocks",
-		"payments":"http://pirl.miners-zone.net/apipirl/payments",
-		"accounts":"http://pirl.miners-zone.net/apipirl/accounts",
-		"miners":"http://pirl.miners-zone.net/apipirl/miners",
-		"url":"pirl.miners-zone.net",
-		"notify":""
-	},
-	{
 		"name":"MINING-POOL",
 		"stats":"http://pirl.mining-pool.fr/api/stats",
 		"blocks":"http://pirl.mining-pool.fr/api/blocks",
@@ -128,16 +118,6 @@
 		"miners":"http://pirl.cryptobits.ltd/pirl/api/miners",
 		"url":"pirl.cryptobits.ltd",
 		"notify":"cryptobitsokc@gmail.com"
-	},
-	{
-		"name":"SONOFATECH",
-		"stats":"http://pirl.sonofatech.com/api/stats",
-		"blocks":"http://pirl.sonofatech.com/api/blocks",
-		"payments":"http://pirl.sonofatech.com/api/payments",
-		"accounts":"http://pirl.sonofatech.com/api/accounts",
-		"miners":"http://pirl.sonofatech.com/api/miners",
-		"url":"pirl.sonofatech.com",
-		"notify":""
 	},
 	{
 		"name":"EPOOL.IO",

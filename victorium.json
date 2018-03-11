@@ -20,13 +20,13 @@
 		"notify":""
 	},
 	{
-		"name":"POOL.SEXY",
-		"stats":"http://vic.pool.sexy/api3/stats",
-		"blocks":"http://vic.pool.sexy/api3/blocks",
-		"payments":"http://vic.pool.sexy/api3/payments",
-		"accounts":"http://vic.pool.sexy/api3/accounts",
-		"miners":"http://vic.pool.sexy/api3/miners",
-		"url":"vic.pool.sexy",
+		"name":"HASHGANG",
+		"stats":"http://vic.hashgang.io/api/stats",
+		"blocks":"http://vic.hashgang.io/api/blocks",
+		"payments":"http://vic.hashgang.io/api/payments",
+		"accounts":"http://vic.hashgang.io/api/accounts",
+		"miners":"http://vic.hashgang.io/api/miners",
+		"url":"vic.hashgang.io",
 		"notify":""
 	},
 	{

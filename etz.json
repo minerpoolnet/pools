@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"EPOOL",
-		"stats":"http://etz.epool.pw/api/stats",
-		"blocks":"http://etz.epool.pw/api/blocks",
-		"payments":"http://etz.epool.pw/api/payments",
-		"accounts":"http://etz.epool.pw/api/accounts",
-		"miners":"http://etz.epool.pw/api/miners",
-		"url":"etz.epool.pw",
-		"notify":""
-	},
-	{
 		"name":"CRYPT-TERM",
 		"stats":"http://etzpool.crypt-term.net/api/stats",
 		"blocks":"http://etzpool.crypt-term.net/api/blocks",

@@ -10,16 +10,6 @@
  		"notify":"support@minerpool.net"
 	},
 	{
- 		"name":"2ZO SOLO",
- 		"stats":"http://solo-mix.2zo.pw/api/stats",
- 		"blocks":"http://solo-mix.2zo.pw/api/blocks",
- 		"payments":"http://solo-mix.2zo.pw/api/payments",
- 		"accounts":"http://solo-mix.2zo.pw/api/accounts",
- 		"miners":"http://solo-mix.2zo.pw/api/miners",
- 		"url":"solo-mix.2zo.pw",
- 		"notify":""
-	},
-	{
  		"name":"ENCRYPTGLOBE",
  		"stats":"https://mix.encryptglobe.com/api/stats",
  		"blocks":"https://mix.encryptglobe.com/api/blocks",

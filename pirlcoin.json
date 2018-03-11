@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"POOL.SEXY",
-		"stats":"http://pirl.pool.sexy/api/v2/stats",
-		"blocks":"http://pirl.pool.sexy/api/v2/blocks",
-		"payments":"http://pirl.pool.sexy/api/v2/payments",
-		"accounts":"http://pirl.pool.sexy/api/v2/accounts",
-		"miners":"http://pirl.pool.sexy/api/v2/miners",
-		"url":"pirl.pool.sexy",
-		"notify":""
-	},
-	{
 		"name":"MOLE-POOL",
 		"stats":"http://109.70.186.58:3020/api/stats",
 		"blocks":"http://109.70.186.58:3020/api/blocks",

@@ -21,11 +21,11 @@
 	},
 	{
 		"name":"POOL.SEXY",
-		"stats":"http://pirl.pool.sexy/api6/stats",
-		"blocks":"http://pirl.pool.sexy/api6/blocks",
-		"payments":"http://pirl.pool.sexy/api6/payments",
-		"accounts":"http://pirl.pool.sexy/api6/accounts",
-		"miners":"http://pirl.pool.sexy/api6/miners",
+		"stats":"http://pirl.pool.sexy/api/v2/stats",
+		"blocks":"http://pirl.pool.sexy/api/v2/blocks",
+		"payments":"http://pirl.pool.sexy/api/v2/payments",
+		"accounts":"http://pirl.pool.sexy/api/v2/accounts",
+		"miners":"http://pirl.pool.sexy/api/v2/miners",
 		"url":"pirl.pool.sexy",
 		"notify":""
 	},

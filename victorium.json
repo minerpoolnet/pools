@@ -98,5 +98,15 @@
 		"miners":"http://vic.hashingpool.party/api/miners",
 		"url":"vic.hashingpool.party",
 		"notify":""
+	},
+	{
+		"name":"ENCRYPTGLOBE",
+		"stats":"http://vic.encryptglobe.com/api/stats",
+		"blocks":"http://vic.encryptglobe.com/api/blocks",
+		"payments":"http://vic.encryptglobe.com/api/payments",
+		"accounts":"http://vic.encryptglobe.com/api/accounts",
+		"miners":"http://vic.encryptglobe.com/api/miners",
+		"url":"VIC.ENCRYPTGLOBE.COM",
+		"notify":""
 	}
 ]

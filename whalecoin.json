@@ -40,16 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"POOLSEXY",
-		"stats":"http://whl.pool.sexy/api2/stats",
-		"blocks":"http://whl.pool.sexy/api2/blocks",
-		"payments":"http://whl.pool.sexy/api2/payments",
-		"accounts":"http://whl.pool.sexy/api2/accounts",
-		"miners":"http://whl.pool.sexy/api2/miners",
-		"url":"whl.pool.sexy",
-		"notify":""
-	},
-	{
 		"name":"2MINERS",
 		"stats":"https://solo-whl.2miners.com/api/stats",
 		"blocks":"https://solo-whl.2miners.com/api/blocks",

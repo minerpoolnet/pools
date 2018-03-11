@@ -70,16 +70,6 @@
 		"notify":"support@mypool.online"
 	},
 	{
-		"name":"MIXPOOLS",
-		"stats":"https://musicapi.mixpools.org/api/stats",
-		"blocks":"https://musicapi.mixpools.org/api/blocks",
-		"payments":"https://musicapi.mixpools.org/api/payments",
-		"accounts":"https://musicapi.mixpools.org/api/accounts",
-		"miners":"https://musicapi.mixpools.org/api/miners",
-		"url":"mixpools.org",
-		"notify":""
-	},
-	{
 		"name":"ORCHARDCOINS",
 		"stats":"http://music.orchardcoins.com/api/stats",
 		"blocks":"http://music.orchardcoins.com/api/blocks",

@@ -140,16 +140,6 @@
 		"notify":""
       },
       {
-		"name":"COINSFARM",
-		"stats":"http://138.68.249.66:8080/api/stats",
-		"blocks":"http://138.68.249.66:8080/api/blocks",
-		"payments":"http://138.68.249.66:8080/api/payments",
-		"accounts":"http://138.68.249.66:8080/api/accounts",
-		"miners":"http://138.68.249.66:8080/api/miners",
-		"url":"coins.farm",
-		"notify":""
-      },
-      {
 		"name":"MEGAPOOL",
 		"stats":"https://megapool.io/api/stats/ella",
 		"blocks":"https://megapool.io/api/blocks/ella",

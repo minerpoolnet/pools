@@ -41,11 +41,11 @@
 	},
 	{
  		"name":"DROWNINGPOOL",
- 		"stats":"http://aura.drowningpool.net/api/stats",
- 		"blocks":"http://aura.drowningpool.net/api/blocks",
- 		"payments":"http://aura.drowningpool.net/api/payments",
- 		"accounts":"http://aura.drowningpool.net/api/accounts",
- 		"miners":"http://aura.drowningpool.net/api/miners",
+ 		"stats":"http://aura.drowningpool.net:8080/api/stats",
+ 		"blocks":"http://aura.drowningpool.net:8080/api/blocks",
+ 		"payments":"http://aura.drowningpool.net:8080/api/payments",
+ 		"accounts":"http://aura.drowningpool.net:8080/api/accounts",
+ 		"miners":"http://aura.drowningpool.net:8080/api/miners",
  		"url":"aura.drowningpool.net",
  		"notify":""
 	},

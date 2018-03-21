@@ -158,5 +158,15 @@
  		"miners":"http://ella.mole-pool.net/api/miners",
  		"url":"ella.mole-pool.net",
  		"notify":""
+	},
+	{
+ 		"name":"COINSFARM",
+ 		"stats":"http://159.65.97.139:8080/api/stats",
+ 		"blocks":"http://159.65.97.139:8080/api/blocks",
+ 		"payments":"http://159.65.97.139:8080/api/payments",
+ 		"accounts":"http://159.65.97.139:8080/api/accounts",
+ 		"miners":"http://159.65.97.139:8080/api/miners",
+ 		"url":"coins.farm",
+ 		"notify":""
 	}
 ]

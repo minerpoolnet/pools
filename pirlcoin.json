@@ -318,5 +318,15 @@
   		"miners":"http://pirl.rubpool.com/api/miners",
 		"url":"pirl.rubpool.com",
         	"notify":""
+    	},
+	{  
+		"name":"ULEYPOOL.COM",
+		"stats":"http://pirl.uleypool.com:58080/api/stats",
+		"blocks":"http://pirl.uleypool.com:58080/api/blocks",
+		"payments":"http://pirl.uleypool.com:58080/api/payments",
+		"accounts":"http://pirl.uleypool.com:58080/api/accounts",
+  		"miners":"http://pirl.uleypool.com:58080/api/miners",
+		"url":"pirl.uleypool.com",
+        	"notify":"support@uleypool.com"
     	}
 ]

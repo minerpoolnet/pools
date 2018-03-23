@@ -98,5 +98,15 @@
  		"miners":"https://aka.encryptglobe.com/api/miners",
  		"url":"aka.encryptglobe.com",
  		"notify":""
+	},
+	{
+ 		"name":"CRYPTOBIT",
+ 		"stats":"http://akroma.cryptobitpool.eu/api/stats",
+ 		"blocks":"http://akroma.cryptobitpool.eu/api/blocks",
+ 		"payments":"http://akroma.cryptobitpool.eu/api/payments",
+ 		"accounts":"http://akroma.cryptobitpool.eu/api/accounts",
+ 		"miners":"http://akroma.cryptobitpool.eu/api/miners",
+ 		"url":"akroma.cryptobitpool.eu",
+ 		"notify":""
 	}
 ]

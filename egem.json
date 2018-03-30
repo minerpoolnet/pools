@@ -11,11 +11,11 @@
 	},
 	{
  		"name":"EGEM.IO",
- 		"stats":"http://pool.egem.io/api/stats",
- 		"blocks":"http://pool.egem.io/api/blocks",
- 		"payments":"http://pool.egem.io/api/payments",
- 		"accounts":"http://pool.egem.io/api/accounts",
- 		"miners":"http://pool.egem.io/api/miners",
+ 		"stats":"https://pool.egem.io/api/stats",
+ 		"blocks":"https://pool.egem.io/api/blocks",
+ 		"payments":"https://pool.egem.io/api/payments",
+ 		"accounts":"https://pool.egem.io/api/accounts",
+ 		"miners":"https://pool.egem.io/api/miners",
  		"url":"pool.egem.io",
  		"notify":""
 	}

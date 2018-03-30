@@ -1,0 +1,23 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://egem.minerpool.net/api/stats",
+ 		"blocks":"http://egem.minerpool.net/api/blocks",
+ 		"payments":"http://egem.minerpool.net/api/payments",
+ 		"accounts":"http://egem.minerpool.net/api/accounts",
+ 		"miners":"http://egem.minerpool.net/api/miners",
+ 		"url":"egem.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"EGEM.IO",
+ 		"stats":"http://pool.egem.io/api/stats",
+ 		"blocks":"http://pool.egem.io/api/blocks",
+ 		"payments":"http://pool.egem.io/api/payments",
+ 		"accounts":"http://pool.egem.io/api/accounts",
+ 		"miners":"http://pool.egem.io/api/miners",
+ 		"url":"pool.egem.io",
+ 		"notify":""
+	}
+  ]
+  

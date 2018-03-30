@@ -18,6 +18,26 @@
  		"miners":"https://pool.egem.io/api/miners",
  		"url":"pool.egem.io",
  		"notify":""
+	},
+	{
+ 		"name":"CRYPTOBIT",
+ 		"stats":"http://egem.cryptobitpool.eu/api/stats",
+ 		"blocks":"http://egem.cryptobitpool.eu/api/blocks",
+ 		"payments":"http://egem.cryptobitpool.eu/api/payments",
+ 		"accounts":"http://egem.cryptobitpool.eu/api/accounts",
+ 		"miners":"http://egem.cryptobitpool.eu/api/miners",
+ 		"url":"egem.cryptobitpool.eu",
+ 		"notify":""
+	},
+	{
+ 		"name":"REVERSEGAINZ",
+ 		"stats":"http://egem.reversegainz.info/api/stats",
+ 		"blocks":"http://egem.reversegainz.info/api/blocks",
+ 		"payments":"http://egem.reversegainz.info/api/payments",
+ 		"accounts":"http://egem.reversegainz.info/api/accounts",
+ 		"miners":"http://egem.reversegainz.info/api/miners",
+ 		"url":"egem.reversegainz.info",
+ 		"notify":""
 	}
   ]
   

@@ -318,5 +318,15 @@
   		"miners":"http://pirl.rubpool.com/api/miners",
 		"url":"pirl.rubpool.com",
         	"notify":""
-    	}
+    	},
+	{
+		"name":"EPOOL",
+		"stats":"http://pirl.epool.eu/api/stats",
+		"blocks":"http://pirl.epool.eu/api/blocks",
+		"payments":"http://pirl.epool.eu/api/payments",
+		"accounts":"http://pirl.epool.eu/api/accounts",
+		"miners":"http://pirl.epool.eu/api/miners",
+		"url":"pirl.epool.eu",
+		"notify":""
+	}
 ]

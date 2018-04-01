@@ -320,7 +320,7 @@
         	"notify":""
     	},
 	{
-		"name":"EPOOL.EU",
+		"name":"EPOOL",
 		"stats":"http://pirl.epool.eu/api/stats",
 		"blocks":"http://pirl.epool.eu/api/blocks",
 		"payments":"http://pirl.epool.eu/api/payments",

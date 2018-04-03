@@ -38,6 +38,26 @@
  		"miners":"http://egem.reversegainz.info/api/miners",
  		"url":"egem.reversegainz.info",
  		"notify":""
+	},
+	{
+	    "name":"PROTONMINE",
+ 		"stats":"http://egem.protonmine.io/api/stats",
+ 		"blocks":"http://egem.protonmine.io/api/blocks",
+ 		"payments":"http://egem.protonmine.io/api/payments",
+ 		"accounts":"http://egem.protonmine.io/api/accounts",
+ 		"miners":"http://egem.protonmine.io/api/miners",
+ 		"url":"egem.protonmine.io",
+ 		"notify":""
+	},
+	{
+	    "name":"COINS.FARM",
+ 		"stats":"http://138.68.40.235:8080/api/stats",
+ 		"blocks":"http://138.68.40.235:8080/api/blocks",
+ 		"payments":"http://138.68.40.235:8080/api/payments",
+ 		"accounts":"http://138.68.40.235:8080/api/accounts",
+ 		"miners":"http://138.68.40.235:8080/api/miners",
+ 		"url":"coins.farm",
+ 		"notify":""
 	}
   ]
   

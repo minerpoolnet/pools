@@ -10,16 +10,6 @@
  		"notify":"support@minerpool.net"
 	},
 	{
- 		"name":"CRYPTOPOOLS",
- 		"stats":"http://nodez.Cryptopools.info/api/stats",
- 		"blocks":"http://nodez.Cryptopools.info/api/blocks",
- 		"payments":"http://nodez.Cryptopools.info/api/payments",
- 		"accounts":"http://nodez.Cryptopools.info/api/accounts",
- 		"miners":"http://nodez.Cryptopools.info/api/miners",
- 		"url":"nodez.Cryptopools.info",
- 		"notify":"phatblinkie@hotmail.com"
-	},
-	{
  		"name":"HODLPOOL",
  		"stats":"http://ndz.hodlpool.com/api/stats",
  		"blocks":"http://ndz.hodlpool.com/api/blocks",

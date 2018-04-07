@@ -10,16 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"OLDBEYOND",
-		"stats":"http://52.168.133.100:10000/api/stats",
-		"blocks":"http://52.168.133.100:10000/api/blocks",
-		"payments":"http://52.168.133.100:10000/api/payments",
-		"accounts":"http://52.168.133.100:10000/api/accounts",
-		"miners":"http://52.168.133.100:10000/api/miners",
-		"url":"nuko.oldbeyond.com",
-		"notify":""
-	},
-	{
 		"name":"FTLPOOL",
 		"stats":"http://nuko.ftlpool.com/api/stats",
 		"blocks":"http://nuko.ftlpool.com/api/blocks",
@@ -67,16 +57,6 @@
 		"accounts":"http://nuko.ethash-coins.ru/api/accounts",
 		"miners":"http://nuko.ethash-coins.ru/api/miners",
 		"url":"nuko.ethash-coins.ru",
-		"notify":""
-	},
-	{
-		"name":"CRYPTOPOOLS",
-		"stats":"http://neko.cryptopools.info/api/stats",
-		"blocks":"http://neko.cryptopools.info/api/blocks",
-		"payments":"http://neko.cryptopools.info/api/payments",
-		"accounts":"http://neko.cryptopools.info/api/accounts",
-		"miners":"http://neko.cryptopools.info/api/miners",
-		"url":"neko.cryptopools.info",
 		"notify":""
 	},
 	{

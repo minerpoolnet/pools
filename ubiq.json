@@ -20,16 +20,6 @@
 		"notify":"pool@reidocoin.com.br"
 	},
 	{
-		"name":"UBIQPEON",
-		"stats":"http://ubiq.spdns.eu/api/stats",
-		"blocks":"http://ubiq.spdns.eu/api/blocks",
-		"payments":"http://ubiq.spdns.eu/api/payments",
-		"accounts":"http://ubiq.spdns.eu/api/accounts",
-		"miners":"http://ubiq.spdns.eu/api/miners",
-		"url":"ubiq.spdns.eu",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://ubiq.hodlpool.com/api/stats",
 		"blocks":"http://ubiq.hodlpool.com/api/blocks",
@@ -50,26 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"EPICPOOL",
-		"stats":"http://ubiq.epicpool.club/api/stats",
-		"blocks":"http://ubiq.epicpool.club/api/blocks",
-		"payments":"http://ubiq.epicpool.club/api/payments",
-		"accounts":"http://ubiq.epicpool.club/api/accounts",
-		"miners":"http://ubiq.epicpool.club/api/miners",
-		"url":"ubiq.epicpool.club",
-		"notify":""
-	},
-	{
-		"name":"HAKOPOOL",
-		"stats":"http://ubiq.hakopool.com/?w=api&stats",
-		"blocks":"http://ubiq.hakopool.com/?w=api&blocks",
-		"payments":"http://ubiq.hakopool.com/?w=api&payments",
-		"accounts":"http://ubiq.hakopool.com/?w=api&accounts",
-		"miners":"http://ubiq.hakopool.com/?w=api&miners",
-		"url":"ubiq.hakopool.com",
-		"notify":""
-	},
-	{
 		"name":"UBIQPOOL",
 		"stats":"https://ubiqpool.io/api/stats",
 		"blocks":"https://ubiqpool.io/api/blocks",
@@ -77,16 +47,6 @@
 		"accounts":"https://ubiqpool.io/api/accounts",
 		"miners":"https://ubiqpool.io/api/miners",
 		"url":"ubiqpool.io",
-		"notify":""
-	},
-	{
-		"name":"MOLE-POOL",
-		"stats":"http://109.70.186.58:5050/api/stats",
-		"blocks":"http://109.70.186.58:5050/api/blocks",
-		"payments":"http://109.70.186.58:5050/api/payments",
-		"accounts":"http://109.70.186.58:5050/api/accounts",
-		"miners":"http://109.70.186.58:5050/api/miners",
-		"url":"ubiq.mole-pool.net",
 		"notify":""
 	},
 	{
@@ -100,16 +60,6 @@
 		"notify":""
 	},
 	{
-		"name":"DIGITALPOOL",
-		"stats":"http://ubiq.digitalpool.cc/api/stats",
-		"blocks":"http://ubiq.digitalpool.cc/api/blocks",
-		"payments":"http://ubiq.digitalpool.cc/api/payments",
-		"accounts":"http://ubiq.digitalpool.cc/api/accounts",
-		"miners":"http://ubiq.digitalpool.cc/api/miners",
-		"url":"ubiq.digitalpool.cc",
-		"notify":""
-	},
-	{
 		"name":"MYPOOL",
 		"stats":"https://api.ubq.mypool.online/api/stats",
 		"blocks":"https://api.ubq.mypool.online/api/blocks",
@@ -118,5 +68,35 @@
 		"miners":"https://api.ubq.mypool.online/api/miners",
 		"url":"ubq.mypool.online",
 		"notify":"support@mypool.online"
+	},
+	{
+		"name":"CLONA",
+		"stats":"http://clona.ru:3012/api/stats",
+		"blocks":"http://clona.ru:3012/api/blocks",
+		"payments":"http://clona.ru:3012/api/payments",
+		"accounts":"http://clona.ru:3012/api/accounts",
+		"miners":"http://clona.ru:3012/api/miners",
+		"url":"clona.ru",
+		"notify":""
+      },
+	{
+		"name":"MEGAPOOL",
+		"stats":"https://megapool.io/api/stats/ubq",
+		"blocks":"https://megapool.io/api/blocks/ubq",
+		"payments":"https://megapool.io/api/payments/ubq",
+		"accounts":"https://megapool.io/api/accounts/ubq",
+		"miners":"https://megapool.io/api/miners/ubq",
+		"url":"megapool.io",
+		"notify":"support@megapool.io"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://ubiq.mole-pool.net/api/stats",
+		"blocks":"http://ubiq.mole-pool.net/api/blocks",
+		"payments":"http://ubiq.mole-pool.net/api/payments",
+		"accounts":"http://ubiq.mole-pool.net/api/accounts",
+		"miners":"http://ubiq.mole-pool.net/api/miners",
+		"url":"ubiq.mole-pool.net",
+		"notify":""
 	}
 ]

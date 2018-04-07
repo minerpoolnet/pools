@@ -40,16 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"CRYPTOPOOLS",
-		"stats":"http://pegas.cryptopools.info/api/stats",
-		"blocks":"http://pegas.cryptopools.info/api/blocks",
-		"payments":"http://pegas.cryptopools.info/api/payments",
-		"accounts":"http://pegas.cryptopools.info/api/accounts",
-		"miners":"http://pegas.cryptopools.info/api/miners",
-		"url":"pegas.cryptopools.info",
-		"notify":""
-	},
-	{
 		"name":"PEGASPOOL",
 		"stats":"http://pegascoin.xyz/api/stats",
 		"blocks":"http://pegascoin.xyz/api/blocks",
@@ -57,6 +47,16 @@
 		"accounts":"http://pegascoin.xyz/api/accounts",
 		"miners":"http://pegascoin.xyz/api/miners",
 		"url":"pegascoin.xyz",
+		"notify":""
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://pg.mole-pool.net/api/stats",
+		"blocks":"http://pg.mole-pool.net/api/blocks",
+		"payments":"http://pg.mole-pool.net/api/payments",
+		"accounts":"http://pg.mole-pool.net/api/accounts",
+		"miners":"http://pg.mole-pool.net/api/miners",
+		"url":"pg.mole-pool.net",
 		"notify":""
 	}
 ]

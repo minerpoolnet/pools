@@ -1,0 +1,22 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://genom.minerpool.net/api/stats",
+ 		"blocks":"http://genom.minerpool.net/api/blocks",
+ 		"payments":"http://genom.minerpool.net/api/payments",
+ 		"accounts":"http://genom.minerpool.net/api/accounts",
+ 		"miners":"http://genom.minerpool.net/api/miners",
+ 		"url":"genom.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"GENOM OFFICIAL",
+ 		"stats":"https://pool.genom.tech/api/stats",
+ 		"blocks":"https://pool.genom.tech/api/blocks",
+ 		"payments":"https://pool.genom.tech/api/payments",
+ 		"accounts":"https://pool.genom.tech/api/accounts",
+ 		"miners":"https://pool.genom.tech/api/miners",
+ 		"url":"pool.genom.tech",
+ 		"notify":""
+	}
+]

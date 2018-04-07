@@ -10,36 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"MPEON",
-		"stats":"http://whale.spdns.eu/api/stats",
-		"blocks":"http://whale.spdns.eu/api/blocks",
-		"payments":"http://whale.spdns.eu/api/payments",
-		"accounts":"http://whale.spdns.eu/api/accounts",
-		"miners":"http://whale.spdns.eu/api/miners",
-		"url":"whale.spdns.eu",
-		"notify":""
-	},
-	{
-		"name":"GLOBALPOOL",
-		"stats":"http://whale.globalpool.cc/api/stats",
-		"blocks":"http://whale.globalpool.cc/api/blocks",
-		"payments":"http://whale.globalpool.cc/api/payments",
-		"accounts":"http://whale.globalpool.cc/api/accounts",
-		"miners":"http://whale.globalpool.cc/api/miners",
-		"url":"whale.globalpool.cc",
-		"notify":""
-	},
-	{
-		"name":"EZMINE",
-		"stats":"http://whale.ezmine.io/api/stats",
-		"blocks":"http://whale.ezmine.io/api/blocks",
-		"payments":"http://whale.ezmine.io/api/payments",
-		"accounts":"http://whale.ezmine.io/api/accounts",
-		"miners":"http://whale.ezmine.io/api/miners",
-		"url":"whale.ezmine.io",
-		"notify":""
-	},
-	{
 		"name":"HODLPOOL",
 		"stats":"http://whale.hodlpool.com/api/stats",
 		"blocks":"http://whale.hodlpool.com/api/blocks",
@@ -70,16 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"POOLSEXY",
-		"stats":"http://whl.pool.sexy/api2/stats",
-		"blocks":"http://whl.pool.sexy/api2/blocks",
-		"payments":"http://whl.pool.sexy/api2/payments",
-		"accounts":"http://whl.pool.sexy/api2/accounts",
-		"miners":"http://whl.pool.sexy/api2/miners",
-		"url":"whl.pool.sexy",
-		"notify":""
-	},
-	{
 		"name":"2MINERS",
 		"stats":"https://solo-whl.2miners.com/api/stats",
 		"blocks":"https://solo-whl.2miners.com/api/blocks",
@@ -88,5 +48,15 @@
 		"miners":"https://solo-whl.2miners.com/api/miners",
 		"url":"2miners.com",
 		"notify":"support@2miners.com"
+	},
+	{
+		"name":"MOLE-POOL",
+		"stats":"http://whale.mole-pool.net/api/stats",
+		"blocks":"http://whale.mole-pool.net/api/blocks",
+		"payments":"http://whale.mole-pool.net/api/payments",
+		"accounts":"http://whale.mole-pool.net/api/accounts",
+		"miners":"http://whale.mole-pool.net/api/miners",
+		"url":"whale.mole-pool.net",
+		"notify":""
 	}
 ]

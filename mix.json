@@ -18,5 +18,15 @@
  		"miners":"https://mix.encryptglobe.com/api/miners",
  		"url":"mix.encryptglobe.com",
  		"notify":""
+	},
+	{
+		"name":"PSDEV.IO",
+		"stats":"http://mix.psdev.io/api/stats",
+		"blocks":"http://mix.psdev.io/api/blocks",
+		"payments":"http://mix.psdev.io/api/payments",
+		"accounts":"http://mix.psdev.io/api/accounts",
+		"miners":"http://mix.psdev.io/api/miners",
+		"url":"mix.psdev.io",
+		"notify":"p@psdev.io"
 	}
 ]

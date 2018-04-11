@@ -108,5 +108,15 @@
  		"miners":"http://akroma.cryptobitpool.eu/api/miners",
  		"url":"akroma.cryptobitpool.eu",
  		"notify":""
+	},
+	{
+ 		"name":"2Miners",
+ 		"stats":"https://aka.2miners.com/api/stats",
+ 		"blocks":"https://aka.2miners.com/api/blocks",
+ 		"payments":"https://aka.2miners.com/api/payments",
+ 		"accounts":"https://aka.2miners.com/api/accounts",
+ 		"miners":"https://aka.2miners.com/api/miners",
+ 		"url":"2miners.com",
+ 		"notify":"support@2miners.com"
 	}
 ]

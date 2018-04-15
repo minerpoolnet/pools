@@ -58,5 +58,15 @@
  		"miners":"https://clo.2miners.com/api/miners",
  		"url":"clo.2miners.com",
  		"notify":""
-	}
+	},
+{
+        "name":"MOLE-POOL",
+        "stats":"http://clo.mole-pool.net:9393/api/stats",
+        "blocks":"http://clo.mole-pool.net:9393/api/blocks",
+        "payments":"http://clo.mole-pool.net:9393/api/payments",
+        "accounts":"http://clo.mole-pool.net:9393/api/accounts",
+        "miners":"http://clo.mole-pool.net:9393/api/miners",
+        "url":"mole-pool.net",
+        "notify":"mole-pool@mail.ru"
+    }
   ]

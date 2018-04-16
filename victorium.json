@@ -110,7 +110,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://vic.pool.sexy/api/stats",
 		"blocks":"https://vic.pool.sexy/api/blocks",
 		"payments":"https://vic.pool.sexy/api/payments",

@@ -188,5 +188,15 @@
 		"miners":"http://mus.mole-pool.net/api/miners",
 		"url":"mus.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"Pool.sexy",
+		"stats":"http://music.pool.sexy/api/stats",
+		"blocks":"https://music.pool.sexy/api/blocks",
+		"payments":"https://music.pool.sexy/api/payments",
+		"accounts":"https://music.pool.sexy/api/accounts",
+		"miners":"https://music.pool.sexy/api/miners",
+		"url":"music.pool.sexy",
+		"notify":""
 	}
 ]

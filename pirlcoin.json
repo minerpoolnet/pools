@@ -288,7 +288,7 @@
   		"miners":"http://pirl.rubpool.com/api/miners",
 		"url":"pirl.rubpool.com",
         	"notify":""
-    	},
+	},
 	{
 		"name":"EPOOL",
 		"stats":"http://pirl.epool.eu/api/stats",
@@ -297,6 +297,16 @@
 		"accounts":"http://pirl.epool.eu/api/accounts",
 		"miners":"http://pirl.epool.eu/api/miners",
 		"url":"pirl.epool.eu",
+		"notify":""
+	},
+	{
+		"name":"Pool.sexy",
+		"stats":"http://pirl.pool.sexy/api/stats",
+		"blocks":"https://pirl.pool.sexy/api/blocks",
+		"payments":"https://pirl.pool.sexy/api/payments",
+		"accounts":"https://pirl.pool.sexy/api/accounts",
+		"miners":"https://pirl.pool.sexy/api/miners",
+		"url":"pirl.pool.sexy",
 		"notify":""
 	}
 ]

@@ -118,5 +118,15 @@
  		"miners":"https://aka.2miners.com/api/miners",
  		"url":"2miners.com",
  		"notify":"support@2miners.com"
+	},
+	{
+		"name":"Pool.sexy",
+		"stats":"http://aka.pool.sexy/api/stats",
+		"blocks":"https://aka.pool.sexy/api/blocks",
+		"payments":"https://aka.pool.sexy/api/payments",
+		"accounts":"https://aka.pool.sexy/api/accounts",
+		"miners":"https://aka.pool.sexy/api/miners",
+		"url":"aka.pool.sexy",
+		"notify":""
 	}
 ]

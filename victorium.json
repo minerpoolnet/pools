@@ -108,5 +108,15 @@
 		"miners":"http://vic.encryptglobe.com/api/miners",
 		"url":"VIC.ENCRYPTGLOBE.COM",
 		"notify":""
+	},
+	{
+		"name":"Pool.sexy",
+		"stats":"http://vic.pool.sexy/api/stats",
+		"blocks":"https://vic.pool.sexy/api/blocks",
+		"payments":"https://vic.pool.sexy/api/payments",
+		"accounts":"https://vic.pool.sexy/api/accounts",
+		"miners":"https://vic.pool.sexy/api/miners",
+		"url":"vic.pool.sexy",
+		"notify":""
 	}
 ]

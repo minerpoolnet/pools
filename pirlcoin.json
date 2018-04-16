@@ -300,7 +300,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://pirl.pool.sexy/api/stats",
 		"blocks":"https://pirl.pool.sexy/api/blocks",
 		"payments":"https://pirl.pool.sexy/api/payments",

@@ -20,7 +20,7 @@
  		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://gen.pool.sexy/api/stats",
 		"blocks":"https://gen.pool.sexy/api/blocks",
 		"payments":"https://gen.pool.sexy/api/payments",

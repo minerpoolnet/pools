@@ -60,7 +60,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://pgc.pool.sexy/api/stats",
 		"blocks":"https://pgc.pool.sexy/api/blocks",
 		"payments":"https://pgc.pool.sexy/api/payments",

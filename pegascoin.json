@@ -58,5 +58,15 @@
 		"miners":"http://pg.mole-pool.net/api/miners",
 		"url":"pg.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"POOL.SEXY",
+		"stats":"http://pgc.pool.sexy/api/stats",
+		"blocks":"https://pgc.pool.sexy/api/blocks",
+		"payments":"https://pgc.pool.sexy/api/payments",
+		"accounts":"https://pgc.pool.sexy/api/accounts",
+		"miners":"https://pgc.pool.sexy/api/miners",
+		"url":"pgc.pool.sexy",
+		"notify":""
 	}
 ]

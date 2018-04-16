@@ -18,5 +18,15 @@
  		"miners":"https://pool.genom.tech/api/miners",
  		"url":"pool.genom.tech",
  		"notify":""
+	},
+	{
+		"name":"POOL.SEXY",
+		"stats":"http://gen.pool.sexy/api/stats",
+		"blocks":"https://gen.pool.sexy/api/blocks",
+		"payments":"https://gen.pool.sexy/api/payments",
+		"accounts":"https://gen.pool.sexy/api/accounts",
+		"miners":"https://gen.pool.sexy/api/miners",
+		"url":"gen.pool.sexy",
+		"notify":""
 	}
 ]

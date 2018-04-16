@@ -108,5 +108,15 @@
 		"miners":"http://exp.mole-pool.net/api/miners",
 		"url":"exp.mole-pool.net",
 		"notify":""
+	},
+	{
+		"name":"POOL.SEXY",
+		"stats":"http://exp.pool.sexy/api/stats",
+		"blocks":"https://exp.pool.sexy/api/blocks",
+		"payments":"https://exp.pool.sexy/api/payments",
+		"accounts":"https://exp.pool.sexy/api/accounts",
+		"miners":"https://exp.pool.sexy/api/miners",
+		"url":"exp.pool.sexy",
+		"notify":""
 	}
 ]

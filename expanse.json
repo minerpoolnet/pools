@@ -110,7 +110,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://exp.pool.sexy/api/stats",
 		"blocks":"https://exp.pool.sexy/api/blocks",
 		"payments":"https://exp.pool.sexy/api/payments",

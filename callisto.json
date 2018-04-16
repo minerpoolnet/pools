@@ -59,14 +59,24 @@
  		"url":"clo.2miners.com",
  		"notify":""
 	},
-{
-        "name":"MOLE-POOL",
-        "stats":"http://clo.mole-pool.net:9393/api/stats",
-        "blocks":"http://clo.mole-pool.net:9393/api/blocks",
-        "payments":"http://clo.mole-pool.net:9393/api/payments",
-        "accounts":"http://clo.mole-pool.net:9393/api/accounts",
-        "miners":"http://clo.mole-pool.net:9393/api/miners",
-        "url":"mole-pool.net",
-        "notify":"mole-pool@mail.ru"
-    }
+	{
+        	"name":"MOLE-POOL",
+        	"stats":"http://clo.mole-pool.net:9393/api/stats",
+        	"blocks":"http://clo.mole-pool.net:9393/api/blocks",
+        	"payments":"http://clo.mole-pool.net:9393/api/payments",
+        	"accounts":"http://clo.mole-pool.net:9393/api/accounts",
+        	"miners":"http://clo.mole-pool.net:9393/api/miners",
+        	"url":"mole-pool.net",
+        	"notify":"mole-pool@mail.ru"
+    	},
+	{
+        	"name":"CLOPOOL.NET",
+        	"stats":"https://clopool.net/api/stats",
+        	"blocks":"https://clopool.net/api/blocks",
+        	"payments":"https://clopool.net/api/payments",
+        	"accounts":"https://clopool.net/api/accounts",
+        	"miners":"https://clopool.net/api/miners",
+        	"url":"clopool.net",
+        	"notify":"chainkorea@naver.com"
+    	}
   ]

@@ -190,7 +190,7 @@
 		"notify":""
 	},
 	{
-		"name":"Pool.sexy",
+		"name":"POOL.SEXY",
 		"stats":"http://music.pool.sexy/api/stats",
 		"blocks":"https://music.pool.sexy/api/blocks",
 		"payments":"https://music.pool.sexy/api/payments",

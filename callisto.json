@@ -18,7 +18,7 @@
  		"miners":"https://www.callistopool.io/api/miners",
  		"url":"www.callistopool.io",
  		"notify":""
-	},  
+	},
 	{
  		"name":"CLOPOOL.PRO",
  		"stats":"https://clopool.pro/api/stats",
@@ -28,7 +28,7 @@
  		"miners":"https://clopool.pro/api/miners",
  		"url":"clopool.pro",
  		"notify":""
-	},  
+	},
   	{
  		"name":"EPOOL",
  		"stats":"https://clo.epool.io/api/stats",
@@ -38,7 +38,7 @@
  		"miners":"https://clo.epool.io/api/miners",
  		"url":"clo.epool.io",
  		"notify":""
-	},  
+	},
   	{
  		"name":"CALLISTOPOOL.ORG",
  		"stats":"http://callistopool.org/api/stats",
@@ -48,7 +48,7 @@
  		"miners":"http://callistopool.org/api/miners",
  		"url":"callistopool.org",
  		"notify":""
-	},  
+	},
   	{
  		"name":"2MINERS",
  		"stats":"https://clo.2miners.com/api/stats",
@@ -59,6 +59,16 @@
  		"url":"clo.2miners.com",
  		"notify":""
 	},
+    {
+      "name":"POOL.SEXY",
+      "stats":"http://clo.pool.sexy/api/stats",
+      "blocks":"https://clo.pool.sexy/api/blocks",
+      "payments":"https://clo.pool.sexy/api/payments",
+      "accounts":"https://clo.pool.sexy/api/accounts",
+      "miners":"https://clo.pool.sexy/api/miners",
+      "url":"clo.pool.sexy",
+      "notify":""
+    },
 	{
         	"name":"MOLE-POOL",
         	"stats":"http://clo.mole-pool.net:9393/api/stats",

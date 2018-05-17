@@ -308,5 +308,15 @@
 		"miners":"https://pirl.pool.sexy/api/miners",
 		"url":"pirl.pool.sexy",
 		"notify":""
-	}
+	},
+   	{  
+		"name":"ALHAFEEZ.TECH",
+		"stats":"https://pirl.alhafeez.tech/api/stats",
+		"blocks":"https://pirl.alhafeez.tech/api/blocks",
+		"payments":"https://pirl.alhafeez.tech/api/payments",
+		"accounts":"https://pirl.alhafeez.tech/api/accounts",
+	 	"miners":"https://pirl.alhafeez.tech/api/miners",
+		"url":"pirl.alhafeez.tech",
+	        "notify":""
+		}
 ]

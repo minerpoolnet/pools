@@ -50,16 +50,6 @@
  		"notify":""
 	},
 	{
- 		"name":"PISTOLCRYPT",
- 		"stats":"http://akroma.pistolcrypt.com/api/stats",
- 		"blocks":"http://akroma.pistolcrypt.com/api/blocks",
- 		"payments":"http://akroma.pistolcrypt.com/api/payments",
- 		"accounts":"http://akroma.pistolcrypt.com/api/accounts",
- 		"miners":"http://akroma.pistolcrypt.com/api/miners",
- 		"url":"akroma.pistolcrypt.com",
- 		"notify":""
-	},
-	{
  		"name":"VIPOOL",
  		"stats":"http://aka.vipool.net/api/stats",
  		"blocks":"http://aka.vipool.net/api/blocks",
@@ -77,36 +67,6 @@
  		"accounts":"http://clona.ru:9019/api/accounts",
  		"miners":"http://clona.ru:9019/api/miners",
  		"url":"clona.ru",
- 		"notify":""
-	},
-	{
- 		"name":"HYPERHASH",
- 		"stats":"https://aka.hyperhash.net/api9/stats",
- 		"blocks":"https://aka.hyperhash.net/api9/blocks",
- 		"payments":"https://aka.hyperhash.net/api9/payments",
- 		"accounts":"https://aka.hyperhash.net/api9/accounts",
- 		"miners":"https://aka.hyperhash.net/api9/miners",
- 		"url":"aka.hyperhash.net",
- 		"notify":""
-	},
-	{
- 		"name":"ENCRYPTGLOBE",
- 		"stats":"https://aka.encryptglobe.com/api/stats",
- 		"blocks":"https://aka.encryptglobe.com/api/blocks",
- 		"payments":"https://aka.encryptglobe.com/api/payments",
- 		"accounts":"https://aka.encryptglobe.com/api/accounts",
- 		"miners":"https://aka.encryptglobe.com/api/miners",
- 		"url":"aka.encryptglobe.com",
- 		"notify":""
-	},
-	{
- 		"name":"CRYPTOBIT",
- 		"stats":"http://akroma.cryptobitpool.eu/api/stats",
- 		"blocks":"http://akroma.cryptobitpool.eu/api/blocks",
- 		"payments":"http://akroma.cryptobitpool.eu/api/payments",
- 		"accounts":"http://akroma.cryptobitpool.eu/api/accounts",
- 		"miners":"http://akroma.cryptobitpool.eu/api/miners",
- 		"url":"akroma.cryptobitpool.eu",
  		"notify":""
 	},
 	{

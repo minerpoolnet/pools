@@ -58,6 +58,16 @@
  		"miners":"http://138.68.40.235:8080/api/miners",
  		"url":"coins.farm",
  		"notify":""
+	},
+	{
+	    "name":"EPOOL.IO",
+ 		"stats":"https://egem.epool.io/api/stats",
+ 		"blocks":"https://egem.epool.io/api/blocks",
+ 		"payments":"https://egem.epool.io/api/payments",
+ 		"accounts":"https://egem.epool.io/api/accounts",
+ 		"miners":"https://egem.epool.io/api/miners",
+ 		"url":"egem.epool.io",
+ 		"notify":""
 	}
   ]
   

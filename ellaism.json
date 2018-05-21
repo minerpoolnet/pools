@@ -20,26 +20,6 @@
 		"notify":"ellaismer@protonmail.ch"
 	},
 	{
-		"name":"ELLAISM.IO",
-		"stats":"https://pool.ellaism.io/api/stats",
-		"blocks":"https://pool.ellaism.io/api/blocks",
-		"payments":"https://pool.ellaism.io/api/payments",
-		"accounts":"https://pool.ellaism.io/api/accounts",
-		"miners":"https://pool.ellaism.io/api/miners",
-		"url":"pool.ellaism.io",
-		"notify":"foreignfive@gmail.com"
-	},
-	{
-		"name":"ETHASH-COINS",
-		"stats":"http://ella.ethash-coins.ru/api/stats",
-		"blocks":"http://ella.ethash-coins.ru/api/blocks",
-		"payments":"http://ella.ethash-coins.ru/api/payments",
-		"accounts":"http://ella.ethash-coins.ru/api/accounts",
-		"miners":"http://ella.ethash-coins.ru/api/miners",
-		"url":"ella.ethash-coins.ru",
-		"notify":""
-	},
-	{
 		"name":"CRYPTOBIT",
 		"stats":"http://ella.cryptobitpool.eu/api/stats",
 		"blocks":"http://ella.cryptobitpool.eu/api/blocks",
@@ -127,16 +107,6 @@
 		"accounts":"http://clona.ru:9010/api/accounts",
 		"miners":"http://clona.ru:9010/api/miners",
 		"url":"clona.ru",
-		"notify":""
-      },
-      {
-		"name":"TETRAPOOL",
-		"stats":"https://ellaism.tetrapool.com/api/stats",
-		"blocks":"https://ellaism.tetrapool.com/api/blocks",
-		"payments":"https://ellaism.tetrapool.com/api/payments",
-		"accounts":"https://ellaism.tetrapool.com/api/accounts",
-		"miners":"https://ellaism.tetrapool.com/api/miners",
-		"url":"ellaism.tetrapool.com",
 		"notify":""
       },
       {

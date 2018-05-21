@@ -10,7 +10,7 @@
  		"notify":"support@minerpool.net"
 	},
 	{
- 		"name":"EGEM.IO",
+ 		"name":"DEV POOL",
  		"stats":"https://pool.egem.io/api/stats",
  		"blocks":"https://pool.egem.io/api/blocks",
  		"payments":"https://pool.egem.io/api/payments",
@@ -20,13 +20,13 @@
  		"notify":""
 	},
 	{
- 		"name":"CRYPTOBIT",
- 		"stats":"http://egem.cryptobitpool.eu/api/stats",
- 		"blocks":"http://egem.cryptobitpool.eu/api/blocks",
- 		"payments":"http://egem.cryptobitpool.eu/api/payments",
- 		"accounts":"http://egem.cryptobitpool.eu/api/accounts",
- 		"miners":"http://egem.cryptobitpool.eu/api/miners",
- 		"url":"egem.cryptobitpool.eu",
+ 		"name":"DOPEBLOCKS",
+ 		"stats":"https://dopeblocks.com/api/stats",
+ 		"blocks":"https://dopeblocks.com/api/blocks",
+ 		"payments":"https://dopeblocks.com/api/payments",
+ 		"accounts":"https://dopeblocks.com/api/accounts",
+ 		"miners":"https://dopeblocks.com/api/miners",
+ 		"url":"dopeblocks.com",
  		"notify":""
 	},
 	{

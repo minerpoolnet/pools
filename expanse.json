@@ -10,16 +10,6 @@
 		"notify":"support@minerpool.net"
 	},
 	{
-		"name":"REIDOCOIN",
-		"stats":"https://exp.reidocoin.com.br/api/stats",
-		"blocks":"https://exp.reidocoin.com.br/api/blocks",
-		"payments":"https://exp.reidocoin.com.br/api/payments",
-		"accounts":"https://exp.reidocoin.com.br/api/accounts",
-		"miners":"https://exp.reidocoin.com.br/api/miners",
-		"url":"exp.reidocoin.com.br",
-		"notify":"pool@reidocoin.com.br"
-	},
-	{
 		"name":"EXP.POOL",
 		"stats":"http://pool.expanse.tech/api/stats",
 		"blocks":"http://pool.expanse.tech/api/blocks",
@@ -27,16 +17,6 @@
 		"accounts":"http://pool.expanse.tech/api/accounts",
 		"miners":"http://pool.expanse.tech/api/miners",
 		"url":"pool.expanse.tech",
-		"notify":""
-	},
-	{
-		"name":"MINANDOANDO",
-		"stats":"http://exp.minandoando.com/api/stats",
-		"blocks":"http://exp.minandoando.com/api/blocks",
-		"payments":"http://exp.minandoando.com/api/payments",
-		"accounts":"http://exp.minandoando.com/api/accounts",
-		"miners":"http://exp.minandoando.com/api/miners",
-		"url":"exp.minandoando.com",
 		"notify":""
 	},
 	{

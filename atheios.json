@@ -30,16 +30,6 @@
  		"notify":""
 	},
 	{
- 		"name":"ETHASH",
- 		"stats":"http://ath.ethash.farm/api/stats",
- 		"blocks":"http://ath.ethash.farm/api/blocks",
- 		"payments":"http://ath.ethash.farm/api/payments",
- 		"accounts":"http://ath.ethash.farm/api/accounts",
- 		"miners":"http://ath.ethash.farm/api/miners",
- 		"url":"ath.ethash.farm",
- 		"notify":""
-	},
-	{
  		"name":"ATHEIOS.COM",
  		"stats":"https://pool.atheios.com/api/stats",
  		"blocks":"https://pool.atheios.com/api/blocks",

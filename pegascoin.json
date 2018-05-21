@@ -61,11 +61,11 @@
 	},
 	{
 		"name":"POOL.SEXY",
-		"stats":"http://pgc.pool.sexy/api/stats",
-		"blocks":"https://pgc.pool.sexy/api/blocks",
-		"payments":"https://pgc.pool.sexy/api/payments",
-		"accounts":"https://pgc.pool.sexy/api/accounts",
-		"miners":"https://pgc.pool.sexy/api/miners",
+		"stats":"http://pgc.pool.sexy/api5/stats",
+		"blocks":"https://pgc.pool.sexy/api5/blocks",
+		"payments":"https://pgc.pool.sexy/api5/payments",
+		"accounts":"https://pgc.pool.sexy/api5/accounts",
+		"miners":"https://pgc.pool.sexy/api5/miners",
 		"url":"pgc.pool.sexy",
 		"notify":""
 	}

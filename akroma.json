@@ -128,5 +128,15 @@
 		"miners":"https://aka.pool.sexy/api/miners",
 		"url":"aka.pool.sexy",
 		"notify":""
+	},
+	{
+		"name":"BYLT",
+		"stats":"https://akroma.bylt.gq/api/stats",
+		"blocks":"https://akroma.bylt.gq/api/blocks",
+		"payments":"https://akroma.bylt.gq/api/payments",
+		"accounts":"https://akroma.bylt.gq/api/accounts",
+		"miners":"https://akroma.bylt.gq/api/miners",
+		"url":"akroma.bylt.gq",
+		"notify":""
 	}
 ]

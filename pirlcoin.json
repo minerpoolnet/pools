@@ -10,16 +10,6 @@
 		"notify":""
 	},
 	{
-		"name":"HPPCG",
-		"stats":"https://us-nj-01.pools.hppcg.com/pirl/api/stats",
-		"blocks":"https://us-nj-01.pools.hppcg.com/pirl/api/blocks",
-		"payments":"https://us-nj-01.pools.hppcg.com/pirl/api/payments",
-		"accounts":"https://us-nj-01.pools.hppcg.com/pirl/api/accounts",
-		"miners":"https://us-nj-01.pools.hppcg.com/pirl/api/miners",
-		"url":"pools.hppcg.com",
-		"notify":""
-	},
-	{
 		"name":"MOLE-POOL",
 		"stats":"http://109.70.186.58:3020/api/stats",
 		"blocks":"http://109.70.186.58:3020/api/blocks",
@@ -27,16 +17,6 @@
 		"accounts":"http://109.70.186.58:3020/api/accounts",
 		"miners":"http://109.70.186.58:3020/api/miners",
 		"url":"mole-pool.net",
-		"notify":""
-	},
-	{
-		"name":"ETHASH-COINS",
-		"stats":"http://pirl.ethash-coins.ru/api/stats",
-		"blocks":"http://pirl.ethash-coins.ru/api/blocks",
-		"payments":"http://pirl.ethash-coins.ru/api/payments",
-		"accounts":"http://pirl.ethash-coins.ru/api/accounts",
-		"miners":"http://pirl.ethash-coins.ru/api/miners",
-		"url":"pirl.ethash-coins.ru",
 		"notify":""
 	},
 	{
@@ -130,16 +110,6 @@
 		"notify":""
 	},
 	{
-		"name":"BOBA",
-		"stats":"http://pirl.boba.vn/api/stats",
-		"blocks":"http://pirl.boba.vn/api/blocks",
-		"payments":"http://pirl.boba.vn/api/payments",
-		"accounts":"http://pirl.boba.vn/api/accounts",
-		"miners":"http://pirl.boba.vn/api/miners",
-		"url":"pirl.boba.vn",
-		"notify":""
-	},
-	{
  		"name":"SHOCKCOIN",
  		"stats":"http://pirl.shockcoin.com/api/stats",
  		"blocks":"http://pirl.shockcoin.com/api/blocks",
@@ -170,16 +140,6 @@
 		"notify":"support@mypool.online"
 	},
 	{
-		"name":"MINEALLTHECOINS",
-		"stats":"http://api.pirl.mineallthecoins.com/api/stats",
-		"blocks":"http://api.pirl.mineallthecoins.com/api/blocks",
-		"payments":"http://api.pirl.mineallthecoins.com/api/payments",
-		"accounts":"http://api.pirl.mineallthecoins.com/api/accounts",
-		"miners":"http://api.pirl.mineallthecoins.com/api/miners",
-		"url":"api.pirl.mineallthecoins.com",
-		"notify":""
-	},
-	{
 		"name":"2MINERS",
 		"stats":"https://pirl.2miners.com/api/stats",
 		"blocks":"https://pirl.2miners.com/api/blocks",
@@ -190,16 +150,6 @@
 		"notify":"support@2miners.com"
 	},
 	{
-		"name":"AUSTRALIANPIRLPOOL",
-		"stats":"http://australianpirlpool.info/api/stats",
-		"blocks":"http://australianpirlpool.info/api/blocks",
-		"payments":"http://australianpirlpool.info/api/payments",
-		"accounts":"http://australianpirlpool.info/api/accounts",
-		"miners":"http://australianpirlpool.info/api/miners",
-		"url":"australianpirlpool.info",
-		"notify":""
-	},
-	{
 		"name":"CLONA",
 		"stats":"http://clona.ru:4012/api/stats",
 		"blocks":"http://clona.ru:4012/api/blocks",
@@ -207,16 +157,6 @@
 		"accounts":"http://clona.ru:4012/api/accounts",
 		"miners":"http://clona.ru:4012/api/miners",
 		"url":"clona.ru",
-		"notify":""
-	},
-	{
-		"name":"MINER-POOL.COM",
-		"stats":"http://pirl.miner-pool.com/api/stats",
-		"blocks":"http://pirl.miner-pool.com/api/blocks",
-		"payments":"http://pirl.miner-pool.com/api/payments",
-		"accounts":"http://pirl.miner-pool.com/api/accounts",
-		"miners":"http://pirl.miner-pool.com/api/miners",
-		"url":"pirl.miner-pool.com",
 		"notify":""
 	},
 	{
@@ -270,16 +210,6 @@
  		"notify":""
 	},
 	{  
-		"name":"MINANDOANDO.COM",
-		"stats":"http://pirl.minandoando.com/api/stats",
-		"blocks":"http://pirl.minandoando.com/api/blocks",
-		"payments":"http://pirl.minandoando.com/api/payments",
-		"accounts":"http://pirl.minandoando.com/api/accounts",
-  		"miners":"http://pirl.minandoando.com/api/miners",
-		"url":"pirl.minandoando.com",
-		"notify":""
-	},
-	{  
 		"name":"RUBPOOL.COM",
 		"stats":"http://pirl.rubpool.com/api/stats",
 		"blocks":"http://pirl.rubpool.com/api/blocks",
@@ -308,16 +238,6 @@
 		"miners":"https://pirl.pool.sexy/api/miners",
 		"url":"pirl.pool.sexy",
 		"notify":""
-	},
-   	{  
-		"name":"ALHAFEEZ.TECH",
-		"stats":"https://pirl.alhafeez.tech/api/stats",
-		"blocks":"https://pirl.alhafeez.tech/api/blocks",
-		"payments":"https://pirl.alhafeez.tech/api/payments",
-		"accounts":"https://pirl.alhafeez.tech/api/accounts",
-	 	"miners":"https://pirl.alhafeez.tech/api/miners",
-		"url":"pirl.alhafeez.tech",
-	        "notify":""
 	},
 	{  
 		"name":"ULEYPOOL.COM",

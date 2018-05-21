@@ -30,16 +30,6 @@
 		"notify":""
 	},
 	{
-		"name":"GPUMINE",
-		"stats":"https://whl-tw.gpumine.org/api/stats",
-		"blocks":"https://whl-tw.gpumine.org/api/blocks",
-		"payments":"https://whl-tw.gpumine.org/api/payments",
-		"accounts":"https://whl-tw.gpumine.org/api/accounts",
-		"miners":"https://whl-tw.gpumine.org/api/miners",
-		"url":"whl-tw.gpumine.org",
-		"notify":""
-	},
-	{
 		"name":"2MINERS",
 		"stats":"https://solo-whl.2miners.com/api/stats",
 		"blocks":"https://solo-whl.2miners.com/api/blocks",

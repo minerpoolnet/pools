@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"HASHGANG",
-		"stats":"http://vic.hashgang.io/api/stats",
-		"blocks":"http://vic.hashgang.io/api/blocks",
-		"payments":"http://vic.hashgang.io/api/payments",
-		"accounts":"http://vic.hashgang.io/api/accounts",
-		"miners":"http://vic.hashgang.io/api/miners",
-		"url":"vic.hashgang.io",
-		"notify":""
-	},
-	{
 		"name":"ALTPOOL",
 		"stats":"http://vic.altpool.pro/api/stats",
 		"blocks":"http://vic.altpool.pro/api/blocks",
@@ -37,16 +27,6 @@
 		"accounts":"http://vic.altpool.pro/api/accounts",
 		"miners":"http://vic.altpool.pro/api/miners",
 		"url":"vic.altpool.pro",
-		"notify":""
-	},
-	{
-		"name":"BAIKALMINE",
-		"stats":"http://vic.baikalmine.com/api/stats",
-		"blocks":"http://vic.baikalmine.com/api/blocks",
-		"payments":"http://vic.baikalmine.com/api/payments",
-		"accounts":"http://vic.baikalmine.com/api/accounts",
-		"miners":"http://vic.baikalmine.com/api/miners",
-		"url":"vic.baikalmine.com",
 		"notify":""
 	},
 	{
@@ -60,26 +40,6 @@
 		"notify":""
 	},
 	{
-		"name":"ETHASH-COINS",
-		"stats":"http://vic.ethash-coins.ru/api/stats",
-		"blocks":"http://vic.ethash-coins.ru/api/blocks",
-		"payments":"http://vic.ethash-coins.ru/api/payments",
-		"accounts":"http://vic.ethash-coins.ru/api/accounts",
-		"miners":"http://vic.ethash-coins.ru/api/miners",
-		"url":"vic.ethash-coins.ru",
-		"notify":""
-	},
-	{
-		"name":"HASHING.PARTY",
-		"stats":"http://vic.hashing.party/api/stats",
-		"blocks":"http://vic.hashing.party/api/blocks",
-		"payments":"http://vic.hashing.party/api/payments",
-		"accounts":"http://vic.hashing.party/api/accounts",
-		"miners":"http://vic.hashing.party/api/miners",
-		"url":"vic.hashing.party",
-		"notify":""
-	},
-	{
 		"name":"MOLE-POOL",
 		"stats":"http://vic.mole-pool.net/api/stats",
 		"blocks":"http://vic.mole-pool.net/api/blocks",
@@ -87,26 +47,6 @@
 		"accounts":"http://vic.mole-pool.net/api/accounts",
 		"miners":"http://vic.mole-pool.net/api/miners",
 		"url":"vic.mole-pool.net",
-		"notify":""
-	},
-	{
-		"name":"HASHINGPOOL",
-		"stats":"http://vic.hashingpool.party/api/stats",
-		"blocks":"http://vic.hashingpool.party/api/blocks",
-		"payments":"http://vic.hashingpool.party/api/payments",
-		"accounts":"http://vic.hashingpool.party/api/accounts",
-		"miners":"http://vic.hashingpool.party/api/miners",
-		"url":"vic.hashingpool.party",
-		"notify":""
-	},
-	{
-		"name":"ENCRYPTGLOBE",
-		"stats":"http://vic.encryptglobe.com/api/stats",
-		"blocks":"http://vic.encryptglobe.com/api/blocks",
-		"payments":"http://vic.encryptglobe.com/api/payments",
-		"accounts":"http://vic.encryptglobe.com/api/accounts",
-		"miners":"http://vic.encryptglobe.com/api/miners",
-		"url":"VIC.ENCRYPTGLOBE.COM",
 		"notify":""
 	},
 	{

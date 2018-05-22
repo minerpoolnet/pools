@@ -68,6 +68,16 @@
  		"miners":"http://clona.ru:5101/api/miners",
  		"url":"clona.ru:5101",
  		"notify":""
+	},
+	{
+	    "name":"CUBEPOOL.TK",
+ 		"stats":"https://egem.cubepool.tk/api/stats",
+ 		"blocks":"https://egem.cubepool.tk/api/blocks",
+ 		"payments":"https://egem.cubepool.tk/api/payments",
+ 		"accounts":"https://egem.cubepool.tk/api/accounts",
+ 		"miners":"https://egem.cubepool.tk/api/miners",
+ 		"url":"egem.cubepool.tk",
+ 		"notify":""
 	}	
   ]
   

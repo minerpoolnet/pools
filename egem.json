@@ -78,6 +78,16 @@
  		"miners":"https://egem.cubepool.tk/api/miners",
  		"url":"egem.cubepool.tk",
  		"notify":""
-	}	
+	},
+	{
+	    "name":"UPOOL.IN",
+ 		"stats":"https://egem.upool.in/api/stats",
+ 		"blocks":"https://egem.upool.in/api/blocks",
+ 		"payments":"https://egem.upool.in/api/payments",
+ 		"accounts":"https://egem.upool.in/api/accounts",
+ 		"miners":"https://egem.upool.in/api/miners",
+ 		"url":"egem.upool.in",
+ 		"notify":""
+	}
   ]
   

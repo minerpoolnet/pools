@@ -66,7 +66,17 @@
  		"payments":"http://clona.ru:5101/api/payments",
  		"accounts":"http://clona.ru:5101/api/accounts",
  		"miners":"http://clona.ru:5101/api/miners",
- 		"url":"coins.farm",
+ 		"url":"clona.ru:5101",
+ 		"notify":""
+	},
+	{
+	    "name":"ETHASH.FARM",
+ 		"stats":"http://egem.ethash.farm/api/stats",
+ 		"blocks":"http://egem.ethash.farm/api/blocks",
+ 		"payments":"http://egem.ethash.farm/api/payments",
+ 		"accounts":"http://egem.ethash.farm/api/accounts",
+ 		"miners":"http://egem.ethash.farm/api/miners",
+ 		"url":"egem.ethash.farm",
  		"notify":""
 	}
 	

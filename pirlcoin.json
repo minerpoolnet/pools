@@ -238,5 +238,15 @@
   		"miners":"http://pirl.uleypool.com:58080/api/miners",
 		"url":"pirl.uleypool.com",
         	"notify":"support@uleypool.com"
+    	},
+	{  
+		"name":"UPOOL",
+		"stats":"https://pirl.upool.in/api/stats",
+		"blocks":"https://pirl.upool.in/api/blocks",
+		"payments":"https://pirl.upool.in/api/payments",
+		"accounts":"https://pirl.upool.in/api/accounts",
+  		"miners":"https://pirl.upool.in/api/miners",
+		"url":"pirl.upool.in",
+        	"notify":"upool.in@gmail.com"
     	}
 ]

@@ -1,0 +1,12 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://etho.minerpool.net/api/stats",
+ 		"blocks":"http://etho.minerpool.net/api/blocks",
+ 		"payments":"http://etho.minerpool.net/api/payments",
+ 		"accounts":"http://etho.minerpool.net/api/accounts",
+ 		"miners":"http://etho.minerpool.net/api/miners",
+ 		"url":"etho.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	}
+  ]

@@ -8,5 +8,65 @@
  		"miners":"http://etho.minerpool.net/api/miners",
  		"url":"etho.minerpool.net",
  		"notify":"support@minerpool.net"
+	},
+	{
+ 		"name":"POOL.SEXY",
+ 		"stats":"http://etho.pool.sexy/api/stats",
+ 		"blocks":"http://etho.pool.sexy/api/blocks",
+ 		"payments":"http://etho.pool.sexy/api/payments",
+ 		"accounts":"http://etho.pool.sexy/api/accounts",
+ 		"miners":"http://etho.pool.sexy/api/miners",
+ 		"url":"etho.pool.sexy",
+ 		"notify":""
+	},
+	{
+ 		"name":"ETHER1",
+ 		"stats":"http://pool.ether1.org/api/stats",
+ 		"blocks":"http://pool.ether1.org/api/blocks",
+ 		"payments":"http://pool.ether1.org/api/payments",
+ 		"accounts":"http://pool.ether1.org/api/accounts",
+ 		"miners":"http://pool.ether1.org/api/miners",
+ 		"url":"pool.ether1.org",
+ 		"notify":""
+	},
+	{
+ 		"name":"WEEMINEPOOL",
+ 		"stats":"http://ether1.weeminepool.com/api/stats",
+ 		"blocks":"http://ether1.weeminepool.com/api/blocks",
+ 		"payments":"http://ether1.weeminepool.com/api/payments",
+ 		"accounts":"http://ether1.weeminepool.com/api/accounts",
+ 		"miners":"http://ether1.weeminepool.com/api/miners",
+ 		"url":"ether1.weeminepool.com",
+ 		"notify":""
+	},
+	{
+ 		"name":"BYLT",
+ 		"stats":"https://etho.bylt.gq/api/stats",
+ 		"blocks":"https://etho.bylt.gq/api/blocks",
+ 		"payments":"https://etho.bylt.gq/api/payments",
+ 		"accounts":"https://etho.bylt.gq/api/accounts",
+ 		"miners":"https://etho.bylt.gq/api/miners",
+ 		"url":"etho.bylt.gq",
+ 		"notify":""
+	},
+	{
+ 		"name":"MINE-THIS",
+ 		"stats":"http://etherone.mine-this.com/api/stats",
+ 		"blocks":"http://etherone.mine-this.com/api/blocks",
+ 		"payments":"http://etherone.mine-this.com/api/payments",
+ 		"accounts":"http://etherone.mine-this.com/api/accounts",
+ 		"miners":"http://etherone.mine-this.com/api/miners",
+ 		"url":"etherone.mine-this.com",
+ 		"notify":""
+	},
+	{
+ 		"name":"ETHASHMINES",
+ 		"stats":"http://ether1.ethashmines.com/api/stats",
+ 		"blocks":"http://ether1.ethashmines.com/api/blocks",
+ 		"payments":"http://ether1.ethashmines.com/api/payments",
+ 		"accounts":"http://ether1.ethashmines.com/api/accounts",
+ 		"miners":"http://ether1.ethashmines.com/api/miners",
+ 		"url":"ether1.ethashmines.com",
+ 		"notify":""
 	}
   ]

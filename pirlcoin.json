@@ -248,5 +248,15 @@
   		"miners":"https://pirl.upool.in/api/miners",
 		"url":"pirl.upool.in",
         	"notify":"upool.in@gmail.com"
-    	}
+    	},
+	{
+		"name":"HPPCG",
+		"stats":"https://us-nj-01.pools.hppcg.com/pirl/api/stats",
+		"blocks":"https://us-nj-01.pools.hppcg.com/pirl/api/blocks",
+		"payments":"https://us-nj-01.pools.hppcg.com/pirl/api/payments",
+		"accounts":"https://us-nj-01.pools.hppcg.com/pirl/api/accounts",
+		"miners":"https://us-nj-01.pools.hppcg.com/pirl/api/miners",
+		"url":"pools.hppcg.com",
+		"notify":""
+	}
 ]

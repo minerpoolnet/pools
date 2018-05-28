@@ -99,5 +99,14 @@
         	"url":"clona.ru",
         	"notify":""
     	},
-	
+	{
+        	"name":"BYLT",
+        	"stats":"https://clo.bylt.gq/api/stats",
+        	"blocks":"https://clo.bylt.gq/api/blocks",
+        	"payments":"https://clo.bylt.gq/api/payments",
+        	"accounts":"https://clo.bylt.gq/api/accounts",
+        	"miners":"https://clo.bylt.gq/api/miners",
+        	"url":"clo.bylt.gq",
+        	"notify":""
+    	}
   ]

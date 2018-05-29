@@ -67,7 +67,7 @@
  		"accounts":"https://egem.p00l.org/api/accounts",
  		"miners":"https://egem.p00l.org/api/miners",
  		"url":"egem.p00l.org",
- 		"notify":""
+ 		"notify":"info@p00l.org"
 	}
   ]
   

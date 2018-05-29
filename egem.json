@@ -58,6 +58,16 @@
  		"miners":"http://138.68.40.235:8080/api/miners",
  		"url":"coins.farm",
  		"notify":""
+	},
+	{
+	    "name":"P00L.ORG",
+ 		"stats":"https://egem.p00l.org/api/stats",
+ 		"blocks":"https://egem.p00l.org/api/blocks",
+ 		"payments":"https://egem.p00l.org/api/payments",
+ 		"accounts":"https://egem.p00l.org/api/accounts",
+ 		"miners":"https://egem.p00l.org/api/miners",
+ 		"url":"egem.p00l.org",
+ 		"notify":""
 	}
   ]
   

@@ -99,5 +99,15 @@
         	"url":"clona.ru",
         	"notify":""
     	},
+	{
+ 		"name":"FARMINE",
+ 		"stats":"http://farmine.net/api/stats",
+ 		"blocks":"http://farmine.net/api/blocks",
+ 		"payments":"http://farmine.net/api/payments",
+ 		"accounts":"http://farmine.net/api/accounts",
+ 		"miners":"http://farmine.net/api/miners",
+ 		"url":"farmine.net",
+ 		"notify":"legift@mail.ru"
+	},
 	
   ]

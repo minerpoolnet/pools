@@ -40,7 +40,7 @@
  		"notify":""
 	},
 	{
- 		"name":"CryptoPools.info",
+ 		"name":"CRYPTOPOOLS",
  		"stats":"https://atheios.cryptopools.info/api/stats",
  		"blocks":"https://atheios.cryptopools.info/api/blocks",
  		"payments":"https://atheios.cryptopools.info/api/payments",

@@ -60,13 +60,13 @@
  		"notify":""
 	},
 	{
-	    "name":"CLONA.RU (SOLO)",
+	    "name":"CLONA.RU",
  		"stats":"http://clona.ru:5101/api/stats",
  		"blocks":"http://clona.ru:5101/api/blocks",
  		"payments":"http://clona.ru:5101/api/payments",
  		"accounts":"http://clona.ru:5101/api/accounts",
  		"miners":"http://clona.ru:5101/api/miners",
- 		"url":"clona.ru:5101",
+ 		"url":"clona.ru",
  		"notify":""
 	},
 	{

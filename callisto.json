@@ -100,24 +100,13 @@
         	"notify":""
     	},
 	{
-        	"name":"Ethash PPLNS",
+        	"name":"ETHASH",
         	"stats":"http://clo.ethash.farm/api/stats",
         	"blocks":"http://clo.ethash.farm/api/blocks",
         	"payments":"http://clo.ethash.farm/api/payments",
         	"accounts":"http://clo.ethash.farm/api/accounts",
         	"miners":"http://clo.ethash.farm/api/miners",
-        	"url":"clo.ethash.farm",
+        	"url":"ethash.farm",
         	"notify":""
-    	},
-	{
-        	"name":"Ethash SOLO",
-        	"stats":"http://solo-clo.ethash.farm/api/stats",
-        	"blocks":"http://solo-clo.ethash.farm/api/blocks",
-        	"payments":"http://solo-clo.ethash.farm/api/payments",
-        	"accounts":"http://solo-clo.ethash.farm/api/accounts",
-        	"miners":"http://solo-clo.ethash.farm/api/miners",
-        	"url":"solo-clo.ethash.farm",
-        	"notify":""
-    	},
-	
+    	}
   ]

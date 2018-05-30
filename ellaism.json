@@ -138,5 +138,15 @@
  		"miners":"http://159.65.97.139:8080/api/miners",
  		"url":"coins.farm",
  		"notify":""
+	},
+	{
+	    "name":"P00L.ORG",
+ 		"stats":"https://ella.p00l.org/api/stats",
+ 		"blocks":"https://ella.p00l.org/api/blocks",
+ 		"payments":"https://ella.p00l.org/api/payments",
+ 		"accounts":"https://ella.p00l.org/api/accounts",
+ 		"miners":"https://ella.p00l.org/api/miners",
+ 		"url":"ella.p00l.org",
+ 		"notify":"info@p00l.org"
 	}
 ]

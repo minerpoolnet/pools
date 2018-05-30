@@ -38,5 +38,15 @@
  		"miners":"https://pool.atheios.com/api/miners",
  		"url":"pool.atheios.com",
  		"notify":""
+	},
+	{
+ 		"name":"CRYPTOPOOLS",
+ 		"stats":"https://atheios.cryptopools.info/api/stats",
+ 		"blocks":"https://atheios.cryptopools.info/api/blocks",
+ 		"payments":"https://atheios.cryptopools.info/api/payments",
+ 		"accounts":"https://atheios.cryptopools.info/api/accounts",
+ 		"miners":"https://atheios.cryptopools.info/api/miners",
+ 		"url":"atheios.cryptopools.info",
+ 		"notify":""
 	}
 ]

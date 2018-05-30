@@ -178,5 +178,15 @@
 		"miners":"https://music.pool.sexy/api/miners",
 		"url":"music.pool.sexy",
 		"notify":""
+	},
+	{
+	    "name":"P00L.ORG",
+ 		"stats":"https://music.p00l.org/api/stats",
+ 		"blocks":"https://music.p00l.org/api/blocks",
+ 		"payments":"https://music.p00l.org/api/payments",
+ 		"accounts":"https://music.p00l.org/api/accounts",
+ 		"miners":"https://music.p00l.org/api/miners",
+ 		"url":"music.p00l.org",
+ 		"notify":"info@p00l.org"
 	}
 ]

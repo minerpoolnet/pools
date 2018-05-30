@@ -98,6 +98,16 @@
  		"miners":"http://egem.ethash.farm/api/miners",
  		"url":"egem.ethash.farm",
  		"notify":""
+	},
+	{
+	    "name":"BYLT",
+ 		"stats":"https://egem.bylt.gq/api/stats",
+ 		"blocks":"https://egem.bylt.gq/api/blocks",
+ 		"payments":"https://egem.bylt.gq/api/payments",
+ 		"accounts":"https://egem.bylt.gq/api/accounts",
+ 		"miners":"https://egem.bylt.gq/api/miners",
+ 		"url":"bylt.gq",
+ 		"notify":""
 	}
   ]
   

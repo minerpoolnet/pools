@@ -99,5 +99,14 @@
         	"url":"clona.ru",
         	"notify":""
     	},
-	
+	{
+        	"name":"ETHASH",
+        	"stats":"http://clo.ethash.farm/api/stats",
+        	"blocks":"http://clo.ethash.farm/api/blocks",
+        	"payments":"http://clo.ethash.farm/api/payments",
+        	"accounts":"http://clo.ethash.farm/api/accounts",
+        	"miners":"http://clo.ethash.farm/api/miners",
+        	"url":"ethash.farm",
+        	"notify":""
+    	}
   ]

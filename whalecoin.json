@@ -20,16 +20,6 @@
 		"notify":""
 	},
 	{
-		"name":"ZET-TECH",
-		"stats":"https://wc.zet-tech.eu/api/stats",
-		"blocks":"https://wc.zet-tech.eu/api/blocks",
-		"payments":"https://wc.zet-tech.eu/api/payments",
-		"accounts":"https://wc.zet-tech.eu/api/accounts",
-		"miners":"https://wc.zet-tech.eu/api/miners",
-		"url":"wc.zet-tech.eu",
-		"notify":""
-	},
-	{
 		"name":"2MINERS",
 		"stats":"https://solo-whl.2miners.com/api/stats",
 		"blocks":"https://solo-whl.2miners.com/api/blocks",

@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Musicoin",
+		"stats":"https://ucrypto.net/api/music/stats",
+		"blocks":"https://ucrypto.net/api/music/blocks",
+		"payments":"https://ucrypto.net/api/music/payments",
+		"accounts":"https://ucrypto.net/api/music/accounts/",
+		"miners":"https://ucrypto.net/api/music/miners",
+		"url":"ucrypto.net/currency/?curr=MUSIC",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://music.minerpool.net/api/stats",
 		"blocks":"http://music.minerpool.net/api/blocks",

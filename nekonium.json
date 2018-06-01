@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Nekonium",
+		"stats":"https://ucrypto.net/api/nuko/stats",
+		"blocks":"https://ucrypto.net/api/nuko/blocks",
+		"payments":"https://ucrypto.net/api/nuko/payments",
+		"accounts":"https://ucrypto.net/api/nuko/accounts/",
+		"miners":"https://ucrypto.net/api/nuko/miners",
+		"url":"ucrypto.net/currency/?curr=NUKO",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://nuko.minerpool.net/api/stats",
 		"blocks":"http://nuko.minerpool.net/api/blocks",

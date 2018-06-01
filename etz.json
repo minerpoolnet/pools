@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-EthereumZero",
+		"stats":"https://ucrypto.net/api/etz/stats",
+		"blocks":"https://ucrypto.net/api/etz/blocks",
+		"payments":"https://ucrypto.net/api/etz/payments",
+		"accounts":"https://ucrypto.net/api/etz/accounts/",
+		"miners":"https://ucrypto.net/api/etz/miners",
+		"url":"ucrypto.net/currency/?curr=ETZ",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://etz.minerpool.net/api/stats",
 		"blocks":"http://etz.minerpool.net/api/blocks",

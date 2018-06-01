@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Ellaism",
+		"stats":"https://ucrypto.net/api/ella/stats",
+		"blocks":"https://ucrypto.net/api/ella/blocks",
+		"payments":"https://ucrypto.net/api/ella/payments",
+		"accounts":"https://ucrypto.net/api/ella/accounts/",
+		"miners":"https://ucrypto.net/api/ella/miners",
+		"url":"ucrypto.net/currency/?curr=ELLA",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://ella.minerpool.net/api/stats",
 		"blocks":"http://ella.minerpool.net/api/blocks",

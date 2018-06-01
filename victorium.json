@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Victorium",
+		"stats":"https://ucrypto.net/api/vic/stats",
+		"blocks":"https://ucrypto.net/api/vic/blocks",
+		"payments":"https://ucrypto.net/api/vic/payments",
+		"accounts":"https://ucrypto.net/api/vic/accounts/",
+		"miners":"https://ucrypto.net/api/vic/miners",
+		"url":"ucrypto.net/currency/?curr=VIC",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"VICTORIUM OFFICIAL",
 		"stats":"http://pool.victorium.org/api/stats",
 		"blocks":"http://pool.victorium.org/api/blocks",

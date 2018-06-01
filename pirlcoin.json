@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Pirl",
+		"stats":"https://ucrypto.net/api/pirl/stats",
+		"blocks":"https://ucrypto.net/api/pirl/blocks",
+		"payments":"https://ucrypto.net/api/pirl/payments",
+		"accounts":"https://ucrypto.net/api/pirl/accounts/",
+		"miners":"https://ucrypto.net/api/pirl/miners",
+		"url":"ucrypto.net/currency/?curr=PIRL",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://pirl.minerpool.net/api/stats",
 		"blocks":"http://pirl.minerpool.net/api/blocks",

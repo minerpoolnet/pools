@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Akroma",
+		"stats":"https://ucrypto.net/api/aka/stats",
+		"blocks":"https://ucrypto.net/api/aka/blocks",
+		"payments":"https://ucrypto.net/api/aka/payments",
+		"accounts":"https://ucrypto.net/api/aka/accounts/",
+		"miners":"https://ucrypto.net/api/aka/miners",
+		"url":"ucrypto.net/currency/?curr=AKA",
+		"notify":"product@ucrypto.net"
+	},
+	{
  		"name":"MINERPOOL.NET",
  		"stats":"http://akroma.minerpool.net/api/stats",
  		"blocks":"http://akroma.minerpool.net/api/blocks",

@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-Whale",
+		"stats":"https://ucrypto.net/api/whl/stats",
+		"blocks":"https://ucrypto.net/api/whl/blocks",
+		"payments":"https://ucrypto.net/api/whl/payments",
+		"accounts":"https://ucrypto.net/api/whl/accounts/",
+		"miners":"https://ucrypto.net/api/whl/miners",
+		"url":"ucrypto.net/currency/?curr=WHL",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://whale.minerpool.net/api/stats",
 		"blocks":"http://whale.minerpool.net/api/blocks",

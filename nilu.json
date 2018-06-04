@@ -1,0 +1,63 @@
+[
+	{
+ 		"name":"MINERPOOL.NET",
+ 		"stats":"http://nilu.minerpool.net/api/stats",
+ 		"blocks":"http://nilu.minerpool.net/api/blocks",
+ 		"payments":"http://nilu.minerpool.net/api/payments",
+ 		"accounts":"http://nilu.minerpool.net/api/accounts",
+ 		"miners":"http://nilu.minerpool.net/api/miners",
+ 		"url":"nilu.minerpool.net",
+ 		"notify":"support@minerpool.net"
+	},
+  	{
+ 		"name":"NILU.TECH (POOL1)",
+ 		"stats":"http://pool.nilu.tech/api/stats",
+ 		"blocks":"http://pool.nilu.tech/api/blocks",
+ 		"payments":"http://pool.nilu.tech/api/payments",
+ 		"accounts":"http://pool.nilu.tech/api/accounts",
+ 		"miners":"http://pool.nilu.tech/api/miners",
+ 		"url":"pool.nilu.tech",
+ 		"notify":""
+	},
+  	{
+ 		"name":"NILU.TECH (POOL2)",
+ 		"stats":"http://pool2.nilu.tech/api/stats",
+ 		"blocks":"http://pool2.nilu.tech/api/blocks",
+ 		"payments":"http://pool2.nilu.tech/api/payments",
+ 		"accounts":"http://pool2.nilu.tech/api/accounts",
+ 		"miners":"http://pool2.nilu.tech/api/miners",
+ 		"url":"pool2.nilu.tech",
+ 		"notify":""
+	},
+  	{
+ 		"name":"NILU.TECH (DEV)",
+ 		"stats":"http://devpool.nilu.tech/api/stats",
+ 		"blocks":"http://devpool.nilu.tech/api/blocks",
+ 		"payments":"http://devpool.nilu.tech/api/payments",
+ 		"accounts":"http://devpool.nilu.tech/api/accounts",
+ 		"miners":"http://devpool.nilu.tech/api/miners",
+ 		"url":"devpool.nilu.tech",
+ 		"notify":""
+	},
+    	{
+ 		"name":"POOLS.REN",
+ 		"stats":"http://nilu.pools.ren/api/stats",
+ 		"blocks":"http://nilu.pools.ren/api/blocks",
+ 		"payments":"http://nilu.pools.ren/api/payments",
+ 		"accounts":"http://nilu.pools.ren/api/accounts",
+ 		"miners":"http://nilu.pools.ren/api/miners",
+ 		"url":"nilu.pools.ren",
+ 		"notify":""
+	},
+    	{
+ 		"name":"POOL.SO",
+ 		"stats":"https://nilu.pool.so/api/stats",
+ 		"blocks":"https://nilu.pool.so/api/blocks",
+ 		"payments":"https://nilu.pool.so/api/payments",
+ 		"accounts":"https://nilu.pool.so/api/accounts",
+ 		"miners":"https://nilu.pool.so/api/miners",
+ 		"url":"nilu.pool.so",
+ 		"notify":""
+	}
+  ]
+  

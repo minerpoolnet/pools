@@ -1,5 +1,15 @@
 [
 	{
+		"name":"Ucrypto-PegasCoin",
+		"stats":"https://ucrypto.net/api/pgc/stats",
+		"blocks":"https://ucrypto.net/api/pgc/blocks",
+		"payments":"https://ucrypto.net/api/pgc/payments",
+		"accounts":"https://ucrypto.net/api/pgc/accounts/",
+		"miners":"https://ucrypto.net/api/pgc/miners",
+		"url":"ucrypto.net/currency/?curr=PGC",
+		"notify":"product@ucrypto.net"
+	},
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://pgc.minerpool.net/api/stats",
 		"blocks":"http://pgc.minerpool.net/api/blocks",

@@ -58,6 +58,16 @@
  		"miners":"https://nilu.pool.so/api/miners",
  		"url":"nilu.pool.so",
  		"notify":""
+	},
+	{
+ 		"name":"NILU.FARMINE.NET",
+ 		"stats":"http://nilu.farmine.net/api/stats",
+ 		"blocks":"http://nilu.farmine.net/api/blocks",
+ 		"payments":"http://nilu.farmine.net/api/payments",
+ 		"accounts":"http://nilu.farmine.net/api/accounts",
+ 		"miners":"http://nilu.farmine.net/api/miners",
+ 		"url":"nilu.farmine.net",
+ 		"notify":"legift@mail.ru"
 	}
   ]
   

@@ -120,6 +120,16 @@
         	"notify":""
     	},
 	{
+        	"name":"TOPMINING",
+        	"stats":"https://clo.topmining.co.kr/api/stats",
+        	"blocks":"https://clo.topmining.co.kr/api/blocks",
+        	"payments":"https://clo.topmining.co.kr/api/payments",
+        	"accounts":"https://clo.topmining.co.kr/api/accounts",
+        	"miners":"https://clo.topmining.co.kr/api/miners",
+        	"url":"clo.topmining.co.kr",
+        	"notify":"topmining.kr@gmail.com"
+    	},
+	{
  		"name":"FARMINE",
  		"stats":"http://farmine.net/api/stats",
  		"blocks":"http://farmine.net/api/blocks",

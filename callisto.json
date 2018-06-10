@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"METHPOOL",
+ 		"stats":"http://clo.methpool.com/api/stats",
+ 		"blocks":"http://clo.methpool.com/api/blocks",
+ 		"payments":"http://clo.methpool.com/api/payments",
+ 		"accounts":"http://clo.methpool.com/api/accounts",
+ 		"miners":"http://clo.methpool.com/api/miners",
+ 		"url":"clo.methpool.com",
+ 		"notify":""
 	}
   ]

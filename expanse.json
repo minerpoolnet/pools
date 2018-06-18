@@ -98,5 +98,15 @@
 		"miners":"https://exp.pool.sexy/api/miners",
 		"url":"exp.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://exp.solopool.org/api/stats",
+ 		"blocks":"https://exp.solopool.org/api/blocks",
+ 		"payments":"https://exp.solopool.org/api/payments",
+ 		"accounts":"https://exp.solopool.org/api/accounts",
+ 		"miners":"https://exp.solopool.org/api/miners",
+ 		"url":"exp.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

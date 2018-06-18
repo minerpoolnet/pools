@@ -98,5 +98,15 @@
 		"miners":"https://akroma.bylt.gq/api/miners",
 		"url":"akroma.bylt.gq",
 		"notify":""
+	},
+	{
+		"name":"BaikalMine",
+		"stats":"http://akroma.baikalmine.com:5379/api/stats",
+		"blocks":"http://akroma.baikalmine.com:5379/api/blocks",
+		"payments":"http://akroma.baikalmine.com:5379/api/payments",
+		"accounts":"http://akroma.baikalmine.com:5379/api/accounts",
+		"miners":"http://akroma.baikalmine.com:5379/api/miners",
+		"url":"http://pool.baikalmine.com/en/aka/",
+		"notify":""
 	}
 ]

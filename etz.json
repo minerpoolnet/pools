@@ -58,5 +58,15 @@
 		"miners":"http://solo-etz.altpool.pro/api/miners",
 		"url":"solo-etz.altpool.pro",
 		"notify":""
+	},
+	{
+		"name":"BaikalMine",
+		"stats":"http://etz.baikalmine.com:9841/api/stats",
+		"blocks":"http://etz.baikalmine.com:9841/api/blocks",
+		"payments":"http://etz.baikalmine.com:9841/api/payments",
+		"accounts":"http://etz.baikalmine.com:9841/api/accounts",
+		"miners":"http://etz.baikalmine.com:9841/api/miners",
+		"url":"pool.baikalmine.com/en/etz",
+		"notify":""
 	}
 ]

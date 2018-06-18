@@ -31,12 +31,12 @@
 	},
 	{
 		"name":"BAIKALMINE",
-		"stats":"http://ell.baikalmine.com/api/stats",
-		"blocks":"http://ell.baikalmine.com/api/blocks",
-		"payments":"http://ell.baikalmine.com/api/payments",
-		"accounts":"http://ell.baikalmine.com/api/accounts",
-		"miners":"http://ell.baikalmine.com/api/miners",
-		"url":"ell.baikalmine.com",
+		"stats":"http://ell.baikalmine.com:1798/api/stats",
+		"blocks":"http://ell.baikalmine.com:1798/api/blocks",
+		"payments":"http://ell.baikalmine.com:1798/api/payments",
+		"accounts":"http://ell.baikalmine.com:1798/api/accounts",
+		"miners":"http://ell.baikalmine.com:1798/api/miners",
+		"url":"pool.baikalmine.com/en/ella",
 		"notify":""
 	},
 	{

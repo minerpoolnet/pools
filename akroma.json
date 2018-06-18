@@ -30,7 +30,7 @@
  		"notify":""
 	},
 	{
- 		"name":"SOLOPOOL",
+ 		"name":"SOLOPOOL.ORG",
  		"stats":"https://aka.solopool.org/api/stats",
  		"blocks":"https://aka.solopool.org/api/blocks",
  		"payments":"https://aka.solopool.org/api/payments",

@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"BaikalMine",
+ 		"stats":"http://clo.baikalmine.com:6041/api/stats",
+ 		"blocks":"http://clo.baikalmine.com:6041/api/blocks",
+ 		"payments":"http://clo.baikalmine.com:6041/api/payments",
+ 		"accounts":"http://clo.baikalmine.com:6041/api/accounts",
+ 		"miners":"http://clo.baikalmine.com:6041/api/miners",
+ 		"url":"pool.baikalmine.com/en/clo",
+ 		"notify":""
 	}
   ]

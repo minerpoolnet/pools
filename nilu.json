@@ -58,6 +58,16 @@
  		"miners":"https://nilu.pool.so/api/miners",
  		"url":"nilu.pool.so",
  		"notify":""
+	},
+    	{
+ 		"name":"BaikalMine",
+ 		"stats":"http://nilu.baikalmine.com:1236/api/stats",
+ 		"blocks":"http://nilu.baikalmine.com:1236/api/blocks",
+ 		"payments":"http://nilu.baikalmine.com:1236/api/payments",
+ 		"accounts":"http://nilu.baikalmine.com:1236/api/accounts",
+ 		"miners":"http://nilu.baikalmine.com:1236/api/miners",
+ 		"url":"http://pool.baikalmine.com/en/nilu/",
+ 		"notify":""
 	}
   ]
   

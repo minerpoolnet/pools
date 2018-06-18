@@ -30,14 +30,14 @@
  		"notify":""
 	},
 	{
- 		"name":"EHASHCOINS",
- 		"stats":"http://aura.ehashcoins.org/api/stats",
- 		"blocks":"http://aura.ehashcoins.org/api/blocks",
- 		"payments":"http://aura.ehashcoins.org/api/payments",
- 		"accounts":"http://aura.ehashcoins.org/api/accounts",
- 		"miners":"http://aura.ehashcoins.org/api/miners",
- 		"url":"aura.ehashcoins.org",
- 		"notify":""
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://ara.solopool.org/api/stats",
+ 		"blocks":"https://ara.solopool.org/api/blocks",
+ 		"payments":"https://ara.solopool.org/api/payments",
+ 		"accounts":"https://ara.solopool.org/api/accounts",
+ 		"miners":"https://ara.solopool.org/api/miners",
+ 		"url":"ara.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	},
 	{
  		"name":"DROWNINGPOOL",

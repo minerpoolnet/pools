@@ -58,5 +58,15 @@
 		"miners":"http://www.nekonium-pool.com/api/miners",
 		"url":"www.nekonium-pool.com",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://nuko.solopool.org/api/stats",
+ 		"blocks":"https://nuko.solopool.org/api/blocks",
+ 		"payments":"https://nuko.solopool.org/api/payments",
+ 		"accounts":"https://nuko.solopool.org/api/accounts",
+ 		"miners":"https://nuko.solopool.org/api/miners",
+ 		"url":"nuko.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

@@ -68,5 +68,15 @@
  		"miners":"http://ether1.ethashmines.com/api/miners",
  		"url":"ether1.ethashmines.com",
  		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://etho.solopool.org/api/stats",
+ 		"blocks":"https://etho.solopool.org/api/blocks",
+ 		"payments":"https://etho.solopool.org/api/payments",
+ 		"accounts":"https://etho.solopool.org/api/accounts",
+ 		"miners":"https://etho.solopool.org/api/miners",
+ 		"url":"etho.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
   ]

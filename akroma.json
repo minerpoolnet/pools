@@ -30,14 +30,14 @@
  		"notify":""
 	},
 	{
- 		"name":"EHASHCOINS",
- 		"stats":"http://aka.ehashcoins.org/api/stats",
- 		"blocks":"http://aka.ehashcoins.org/api/blocks",
- 		"payments":"http://aka.ehashcoins.org/api/payments",
- 		"accounts":"http://aka.ehashcoins.org/api/accounts",
- 		"miners":"http://aka.ehashcoins.org/api/miners",
- 		"url":"aka.ehashcoins.org",
- 		"notify":""
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://aka.solopool.org/api/stats",
+ 		"blocks":"https://aka.solopool.org/api/blocks",
+ 		"payments":"https://aka.solopool.org/api/payments",
+ 		"accounts":"https://aka.solopool.org/api/accounts",
+ 		"miners":"https://aka.solopool.org/api/miners",
+ 		"url":"aka.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	},
 	{
  		"name":"ETHERGRAB",

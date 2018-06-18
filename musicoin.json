@@ -188,5 +188,15 @@
  		"miners":"https://music.p00l.org/api/miners",
  		"url":"music.p00l.org",
  		"notify":"info@p00l.org"
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://music.solopool.org/api/stats",
+ 		"blocks":"https://music.solopool.org/api/blocks",
+ 		"payments":"https://music.solopool.org/api/payments",
+ 		"accounts":"https://music.solopool.org/api/accounts",
+ 		"miners":"https://music.solopool.org/api/miners",
+ 		"url":"music.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

@@ -58,5 +58,15 @@
 		"miners":"http://www.nekonium-pool.com/api/miners",
 		"url":"www.nekonium-pool.com",
 		"notify":""
+	},
+	{
+		"name":"BaikalMine",
+		"stats":"http://nuko.baikalmine.com:2784/api/stats",
+		"blocks":"http://nuko.baikalmine.com:2784/api/blocks",
+		"payments":"http://nuko.baikalmine.com:2784/api/payments",
+		"accounts":"http://nuko.baikalmine.com:2784/api/accounts",
+		"miners":"http://nuko.baikalmine.com:2784/api/miners",
+		"url":"pool.baikalmine.com/en/nuko",
+		"notify":""
 	}
 ]

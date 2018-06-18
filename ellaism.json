@@ -148,5 +148,15 @@
  		"miners":"https://ella.p00l.org/api/miners",
  		"url":"ella.p00l.org",
  		"notify":"info@p00l.org"
+	},
+	{
+		"name":"SOLOPOOL.ORG",
+		"stats":"https://ella.solopool.org/api/stats",
+		"blocks":"https://ella.solopool.org/api/blocks",
+		"payments":"https://ella.solopool.org/api/payments",
+		"accounts":"https://ella.solopool.org/api/accounts",
+		"miners":"https://ella.solopool.org/api/miners",
+		"url":"ella.solopool.org",
+		"notify":"solopool.org@gmail.com"
 	}
 ]

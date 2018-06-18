@@ -98,5 +98,15 @@
 		"miners":"http://ubiq.mole-pool.net/api/miners",
 		"url":"ubiq.mole-pool.net",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://ubq.solopool.org/api/stats",
+ 		"blocks":"https://ubq.solopool.org/api/blocks",
+ 		"payments":"https://ubq.solopool.org/api/payments",
+ 		"accounts":"https://ubq.solopool.org/api/accounts",
+ 		"miners":"https://ubq.solopool.org/api/miners",
+ 		"url":"ubq.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

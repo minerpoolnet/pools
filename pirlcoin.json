@@ -258,5 +258,15 @@
 		"miners":"https://us-nj-01.pools.hppcg.com/pirl/api/miners",
 		"url":"pools.hppcg.com",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://pirl.solopool.org/api/stats",
+ 		"blocks":"https://pirl.solopool.org/api/blocks",
+ 		"payments":"https://pirl.solopool.org/api/payments",
+ 		"accounts":"https://pirl.solopool.org/api/accounts",
+ 		"miners":"https://pirl.solopool.org/api/miners",
+ 		"url":"pirl.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

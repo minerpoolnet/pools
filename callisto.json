@@ -128,5 +128,25 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://clo.solopool.org/api/stats",
+ 		"blocks":"https://clo.solopool.org/api/blocks",
+ 		"payments":"https://clo.solopool.org/api/payments",
+ 		"accounts":"https://clo.solopool.org/api/accounts",
+ 		"miners":"https://clo.solopool.org/api/miners",
+ 		"url":"clo.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
+	},
+	{
+ 		"name":"CLOPOOL.ORG",
+ 		"stats":"https://clopool.org/api/stats",
+ 		"blocks":"https://clopool.org/api/blocks",
+ 		"payments":"https://clopool.org/api/payments",
+ 		"accounts":"https://clopool.org/api/accounts",
+ 		"miners":"https://clopool.org/api/miners",
+ 		"url":"clopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
   ]

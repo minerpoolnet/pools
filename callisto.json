@@ -136,7 +136,7 @@
  		"payments":"http://clo.baikalmine.com:6041/api/payments",
  		"accounts":"http://clo.baikalmine.com:6041/api/accounts",
  		"miners":"http://clo.baikalmine.com:6041/api/miners",
- 		"url":"http://pool.baikalmine.com/en/clo",
+ 		"url":"pool.baikalmine.com/en/clo",
  		"notify":""
 	}
   ]

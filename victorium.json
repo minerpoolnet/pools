@@ -58,5 +58,15 @@
 		"miners":"https://vic.pool.sexy/api/miners",
 		"url":"vic.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://vic.solopool.org/api/stats",
+ 		"blocks":"https://vic.solopool.org/api/blocks",
+ 		"payments":"https://vic.solopool.org/api/payments",
+ 		"accounts":"https://vic.solopool.org/api/accounts",
+ 		"miners":"https://vic.solopool.org/api/miners",
+ 		"url":"vic.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

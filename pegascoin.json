@@ -58,5 +58,15 @@
 		"miners":"https://pgc.pool.sexy/api5/miners",
 		"url":"pgc.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"SOLOPOOL.ORG",
+ 		"stats":"https://pgc.solopool.org/api/stats",
+ 		"blocks":"https://pgc.solopool.org/api/blocks",
+ 		"payments":"https://pgc.solopool.org/api/payments",
+ 		"accounts":"https://pgc.solopool.org/api/accounts",
+ 		"miners":"https://pgc.solopool.org/api/miners",
+ 		"url":"pgc.solopool.org",
+ 		"notify":"solopool.org@gmail.com"
 	}
 ]

@@ -69,4 +69,14 @@
  		"url":"ether1.ethashmines.com",
  		"notify":""
 	}
+	{
+ 		"name":"BaikalMine",
+ 		"stats":"http://etho.baikalmine.com:1375/api/stats",
+ 		"blocks":"http://etho.baikalmine.com:1375/api/blocks",
+ 		"payments":"http://etho.baikalmine.com:1375/api/payments",
+ 		"accounts":"http://etho.baikalmine.com:1375/api/accounts",
+ 		"miners":"http://etho.baikalmine.com:1375/api/miners",
+ 		"url":"pool.baikalmine.com/en/etho",
+ 		"notify":""
+	}
   ]

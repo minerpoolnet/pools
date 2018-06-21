@@ -48,5 +48,16 @@
  		"miners":"https://atheios.cryptopools.info/api/miners",
  		"url":"atheios.cryptopools.info",
  		"notify":""
+	},
+
+	{
+ 		"name":"Crupyomena.io",
+ 		"stats":"https://ath.cryptomena.io/api/stats",
+ 		"blocks":"https://ath.cryptomena.io/api/blocks",
+ 		"payments":"https://ath.cryptomena.io/api/payments",
+ 		"accounts":"https://ath.cryptomena.io/api/accounts",
+ 		"miners":"https://ath.cryptomena.io/api/miners",
+ 		"url":"ath.cryptomena.io",
+ 		"notify":"cryptomenaio@gmail.com"
 	}
 ]

@@ -128,5 +128,16 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+
+	{
+ 		"name":"Crupyomena.io",
+ 		"stats":"https://clo.cryptomena.io/api/stats",
+ 		"blocks":"https://clo.cryptomena.io/api/blocks",
+ 		"payments":"https://clo.cryptomena.io/api/payments",
+ 		"accounts":"https://clo.cryptomena.io/api/accounts",
+ 		"miners":"https://clo.cryptomena.io/api/miners",
+ 		"url":"clo.cryptomena.io",
+ 		"notify":"cryptomenaio@gmail.com"
 	}
   ]

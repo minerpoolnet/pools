@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"PPLNS.io",
+ 		"stats":"https://pplns.io/api/stats",
+ 		"blocks":"https://pplns.io/api/blocks",
+ 		"payments":"https://pplns.io/api/payments",
+ 		"accounts":"https://pplns.io/api/accounts",
+ 		"miners":"https://pplns.io/api/miners",
+ 		"url":"pplns.io",
+ 		"notify":""
 	}
   ]

@@ -258,5 +258,15 @@
 		"miners":"https://us-nj-01.pools.hppcg.com/pirl/api/miners",
 		"url":"pools.hppcg.com",
 		"notify":""
+	},
+	{
+		"name":"Pool XYZ",
+ 		"stats":"http://pirlpool.xyz/api/stats",
+ 		"blocks":"http://pirlpool.xyz/api/blocks",
+ 		"payments":"http://pirlpool.xyz/api/payments",
+ 		"accounts":"http://pirlpool.xyz/api/accounts",
+ 		"miners":"http://pirlpool.xyz/api/miners",
+ 		"url":"pirlpool.xyz",
+ 		"notify":""
 	}
 ]

@@ -58,6 +58,16 @@
  		"miners":"https://nilu.pool.so/api/miners",
  		"url":"nilu.pool.so",
  		"notify":""
+	},
+    	{
+ 		"name":"Pool XYZ",
+ 		"stats":"http://nilupool.xyz/api/stats",
+ 		"blocks":"http://nilupool.xyz/api/blocks",
+ 		"payments":"http://nilupool.xyz/api/payments",
+ 		"accounts":"http://nilupool.xyz/api/accounts",
+ 		"miners":"http://nilupool.xyz/api/miners",
+ 		"url":"nilupool.xyz",
+ 		"notify":""
 	}
   ]
   

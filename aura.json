@@ -48,5 +48,15 @@
  		"miners":"http://aura.drowningpool.net:8080/api/miners",
  		"url":"aura.drowningpool.net",
  		"notify":""
+	},
+	{
+ 		"name":"Pool XYZ",
+ 		"stats":"http://aurapool.xyz/api/stats",
+ 		"blocks":"http://aurapool.xyz/api/blocks",
+ 		"payments":"http://aurapool.xyz/api/payments",
+ 		"accounts":"http://aurapool.xyz/api/accounts",
+ 		"miners":"http://aurapool.xyz/api/miners",
+ 		"url":"aurapool.xyz",
+ 		"notify":""
 	}
 ]

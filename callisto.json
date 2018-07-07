@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"Pool XYZ",
+ 		"stats":"http://clopool.xyz/api/stats",
+ 		"blocks":"http://clopool.xyz/api/blocks",
+ 		"payments":"http://clopool.xyz/api/payments",
+ 		"accounts":"http://clopool.xyz/api/accounts",
+ 		"miners":"http://clopool.xyz/api/miners",
+ 		"url":"clopool.xyz",
+ 		"notify":""
 	}
   ]

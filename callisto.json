@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"ITS",
+ 		"stats":"http://clo.its.vt.it/api/stats",
+ 		"blocks":"http://clo.its.vt.it/api/blocks",
+ 		"payments":"http://clo.its.vt.it/api/payments",
+ 		"accounts":"http://clo.its.vt.it/api/accounts",
+ 		"miners":"http://clo.its.vt.it/api/miners",
+ 		"url":"clo.its.vt.it",
+ 		"notify":"info@its.vt.it"
 	}
   ]

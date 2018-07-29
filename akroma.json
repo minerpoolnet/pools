@@ -98,5 +98,15 @@
 		"miners":"https://akroma.bylt.gq/api/miners",
 		"url":"akroma.bylt.gq",
 		"notify":""
+	},
+	{
+		"name":"HashingMasters PPS",
+		"stats":"http://hashingmasters.com:8081/api/stats",
+		"blocks":"https://hashingmasters.com:8081/api/blocks",
+		"payments":"https://hashingmasters.com:8081/api/payments",
+		"accounts":"https://hashingmasters.com:8081/api/accounts",
+		"miners":"https://hashingmasters.com:8081/api/miners",
+		"url":"aka.hashingmasters.com",
+		"notify":""
 	}
 ]

@@ -10,6 +10,16 @@
  		"notify":"support@minerpool.net"
 	},
 	{
+ 		"name":"AKROMA.OVH",
+ 		"stats":"http://www.akroma.ovh/api/stats",
+ 		"blocks":"http://www.akroma.ovh/api/blocks",
+ 		"payments":"http://www.akroma.ovh/api/payments",
+ 		"accounts":"http://www.akroma.ovh/api/accounts",
+ 		"miners":"http://www.akroma.ovh/api/miners",
+ 		"url":"www.akroma.ovh",
+ 		"notify":""
+	},
+	{
  		"name":"MININGPEON",
  		"stats":"http://aka.miningpeon.net/api/stats",
  		"blocks":"http://aka.miningpeon.net/api/blocks",

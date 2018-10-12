@@ -1,4 +1,14 @@
 [
+	 {
+                "name":"ZET-TECH",
+                "stats":"https://ubq.zet-tech.eu/api/stats",
+                "blocks":"https://ubq.zet-tech.eu/api/blocks",
+                "payments":"https://ubq.zet-tech.eu/api/payments",
+                "accounts":"https://ubq.zet-tech.eu/api/accounts",
+                "miners":"https://ubq.zet-tech.eu/api/miners",
+                "url":"ubq.zet-tech.eu",
+                "notify":""
+        },
 	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://ubiq.minerpool.net/api/stats",

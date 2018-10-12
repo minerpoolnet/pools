@@ -20,7 +20,7 @@
 		"notify":"pool@reidocoin.com.br"
 	},
 	{
-		"name":"ZETTECH",
+		"name":"ZET-TECH",
 		"stats":"https://mc.zet-tech.eu/api/stats",
 		"blocks":"https://mc.zet-tech.eu/api/blocks",
 		"payments":"https://mc.zet-tech.eu/api/payments",

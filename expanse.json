@@ -1,5 +1,15 @@
 [
 	{
+                "name":"ZET-TECH",
+                "stats":"https://exp.zet-tech.eu/api/stats",
+                "blocks":"https://exp.zet-tech.eu/api/blocks",
+                "payments":"https://exp.zet-tech.eu/api/payments",
+                "accounts":"https://exp.zet-tech.eu/api/accounts",
+                "miners":"https://exp.zet-tech.eu/api/miners",
+                "url":"exp.zet-tech.eu",
+                "notify":""
+        },
+	{
 		"name":"MINERPOOL.NET",
 		"stats":"http://exp.minerpool.net/api/stats",
 		"blocks":"http://exp.minerpool.net/api/blocks",

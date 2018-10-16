@@ -8,5 +8,15 @@
 		"miners":"http://etps.mole-pool.net/api/miners",
 		"url":"etps.mole-pool.net",
 		"notify":""
-	}
+	},
+	{
+		"name":"Europool",
+		"stats":"https://etp.europool.me/api/stats",
+		"blocks":"https://etp.europool.me/api/blocks",
+		"payments":"https://etp.europool.me/api/payments",
+		"accounts":"https://etp.europool.me/api/accounts",
+		"miners":"https://etp.europool.me/api/miners",
+		"url":"https://etp.europool.me/",
+		"notify":""
+	}	
 ]

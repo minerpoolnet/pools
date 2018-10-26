@@ -68,5 +68,15 @@
  		"miners":"http://ether1.ethashmines.com/api/miners",
  		"url":"ether1.ethashmines.com",
  		"notify":""
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://eth1.terrahash.cc/api/stats",
+ 		"blocks":"http://eth1.terrahash.cc/api/blocks",
+ 		"payments":"http://eth1.terrahash.cc/api/payments",
+ 		"accounts":"http://eth1.terrahash.cc/api/accounts",
+ 		"miners":"http://eth1.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
   ]

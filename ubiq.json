@@ -98,5 +98,15 @@
 		"miners":"http://ubiq.mole-pool.net/api/miners",
 		"url":"ubiq.mole-pool.net",
 		"notify":""
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://ubq.terrahash.cc/api/stats",
+ 		"blocks":"http://ubq.terrahash.cc/api/blocks",
+ 		"payments":"http://ubq.terrahash.cc/api/payments",
+ 		"accounts":"http://ubq.terrahash.cc/api/accounts",
+ 		"miners":"http://ubq.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
 ]

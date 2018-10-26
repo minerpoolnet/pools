@@ -48,5 +48,16 @@
  		"miners":"https://atheios.cryptopools.info/api/miners",
  		"url":"atheios.cryptopools.info",
  		"notify":""
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://ath.terrahash.cc/api/stats",
+ 		"blocks":"http://ath.terrahash.cc/api/blocks",
+ 		"payments":"http://ath.terrahash.cc/api/payments",
+ 		"accounts":"http://ath.terrahash.cc/api/accounts",
+ 		"miners":"http://ath.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
+
 ]

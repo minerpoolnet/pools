@@ -18,5 +18,15 @@
 		"miners":"http://mix.psdev.io/api/miners",
 		"url":"mix.psdev.io",
 		"notify":"p@psdev.io"
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://mix.terrahash.cc/api/stats",
+ 		"blocks":"http://mix.terrahash.cc/api/blocks",
+ 		"payments":"http://mix.terrahash.cc/api/payments",
+ 		"accounts":"http://mix.terrahash.cc/api/accounts",
+ 		"miners":"http://mix.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
 ]

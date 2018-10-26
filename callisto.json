@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://clo.terrahash.cc/api/stats",
+ 		"blocks":"http://clo.terrahash.cc/api/blocks",
+ 		"payments":"http://clo.terrahash.cc/api/payments",
+ 		"accounts":"http://clo.terrahash.cc/api/accounts",
+ 		"miners":"http://clo.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
   ]

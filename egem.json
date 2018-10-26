@@ -118,6 +118,15 @@
  		"miners":"https://egem.p00l.org/api/miners",
  		"url":"egem.p00l.org",
  		"notify":"info@p00l.org"
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://egem.terrahash.cc/api/stats",
+ 		"blocks":"http://egem.terrahash.cc/api/blocks",
+ 		"payments":"http://egem.terrahash.cc/api/payments",
+ 		"accounts":"http://egem.terrahash.cc/api/accounts",
+ 		"miners":"http://egem.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
   ]
-  

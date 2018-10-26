@@ -58,5 +58,15 @@
 		"miners":"https://vic.pool.sexy/api/miners",
 		"url":"vic.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"TERRAHASH.CC",
+ 		"stats":"http://vic.terrahash.cc/api/stats",
+ 		"blocks":"http://vic.terrahash.cc/api/blocks",
+ 		"payments":"http://vic.terrahash.cc/api/payments",
+ 		"accounts":"http://vic.terrahash.cc/api/accounts",
+ 		"miners":"http://vic.terrahash.cc/api/miners",
+ 		"url":"terrahash.cc",
+ 		"notify":"terrahash.cc@gmail.com"
 	}
 ]

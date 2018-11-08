@@ -68,5 +68,15 @@
  		"miners":"http://ether1.ethashmines.com/api/miners",
  		"url":"ether1.ethashmines.com",
  		"notify":""
+	},
+	{
+ 		"name":"Uleypool",
+ 		"stats":"https://uleypool.com/etho/api/stats",
+ 		"blocks":"https://uleypool.com/etho/api/blocks",
+ 		"payments":"https://uleypool.com/etho/api/payments",
+ 		"accounts":"https://uleypool.com/etho/api/accounts",
+ 		"miners":"https://uleypool.com/etho/api/miners",
+ 		"url":"uleypool.com",
+ 		"notify":"support@uleypool.com"
 	}
   ]

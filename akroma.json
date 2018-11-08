@@ -98,5 +98,15 @@
 		"miners":"https://akroma.bylt.gq/api/miners",
 		"url":"akroma.bylt.gq",
 		"notify":""
+	},
+	{
+ 		"name":"Uleypool",
+ 		"stats":"https://uleypool.com/aka/api/stats",
+ 		"blocks":"https://uleypool.com/aka/api/blocks",
+ 		"payments":"https://uleypool.com/aka/api/payments",
+ 		"accounts":"https://uleypool.com/aka/api/accounts",
+ 		"miners":"https://uleypool.com/aka/api/miners",
+ 		"url":"uleypool.com",
+ 		"notify":"support@uleypool.com"
 	}
 ]

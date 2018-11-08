@@ -38,5 +38,15 @@
 		"miners":"http://whale.mole-pool.net/api/miners",
 		"url":"whale.mole-pool.net",
 		"notify":""
+	},
+	{
+ 		"name":"Uleypool",
+ 		"stats":"https://uleypool.com/whl/api/stats",
+ 		"blocks":"https://uleypool.com/whl/api/blocks",
+ 		"payments":"https://uleypool.com/whl/api/payments",
+ 		"accounts":"https://uleypool.com/whl/api/accounts",
+ 		"miners":"https://uleypool.com/whl/api/miners",
+ 		"url":"uleypool.com",
+ 		"notify":"support@uleypool.com"
 	}
 ]

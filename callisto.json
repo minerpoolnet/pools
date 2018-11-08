@@ -59,16 +59,16 @@
  		"url":"clo.2miners.com",
  		"notify":""
 	},
-    {
-      "name":"POOL.SEXY",
-      "stats":"http://clo.pool.sexy/api/stats",
-      "blocks":"https://clo.pool.sexy/api/blocks",
-      "payments":"https://clo.pool.sexy/api/payments",
-      "accounts":"https://clo.pool.sexy/api/accounts",
-      "miners":"https://clo.pool.sexy/api/miners",
-      "url":"clo.pool.sexy",
-      "notify":""
-    },
+	{
+	      	"name":"POOL.SEXY",
+	      	"stats":"http://clo.pool.sexy/api/stats",
+	      	"blocks":"https://clo.pool.sexy/api/blocks",
+	      	"payments":"https://clo.pool.sexy/api/payments",
+	      	"accounts":"https://clo.pool.sexy/api/accounts",
+	      	"miners":"https://clo.pool.sexy/api/miners",
+	      	"url":"clo.pool.sexy",
+	      	"notify":""
+	},
 	{
         	"name":"MOLE-POOL",
         	"stats":"http://clo.mole-pool.net:9393/api/stats",
@@ -128,5 +128,15 @@
  		"miners":"http://farmine.net/api/miners",
  		"url":"farmine.net",
  		"notify":"legift@mail.ru"
+	},
+	{
+ 		"name":"Uleypool",
+ 		"stats":"https://uleypool.com/clo/api/stats",
+ 		"blocks":"https://uleypool.com/clo/api/blocks",
+ 		"payments":"https://uleypool.com/clo/api/payments",
+ 		"accounts":"https://uleypool.com/clo/api/accounts",
+ 		"miners":"https://uleypool.com/clo/api/miners",
+ 		"url":"uleypool.com",
+ 		"notify":"support@uleypool.com"
 	}
   ]

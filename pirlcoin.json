@@ -230,13 +230,13 @@
 		"notify":""
 	},
 	{  
-		"name":"ULEYPOOL.COM",
-		"stats":"http://pirl.uleypool.com:58080/api/stats",
-		"blocks":"http://pirl.uleypool.com:58080/api/blocks",
-		"payments":"http://pirl.uleypool.com:58080/api/payments",
-		"accounts":"http://pirl.uleypool.com:58080/api/accounts",
-  		"miners":"http://pirl.uleypool.com:58080/api/miners",
-		"url":"pirl.uleypool.com",
+		"name":"Uleypool",
+		"stats":"https://uleypool.com/pirl/api/stats",
+		"blocks":"https://uleypool.com/pirl/api/blocks",
+		"payments":"https://uleypool.com/pirl/api/payments",
+		"accounts":"https://uleypool.com/pirl/api/accounts",
+  		"miners":"https://uleypool.com/pirl/api/miners",
+		"url":"uleypool.com",
         	"notify":"support@uleypool.com"
     	},
 	{  

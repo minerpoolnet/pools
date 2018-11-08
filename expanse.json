@@ -98,5 +98,15 @@
 		"miners":"https://exp.pool.sexy/api/miners",
 		"url":"exp.pool.sexy",
 		"notify":""
+	},
+	{
+ 		"name":"Uleypool",
+ 		"stats":"https://uleypool.com/exp/api/stats",
+ 		"blocks":"https://uleypool.com/exp/api/blocks",
+ 		"payments":"https://uleypool.com/exp/api/payments",
+ 		"accounts":"https://uleypool.com/exp/api/accounts",
+ 		"miners":"https://uleypool.com/exp/api/miners",
+ 		"url":"uleypool.com",
+ 		"notify":"support@uleypool.com"
 	}
 ]

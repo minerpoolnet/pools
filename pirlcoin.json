@@ -101,12 +101,12 @@
 	},
 	{
 		"name":"BAIKALMINE",
-		"stats":"http://pirl.baikalmine.ru/api/stats",
-		"blocks":"http://pirl.baikalmine.ru/api/blocks",
-		"payments":"http://pirl.baikalmine.ru/api/payments",
-		"accounts":"http://pirl.baikalmine.ru/api/accounts",
-		"miners":"http://pirl.baikalmine.ru/api/miners",
-		"url":"pirl.baikalmine.ru",
+		"stats":"http://pirl.baikalmine.com:8393/api/stats",
+		"blocks":"http://pirl.baikalmine.com:8393/api/blocks",
+		"payments":"http://pirl.baikalmine.com:8393/api/payments",
+		"accounts":"http://pirl.baikalmine.com:8393/api/accounts",
+		"miners":"http://pirl.baikalmine.com:8393/api/miners",
+		"url":"pool.baikalmine.com/en/pirl/",
 		"notify":""
 	},
 	{
